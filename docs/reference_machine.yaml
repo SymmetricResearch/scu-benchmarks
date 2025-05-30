@@ -1,0 +1,41 @@
+# Reference Machine Schema
+# This YAML schema defines the structure for reference machine configurations
+# used in SCU benchmarking and normalization processes.
+
+reference_machine:
+  # CPU architecture (e.g., x86_64, arm64, riscv64)
+  arch: string
+  
+  # CPU model identifier (e.g., "Intel Xeon E5-2686 v4", "AMD EPYC 7742")
+  cpu_model: string
+  
+  # Number of CPU cores
+  cores: integer
+  
+  # Memory in gigabytes
+  mem_gb: integer
+  
+  # Operating system (e.g., "Ubuntu 22.04", "CentOS 8", "Windows Server 2022")
+  os: string
+  
+  # Version information for benchmark suites used
+  benchmark_suite_versions:
+    # MLPerf version (if applicable)
+    mlperf: string
+    # SPEC CPU version (if applicable)  
+    spec_cpu: string
+    # Custom benchmark versions
+    custom: object
+
+# Example configuration:
+# reference_machine:
+#   arch: "x86_64"
+#   cpu_model: "Intel Xeon E5-2686 v4"
+#   cores: 16
+#   mem_gb: 64
+#   os: "Ubuntu 22.04"
+#   benchmark_suite_versions:
+#     mlperf: "v3.1"
+#     spec_cpu: "2017"
+#     custom:
+#       scu_bench: "v1.0"
