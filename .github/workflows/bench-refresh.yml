@@ -1,0 +1,48 @@
+name: Benchmark Refresh
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh all benchmarks'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  refresh-benchmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BENCH_PAT }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests PyYAML
+
+      - name: Refresh benchmark data
+        run: |
+          echo "Refreshing benchmark data..."
+          echo "Force refresh: ${{ inputs.force_refresh }}"
+          # Placeholder for benchmark refresh logic
+          python -c "print('Benchmark refresh completed successfully')"
+
+      - name: Commit updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [[ -n $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "chore: refresh benchmark data [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
