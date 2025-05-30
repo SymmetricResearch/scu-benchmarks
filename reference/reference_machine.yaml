@@ -1,0 +1,27 @@
+# Reference machine configuration for SCU normalization
+# Based on standardized hardware profile
+
+machine_profile:
+  name: "SCU Reference Machine v1.0"
+  cpu:
+    model: "Intel Xeon Gold 6230"
+    cores: 20
+    threads: 40
+    base_freq_ghz: 2.1
+    boost_freq_ghz: 3.9
+  memory:
+    capacity_gb: 192
+    type: "DDR4-2933"
+    channels: 6
+  storage:
+    type: "NVMe SSD"
+    capacity_gb: 1000
+    read_iops: 500000
+  network:
+    bandwidth_gbps: 25
+    latency_us: 1.0
+
+scu_calibration:
+  gamma: 0.82  # Energy efficiency factor
+  beta: 1.00   # Performance scaling factor
+  baseline_ops_per_joule: 1000000

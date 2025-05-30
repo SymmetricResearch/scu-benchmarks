@@ -1,0 +1,5 @@
+# SCU Benchmarks Dependencies
+pytest>=7.0.0
+pyyaml>=6.0
+numpy>=1.21.0
+# TODO: Add specific benchmark dependencies as needed
