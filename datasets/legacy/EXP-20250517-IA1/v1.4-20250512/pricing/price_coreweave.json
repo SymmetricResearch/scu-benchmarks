@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "coreweave_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 0.714447835054999,
+    "normalized_cost": 0.7046398022319842,
+    "spot_ratio": 0.54478731135523
+  },
+  {
+    "instance_id": "coreweave_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 2.039308602786129,
+    "normalized_cost": 0.9092660346355605,
+    "spot_ratio": 0.42461214110723944
+  },
+  {
+    "instance_id": "coreweave_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 1.436515258063572,
+    "normalized_cost": 0.7977605944501834,
+    "spot_ratio": 0.5779377702757474
+  },
+  {
+    "instance_id": "coreweave_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.956592777920083,
+    "normalized_cost": 1.0094590935645753,
+    "spot_ratio": 0.6306380261153275
+  },
+  {
+    "instance_id": "coreweave_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 1.2693984976725605,
+    "normalized_cost": 1.192892823639749,
+    "spot_ratio": 0.539728814799449
+  },
+  {
+    "instance_id": "coreweave_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 2.358110030864886,
+    "normalized_cost": 1.1172506824275836,
+    "spot_ratio": 0.43069716386331897
+  },
+  {
+    "instance_id": "coreweave_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 0.7961141467349904,
+    "normalized_cost": 0.8165852821589965,
+    "spot_ratio": 0.7151236043760304
+  },
+  {
+    "instance_id": "coreweave_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.5956551298790704,
+    "normalized_cost": 0.8555675529445361,
+    "spot_ratio": 0.3976971776374316
+  },
+  {
+    "instance_id": "coreweave_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 2.4165646787318575,
+    "normalized_cost": 0.8337902619730482,
+    "spot_ratio": 0.7224755470376212
+  },
+  {
+    "instance_id": "coreweave_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 2.170662595063104,
+    "normalized_cost": 1.0403575255422768,
+    "spot_ratio": 0.7302197280056688
+  },
+  {
+    "instance_id": "coreweave_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 1.036231076967564,
+    "normalized_cost": 1.0000380745177706,
+    "spot_ratio": 0.6867212768660931
+  },
+  {
+    "instance_id": "coreweave_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 0.8698863953851819,
+    "normalized_cost": 1.1785527115700474,
+    "spot_ratio": 0.48183308793515744
+  },
+  {
+    "instance_id": "coreweave_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 1.728176935988282,
+    "normalized_cost": 0.9317896720442163,
+    "spot_ratio": 0.5772258437225424
+  },
+  {
+    "instance_id": "coreweave_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 0.576277408405897,
+    "normalized_cost": 1.1026393926372116,
+    "spot_ratio": 0.3766469581117192
+  },
+  {
+    "instance_id": "coreweave_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.6804055069765664,
+    "normalized_cost": 0.7499157305780149,
+    "spot_ratio": 0.5084197294799122
+  },
+  {
+    "instance_id": "coreweave_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.984577017330351,
+    "normalized_cost": 1.0967401231471627,
+    "spot_ratio": 0.7201860056252674
+  },
+  {
+    "instance_id": "coreweave_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.5202560763184942,
+    "normalized_cost": 1.1370930204874827,
+    "spot_ratio": 0.7941589292224783
+  },
+  {
+    "instance_id": "coreweave_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "eu-central",
+    "price_usd": 2.2954158876141086,
+    "normalized_cost": 1.0483227030827929,
+    "spot_ratio": 0.6786930386816737
+  },
+  {
+    "instance_id": "coreweave_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 2.1083848301424437,
+    "normalized_cost": 1.0813289276489177,
+    "spot_ratio": 0.47414401081619545
+  },
+  {
+    "instance_id": "coreweave_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.6377313212892213,
+    "normalized_cost": 0.970448287838499,
+    "spot_ratio": 0.3269063839752114
+  },
+  {
+    "instance_id": "coreweave_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.0811085970994567,
+    "normalized_cost": 1.0186048286558775,
+    "spot_ratio": 0.5920223579113273
+  },
+  {
+    "instance_id": "coreweave_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.6361875393911116,
+    "normalized_cost": 0.8256221415018521,
+    "spot_ratio": 0.5405542796713481
+  },
+  {
+    "instance_id": "coreweave_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 2.1829494679528176,
+    "normalized_cost": 0.9741226765275048,
+    "spot_ratio": 0.40310322930041453
+  },
+  {
+    "instance_id": "coreweave_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.4098079721399408,
+    "normalized_cost": 1.1009303100686436,
+    "spot_ratio": 0.5271517778285082
+  },
+  {
+    "instance_id": "coreweave_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 2.392019839651002,
+    "normalized_cost": 0.8313434878612458,
+    "spot_ratio": 0.7700925139980253
+  },
+  {
+    "instance_id": "coreweave_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 2.1389003680739958,
+    "normalized_cost": 0.855763233679393,
+    "spot_ratio": 0.6718961275529425
+  },
+  {
+    "instance_id": "coreweave_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.8762604377992991,
+    "normalized_cost": 1.1824568605244234,
+    "spot_ratio": 0.580029580253053
+  },
+  {
+    "instance_id": "coreweave_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 2.2720823225444566,
+    "normalized_cost": 0.7668344106443761,
+    "spot_ratio": 0.45652750233250605
+  },
+  {
+    "instance_id": "coreweave_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 2.3651272978894298,
+    "normalized_cost": 0.8665383522729277,
+    "spot_ratio": 0.6714181549151133
+  },
+  {
+    "instance_id": "coreweave_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 2.321969206693573,
+    "normalized_cost": 0.9075296792033434,
+    "spot_ratio": 0.4690797133999742
+  },
+  {
+    "instance_id": "coreweave_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.338889269174689,
+    "normalized_cost": 0.9063189359464696,
+    "spot_ratio": 0.3786366242905566
+  },
+  {
+    "instance_id": "coreweave_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.4862895497550637,
+    "normalized_cost": 1.0676323113165895,
+    "spot_ratio": 0.5874395144618445
+  },
+  {
+    "instance_id": "coreweave_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 2.4323803913031146,
+    "normalized_cost": 0.800314970376017,
+    "spot_ratio": 0.7623469002302301
+  },
+  {
+    "instance_id": "coreweave_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 2.3171882305734623,
+    "normalized_cost": 0.885627463437604,
+    "spot_ratio": 0.6435381466124732
+  },
+  {
+    "instance_id": "coreweave_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 1.015511955104488,
+    "normalized_cost": 0.8755168764412093,
+    "spot_ratio": 0.6215142814470815
+  },
+  {
+    "instance_id": "coreweave_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 2.2423302118792887,
+    "normalized_cost": 0.8717165705481065,
+    "spot_ratio": 0.6718303560725715
+  },
+  {
+    "instance_id": "coreweave_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 0.9046041665626496,
+    "normalized_cost": 1.0786956969006034,
+    "spot_ratio": 0.7250230147869743
+  },
+  {
+    "instance_id": "coreweave_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.4961564982136846,
+    "normalized_cost": 0.9915362484538965,
+    "spot_ratio": 0.5326966652128737
+  },
+  {
+    "instance_id": "coreweave_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 0.5225539124729865,
+    "normalized_cost": 1.1463016006853177,
+    "spot_ratio": 0.41436589702718407
+  },
+  {
+    "instance_id": "coreweave_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 2.06697333995606,
+    "normalized_cost": 0.7258918578064469,
+    "spot_ratio": 0.46869401592470605
+  },
+  {
+    "instance_id": "coreweave_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.228332133728511,
+    "normalized_cost": 0.7971547764596869,
+    "spot_ratio": 0.4050416083150868
+  },
+  {
+    "instance_id": "coreweave_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 0.8206791779206777,
+    "normalized_cost": 0.9734046924895379,
+    "spot_ratio": 0.4437252009273315
+  },
+  {
+    "instance_id": "coreweave_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.9496295769827003,
+    "normalized_cost": 1.0470278061605263,
+    "spot_ratio": 0.4367068349761342
+  },
+  {
+    "instance_id": "coreweave_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 1.7064614911285179,
+    "normalized_cost": 0.7304405174667867,
+    "spot_ratio": 0.45982430594655954
+  },
+  {
+    "instance_id": "coreweave_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.59919177347582,
+    "normalized_cost": 0.8393783393239392,
+    "spot_ratio": 0.7250046154542273
+  },
+  {
+    "instance_id": "coreweave_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 2.1370581480021333,
+    "normalized_cost": 0.7224390953461386,
+    "spot_ratio": 0.5302843520893321
+  },
+  {
+    "instance_id": "coreweave_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 1.6246686499231673,
+    "normalized_cost": 1.0040103143891066,
+    "spot_ratio": 0.5160260593045718
+  },
+  {
+    "instance_id": "coreweave_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.295414680422459,
+    "normalized_cost": 0.9904105349792895,
+    "spot_ratio": 0.506493932698398
+  },
+  {
+    "instance_id": "coreweave_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.0711879315263624,
+    "normalized_cost": 0.9242556675825778,
+    "spot_ratio": 0.4718544558896508
+  },
+  {
+    "instance_id": "coreweave_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.8711868398413467,
+    "normalized_cost": 0.9959053837350381,
+    "spot_ratio": 0.6009351777486056
+  },
+  {
+    "instance_id": "coreweave_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.4823565160527632,
+    "normalized_cost": 0.8840637571115306,
+    "spot_ratio": 0.6249681181123582
+  },
+  {
+    "instance_id": "coreweave_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 1.6579748942716646,
+    "normalized_cost": 0.8205718274026422,
+    "spot_ratio": 0.3753866194827602
+  },
+  {
+    "instance_id": "coreweave_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 1.9438090500988805,
+    "normalized_cost": 1.0966825939533726,
+    "spot_ratio": 0.6640186047341818
+  },
+  {
+    "instance_id": "coreweave_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 0.8849650496592423,
+    "normalized_cost": 1.1497086591972798,
+    "spot_ratio": 0.6265849921180668
+  },
+  {
+    "instance_id": "coreweave_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.5145786249773603,
+    "normalized_cost": 0.9911132785905259,
+    "spot_ratio": 0.6385826441286728
+  },
+  {
+    "instance_id": "coreweave_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 0.8440950417739128,
+    "normalized_cost": 0.7009529169111643,
+    "spot_ratio": 0.4817111990760538
+  },
+  {
+    "instance_id": "coreweave_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 0.9366433214213665,
+    "normalized_cost": 0.8649180030198227,
+    "spot_ratio": 0.6526834024555266
+  },
+  {
+    "instance_id": "coreweave_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.017900343144669,
+    "normalized_cost": 0.9649612613381195,
+    "spot_ratio": 0.3657513924431024
+  },
+  {
+    "instance_id": "coreweave_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 2.4515277758044167,
+    "normalized_cost": 1.0344812144771556,
+    "spot_ratio": 0.689792085362644
+  },
+  {
+    "instance_id": "coreweave_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.5438891346669614,
+    "normalized_cost": 1.0274259144262927,
+    "spot_ratio": 0.4678337885494571
+  },
+  {
+    "instance_id": "coreweave_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.2011416820844263,
+    "normalized_cost": 1.0314191864807467,
+    "spot_ratio": 0.6581542581395458
+  },
+  {
+    "instance_id": "coreweave_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.5928997667413911,
+    "normalized_cost": 0.8313704482073532,
+    "spot_ratio": 0.7323446482649116
+  },
+  {
+    "instance_id": "coreweave_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.3343888980325957,
+    "normalized_cost": 0.7036814202672782,
+    "spot_ratio": 0.4563620949590996
+  },
+  {
+    "instance_id": "coreweave_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 0.7672650952883995,
+    "normalized_cost": 0.9411344573241817,
+    "spot_ratio": 0.787022568294756
+  },
+  {
+    "instance_id": "coreweave_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 2.261832196763036,
+    "normalized_cost": 1.1329514337498932,
+    "spot_ratio": 0.4679367097589488
+  },
+  {
+    "instance_id": "coreweave_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 0.9884523320322423,
+    "normalized_cost": 0.9276033033800228,
+    "spot_ratio": 0.39093618580732226
+  },
+  {
+    "instance_id": "coreweave_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 1.6228551320278732,
+    "normalized_cost": 0.7919075378299966,
+    "spot_ratio": 0.3372347606804424
+  },
+  {
+    "instance_id": "coreweave_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 2.409892706797548,
+    "normalized_cost": 0.9170554405211502,
+    "spot_ratio": 0.5951684112834159
+  },
+  {
+    "instance_id": "coreweave_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 2.072094295537072,
+    "normalized_cost": 0.9408358163897441,
+    "spot_ratio": 0.4550918374158238
+  },
+  {
+    "instance_id": "coreweave_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.6245871074547842,
+    "normalized_cost": 1.1940502683694068,
+    "spot_ratio": 0.7349587686608039
+  },
+  {
+    "instance_id": "coreweave_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.5063349781799515,
+    "normalized_cost": 1.0332797480137987,
+    "spot_ratio": 0.6869956844860536
+  },
+  {
+    "instance_id": "coreweave_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 2.3472039150714368,
+    "normalized_cost": 0.7002564353169054,
+    "spot_ratio": 0.589326284501301
+  },
+  {
+    "instance_id": "coreweave_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 2.448147094939346,
+    "normalized_cost": 0.9358965203471143,
+    "spot_ratio": 0.7786188095309861
+  },
+  {
+    "instance_id": "coreweave_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.3972247923861114,
+    "normalized_cost": 0.8375073835495714,
+    "spot_ratio": 0.3047510314557113
+  },
+  {
+    "instance_id": "coreweave_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 1.946792968944178,
+    "normalized_cost": 0.7876269521068323,
+    "spot_ratio": 0.3473110651120231
+  }
+]

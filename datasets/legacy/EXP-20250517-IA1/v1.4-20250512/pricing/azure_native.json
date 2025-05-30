@@ -1,0 +1,202 @@
+[
+  {
+    "job_id": "azure_job_0",
+    "base_cost": 2.8775873577430784,
+    "normalized_cost": 0.8014481756982276,
+    "gpu_hours": 4.198484628326334,
+    "cpu_hours": 11.916285160405984,
+    "memory_gb_hours": 16.970922205110792
+  },
+  {
+    "job_id": "azure_job_1",
+    "base_cost": 2.1781973708921365,
+    "normalized_cost": 0.7745696859354495,
+    "gpu_hours": 4.103614032173882,
+    "cpu_hours": 18.69161083903545,
+    "memory_gb_hours": 38.39842742931504
+  },
+  {
+    "job_id": "azure_job_2",
+    "base_cost": 2.506427263069043,
+    "normalized_cost": 0.9416304728779087,
+    "gpu_hours": 5.079702209475771,
+    "cpu_hours": 17.996843888098415,
+    "memory_gb_hours": 33.2503015244283
+  },
+  {
+    "job_id": "azure_job_3",
+    "base_cost": 1.9168015170485704,
+    "normalized_cost": 0.942300268407828,
+    "gpu_hours": 6.061844111421809,
+    "cpu_hours": 10.791262762721246,
+    "memory_gb_hours": 41.65948319773882
+  },
+  {
+    "job_id": "azure_job_4",
+    "base_cost": 3.161428031668355,
+    "normalized_cost": 1.1696718060184248,
+    "gpu_hours": 4.6498496654654815,
+    "cpu_hours": 8.686888977347401,
+    "memory_gb_hours": 30.42386751294642
+  },
+  {
+    "job_id": "azure_job_5",
+    "base_cost": 4.283672633798149,
+    "normalized_cost": 0.8900106589033658,
+    "gpu_hours": 5.411431656493141,
+    "cpu_hours": 20.112643205984618,
+    "memory_gb_hours": 35.6522132851464
+  },
+  {
+    "job_id": "azure_job_6",
+    "base_cost": 3.5184499284060093,
+    "normalized_cost": 0.9083751959969552,
+    "gpu_hours": 8.851739774151268,
+    "cpu_hours": 18.57181959861619,
+    "memory_gb_hours": 29.469386181680285
+  },
+  {
+    "job_id": "azure_job_7",
+    "base_cost": 3.2700174113077605,
+    "normalized_cost": 0.9592649413025732,
+    "gpu_hours": 6.0829404131467175,
+    "cpu_hours": 20.384829538754307,
+    "memory_gb_hours": 27.535969125162886
+  },
+  {
+    "job_id": "azure_job_8",
+    "base_cost": 1.8156378933012713,
+    "normalized_cost": 0.9349196818233734,
+    "gpu_hours": 4.465366756281853,
+    "cpu_hours": 10.392973790605728,
+    "memory_gb_hours": 40.403458384197094
+  },
+  {
+    "job_id": "azure_job_9",
+    "base_cost": 2.405214240103925,
+    "normalized_cost": 0.9745018959773295,
+    "gpu_hours": 9.364755681881162,
+    "cpu_hours": 20.352126323196682,
+    "memory_gb_hours": 31.899185153434686
+  },
+  {
+    "job_id": "azure_job_10",
+    "base_cost": 3.7804843281450786,
+    "normalized_cost": 0.8210491024335064,
+    "gpu_hours": 4.9068547030995795,
+    "cpu_hours": 20.407489890626394,
+    "memory_gb_hours": 21.751643817452305
+  },
+  {
+    "job_id": "azure_job_11",
+    "base_cost": 2.3971135841140776,
+    "normalized_cost": 0.9706126462930108,
+    "gpu_hours": 3.848145703317626,
+    "cpu_hours": 7.996788663455525,
+    "memory_gb_hours": 23.240142604870393
+  },
+  {
+    "job_id": "azure_job_12",
+    "base_cost": 3.698582204566633,
+    "normalized_cost": 1.1733385609872298,
+    "gpu_hours": 6.514386410091432,
+    "cpu_hours": 10.19378601484034,
+    "memory_gb_hours": 28.325403305773882
+  },
+  {
+    "job_id": "azure_job_13",
+    "base_cost": 2.273415206948847,
+    "normalized_cost": 0.9677429356421313,
+    "gpu_hours": 5.426451066558199,
+    "cpu_hours": 17.42499900981619,
+    "memory_gb_hours": 26.608474493843325
+  },
+  {
+    "job_id": "azure_job_14",
+    "base_cost": 3.30392638891979,
+    "normalized_cost": 0.8221653866201681,
+    "gpu_hours": 6.322084380296785,
+    "cpu_hours": 12.234781940693082,
+    "memory_gb_hours": 27.454937216051817
+  },
+  {
+    "job_id": "azure_job_15",
+    "base_cost": 2.261956190477089,
+    "normalized_cost": 0.9925190389314885,
+    "gpu_hours": 4.303717982693931,
+    "cpu_hours": 15.716535426026157,
+    "memory_gb_hours": 32.69266391026086
+  },
+  {
+    "job_id": "azure_job_16",
+    "base_cost": 1.9213230708241344,
+    "normalized_cost": 0.9233388333732762,
+    "gpu_hours": 8.021217682924782,
+    "cpu_hours": 12.925896713563285,
+    "memory_gb_hours": 31.221602394194253
+  },
+  {
+    "job_id": "azure_job_17",
+    "base_cost": 1.9288292736090613,
+    "normalized_cost": 1.1625552428700126,
+    "gpu_hours": 5.755091238605994,
+    "cpu_hours": 15.232534296413208,
+    "memory_gb_hours": 31.793008946122985
+  },
+  {
+    "job_id": "azure_job_18",
+    "base_cost": 2.2416974246598733,
+    "normalized_cost": 0.8421500859918375,
+    "gpu_hours": 10.379570400505056,
+    "cpu_hours": 18.269988714209227,
+    "memory_gb_hours": 35.42858419065168
+  },
+  {
+    "job_id": "azure_job_19",
+    "base_cost": 1.8307881533280437,
+    "normalized_cost": 1.0597635300982962,
+    "gpu_hours": 5.885694480334103,
+    "cpu_hours": 14.179439496106731,
+    "memory_gb_hours": 14.341740681906447
+  },
+  {
+    "job_id": "azure_job_20",
+    "base_cost": 2.9999698094874656,
+    "normalized_cost": 0.8370692532385777,
+    "gpu_hours": 10.198518166119264,
+    "cpu_hours": 7.175054231526433,
+    "memory_gb_hours": 17.129929592424237
+  },
+  {
+    "job_id": "azure_job_21",
+    "base_cost": 3.2523790345980816,
+    "normalized_cost": 0.9178078834518477,
+    "gpu_hours": 4.1824373530951515,
+    "cpu_hours": 19.666887937041743,
+    "memory_gb_hours": 38.099225280542996
+  },
+  {
+    "job_id": "azure_job_22",
+    "base_cost": 2.090792573129324,
+    "normalized_cost": 0.9132808887565855,
+    "gpu_hours": 5.7373742188360755,
+    "cpu_hours": 11.324130737787085,
+    "memory_gb_hours": 23.196034718679492
+  },
+  {
+    "job_id": "azure_job_23",
+    "base_cost": 4.117014669037928,
+    "normalized_cost": 0.9875315772478118,
+    "gpu_hours": 9.1117352373921,
+    "cpu_hours": 16.631610781685158,
+    "memory_gb_hours": 28.263888614570096
+  },
+  {
+    "job_id": "azure_job_24",
+    "base_cost": 2.554093231690196,
+    "normalized_cost": 0.7720193220175436,
+    "gpu_hours": 3.5743755212229495,
+    "cpu_hours": 10.11765598496307,
+    "memory_gb_hours": 26.10676649772671
+  }
+]

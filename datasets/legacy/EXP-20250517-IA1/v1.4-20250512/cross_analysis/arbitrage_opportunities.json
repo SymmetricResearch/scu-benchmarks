@@ -1,0 +1,1082 @@
+[
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 9.738723303291287,
+    "cheaper_cost": 0.7900115066302263,
+    "expensive_cost": 0.8669485413251068,
+    "savings_potential": 0.07693703469488045
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "azure",
+    "expensive_provider": "oci",
+    "price_diff_pct": 10.192169795634832,
+    "cheaper_cost": 0.7900115066302263,
+    "expensive_cost": 0.870530820791032,
+    "savings_potential": 0.0805193141608056
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 22.828060539355466,
+    "cheaper_cost": 0.7900115066302263,
+    "expensive_cost": 0.9703558116316486,
+    "savings_potential": 0.1803443050014223
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 26.580434792079693,
+    "cheaper_cost": 0.7900115066302263,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.20998849336977365
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 8.656419691550495,
+    "cheaper_cost": 0.7978806441314427,
+    "expensive_cost": 0.8669485413251068,
+    "savings_potential": 0.06906789719366413
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "oci",
+    "price_diff_pct": 9.105394045330534,
+    "cheaper_cost": 0.7978806441314427,
+    "expensive_cost": 0.870530820791032,
+    "savings_potential": 0.07265017665958928
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 21.616662688685608,
+    "cheaper_cost": 0.7978806441314427,
+    "expensive_cost": 0.9703558116316486,
+    "savings_potential": 0.17247516750020597
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 25.332028963878493,
+    "cheaper_cost": 0.7978806441314427,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.20211935586855734
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 5.29474685866029,
+    "cheaper_cost": 0.8233540297018169,
+    "expensive_cost": 0.8669485413251068,
+    "savings_potential": 0.04359451162328987
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "oci",
+    "price_diff_pct": 5.72983059380913,
+    "cheaper_cost": 0.8233540297018169,
+    "expensive_cost": 0.870530820791032,
+    "savings_potential": 0.04717679108921502
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 17.854018639232187,
+    "cheaper_cost": 0.8233540297018169,
+    "expensive_cost": 0.9703558116316486,
+    "savings_potential": 0.1470017819298317
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 21.454436843183554,
+    "cheaper_cost": 0.8233540297018169,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.17664597029818307
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 11.927728737911792,
+    "cheaper_cost": 0.8669485413251068,
+    "expensive_cost": 0.9703558116316486,
+    "savings_potential": 0.10340727030654184
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 15.347099894940447,
+    "cheaper_cost": 0.8669485413251068,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1330514586748932
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 11.46714033052936,
+    "cheaper_cost": 0.870530820791032,
+    "expensive_cost": 0.9703558116316486,
+    "savings_potential": 0.09982499084061669
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 14.87244059794716,
+    "cheaper_cost": 0.870530820791032,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.12946917920896805
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 10.83900774535622,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 0.7836700818921184,
+    "savings_potential": 0.07663552985738897
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "hetzner",
+    "price_diff_pct": 10.843772532084252,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 0.7837037705806164,
+    "savings_potential": 0.07666921854588693
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "oci",
+    "price_diff_pct": 13.204838116629059,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 0.8003973200595489,
+    "savings_potential": 0.09336276802481946
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 20.402072490021652,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 0.8512842538703548,
+    "savings_potential": 0.14424970183562535
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 33.48667211207581,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 0.9437968941936833,
+    "savings_potential": 0.23676234215895386
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 41.43580354342855,
+    "cheaper_cost": 0.7070345520347294,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.2929654479652706
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 8.627887364921031,
+    "cheaper_cost": 0.7836700818921184,
+    "expensive_cost": 0.8512842538703548,
+    "savings_potential": 0.06761417197823638
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 20.432936767848727,
+    "cheaper_cost": 0.7836700818921184,
+    "expensive_cost": 0.9437968941936833,
+    "savings_potential": 0.1601268123015649
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 27.604718248981463,
+    "cheaper_cost": 0.7836700818921184,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.2163299181078816
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 8.62321783135873,
+    "cheaper_cost": 0.7837037705806164,
+    "expensive_cost": 0.8512842538703548,
+    "savings_potential": 0.06758048328973842
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 20.427759776434407,
+    "cheaper_cost": 0.7837037705806164,
+    "expensive_cost": 0.9437968941936833,
+    "savings_potential": 0.16009312361306693
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 27.59923296772427,
+    "cheaper_cost": 0.7837037705806164,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.21629622941938365
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "oci",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 6.357709169618402,
+    "cheaper_cost": 0.8003973200595489,
+    "expensive_cost": 0.8512842538703548,
+    "savings_potential": 0.05088693381080589
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 17.916048759816636,
+    "cheaper_cost": 0.8003973200595489,
+    "expensive_cost": 0.9437968941936833,
+    "savings_potential": 0.1433995741341344
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 24.937949558052097,
+    "cheaper_cost": 0.8003973200595489,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1996026799404511
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 10.86742059455708,
+    "cheaper_cost": 0.8512842538703548,
+    "expensive_cost": 0.9437968941936833,
+    "savings_potential": 0.09251264032332851
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 17.469575579897157,
+    "cheaper_cost": 0.8512842538703548,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.14871574612964522
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "cheaper_provider": "linode",
+    "expensive_provider": "aws",
+    "price_diff_pct": 5.955000080216716,
+    "cheaper_cost": 0.9437968941936833,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.05620310580631671
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 6.604858792695456,
+    "cheaper_cost": 0.7995473425058112,
+    "expensive_cost": 0.8523563154590691,
+    "savings_potential": 0.05280897295325793
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "azure",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 8.95880016607669,
+    "cheaper_cost": 0.7995473425058112,
+    "expensive_cost": 0.8711771911540835,
+    "savings_potential": 0.07162984864827238
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 23.634443259622778,
+    "cheaper_cost": 0.7995473425058112,
+    "expensive_cost": 0.9885159055041689,
+    "savings_potential": 0.18896856299835774
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 25.07076777542187,
+    "cheaper_cost": 0.7995473425058112,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.20045265749418884
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "oci",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 5.421070619411043,
+    "cheaper_cost": 0.8085255731619613,
+    "expensive_cost": 0.8523563154590691,
+    "savings_potential": 0.043830742297107816
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "oci",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 7.748872771841453,
+    "cheaper_cost": 0.8085255731619613,
+    "expensive_cost": 0.8711771911540835,
+    "savings_potential": 0.06265161799212227
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 22.261550941215873,
+    "cheaper_cost": 0.8085255731619613,
+    "expensive_cost": 0.9885159055041689,
+    "savings_potential": 0.17999033234220763
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 23.681925865279116,
+    "cheaper_cost": 0.8085255731619613,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.19147442683803872
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 6.879442176942503,
+    "cheaper_cost": 0.8151026740126698,
+    "expensive_cost": 0.8711771911540835,
+    "savings_potential": 0.05607451714141376
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 21.2750168807327,
+    "cheaper_cost": 0.8151026740126698,
+    "expensive_cost": 0.9885159055041689,
+    "savings_potential": 0.17341323149149912
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 22.683930734406623,
+    "cheaper_cost": 0.8151026740126698,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.18489732598733022
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 15.974491838165807,
+    "cheaper_cost": 0.8523563154590691,
+    "expensive_cost": 0.9885159055041689,
+    "savings_potential": 0.1361595900450998
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 17.321826783369552,
+    "cheaper_cost": 0.8523563154590691,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1476436845409309
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 13.468983754572594,
+    "cheaper_cost": 0.8711771911540835,
+    "expensive_cost": 0.9885159055041689,
+    "savings_potential": 0.11733871435008536
+  },
+  {
+    "dataset": "alibaba2018",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 14.78721093182659,
+    "cheaper_cost": 0.8711771911540835,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.12882280884591646
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 9.777262773923502,
+    "cheaper_cost": 0.7845650367978332,
+    "expensive_cost": 0.861274022077887,
+    "savings_potential": 0.07670898528005377
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "azure",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 10.321170615282924,
+    "cheaper_cost": 0.7845650367978332,
+    "expensive_cost": 0.8655413328335948,
+    "savings_potential": 0.08097629603576162
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 15.532642356501361,
+    "cheaper_cost": 0.7845650367978332,
+    "expensive_cost": 0.9064287180177939,
+    "savings_potential": 0.12186368121996072
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 27.459159291810266,
+    "cheaper_cost": 0.7845650367978332,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.21543496320216682
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 7.733396542858929,
+    "cheaper_cost": 0.7994494276760795,
+    "expensive_cost": 0.861274022077887,
+    "savings_potential": 0.06182459440180743
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 8.267177743767723,
+    "cheaper_cost": 0.7994494276760795,
+    "expensive_cost": 0.8655413328335948,
+    "savings_potential": 0.06609190515751528
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 13.381620730243387,
+    "cheaper_cost": 0.7994494276760795,
+    "expensive_cost": 0.9064287180177939,
+    "savings_potential": 0.10697929034171438
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 25.086086171441913,
+    "cheaper_cost": 0.7994494276760795,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.20055057232392048
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "oci",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 7.49351978016838,
+    "cheaper_cost": 0.8012334360613099,
+    "expensive_cost": 0.861274022077887,
+    "savings_potential": 0.060040586016577024
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "oci",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 8.026112475835829,
+    "cheaper_cost": 0.8012334360613099,
+    "expensive_cost": 0.8655413328335948,
+    "savings_potential": 0.06430789677228488
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 13.129167758350327,
+    "cheaper_cost": 0.8012334360613099,
+    "expensive_cost": 0.9064287180177939,
+    "savings_potential": 0.10519528195648398
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 24.80757229950156,
+    "cheaper_cost": 0.8012334360613099,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.19876656393869008
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 5.242779276097046,
+    "cheaper_cost": 0.861274022077887,
+    "expensive_cost": 0.9064287180177939,
+    "savings_potential": 0.04515469593990695
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 16.10706631873401,
+    "cheaper_cost": 0.861274022077887,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.13872597792211305
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 15.534632728192962,
+    "cheaper_cost": 0.8655413328335948,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1344586671664052
+  },
+  {
+    "dataset": "azure_native",
+    "cheaper_provider": "linode",
+    "expensive_provider": "aws",
+    "price_diff_pct": 10.32307120485223,
+    "cheaper_cost": 0.9064287180177939,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.0935712819822061
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "hetzner",
+    "price_diff_pct": 7.138885285396096,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 0.7583744290060561,
+    "savings_potential": 0.05053205507627179
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "oci",
+    "price_diff_pct": 13.278709314578471,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 0.801834705169332,
+    "savings_potential": 0.09399233123954764
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 15.232436873235757,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 0.8156640167006521,
+    "savings_potential": 0.10782164277086781
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 23.96302353410248,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 0.8774628085789282,
+    "savings_potential": 0.1696204346491439
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 34.522382715012355,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 0.9522064272768533,
+    "savings_potential": 0.244364053347069
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 41.274390574870665,
+    "cheaper_cost": 0.7078423739297843,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.29215762607021567
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "oci",
+    "price_diff_pct": 5.730714868674561,
+    "cheaper_cost": 0.7583744290060561,
+    "expensive_cost": 0.801834705169332,
+    "savings_potential": 0.04346027616327586
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 7.554261523516971,
+    "cheaper_cost": 0.7583744290060561,
+    "expensive_cost": 0.8156640167006521,
+    "savings_potential": 0.05728958769459602
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 15.703111156971922,
+    "cheaper_cost": 0.7583744290060561,
+    "expensive_cost": 0.8774628085789282,
+    "savings_potential": 0.1190883795728721
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 25.55887841904666,
+    "cheaper_cost": 0.7583744290060561,
+    "expensive_cost": 0.9522064272768533,
+    "savings_potential": 0.19383199827079722
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 31.860986044930893,
+    "cheaper_cost": 0.7583744290060561,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.24162557099394388
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "oci",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 9.431882022819785,
+    "cheaper_cost": 0.801834705169332,
+    "expensive_cost": 0.8774628085789282,
+    "savings_potential": 0.07562810340959625
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 18.75345643411204,
+    "cheaper_cost": 0.801834705169332,
+    "expensive_cost": 0.9522064272768533,
+    "savings_potential": 0.15037172210752137
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 24.713983262774757,
+    "cheaper_cost": 0.801834705169332,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.19816529483066803
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 7.576500938247982,
+    "cheaper_cost": 0.8156640167006521,
+    "expensive_cost": 0.8774628085789282,
+    "savings_potential": 0.06179879187827608
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 16.740031162403493,
+    "cheaper_cost": 0.8156640167006521,
+    "expensive_cost": 0.9522064272768533,
+    "savings_potential": 0.1365424105762012
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 22.599499245410378,
+    "cheaper_cost": 0.8156640167006521,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.18433598329934786
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 8.518152332743787,
+    "cheaper_cost": 0.8774628085789282,
+    "expensive_cost": 0.9522064272768533,
+    "savings_potential": 0.07474361869792512
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 13.964944180315022,
+    "cheaper_cost": 0.8774628085789282,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.12253719142107178
+  },
+  {
+    "dataset": "jssp",
+    "cheaper_provider": "linode",
+    "expensive_provider": "aws",
+    "price_diff_pct": 5.0192449193845565,
+    "cheaper_cost": 0.9522064272768533,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.04779357272314666
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "azure",
+    "expensive_provider": "hetzner",
+    "price_diff_pct": 6.703429224336626,
+    "cheaper_cost": 0.7852958324918738,
+    "expensive_cost": 0.8379375828246317,
+    "savings_potential": 0.052641750332757864
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 11.338379270940026,
+    "cheaper_cost": 0.7852958324918738,
+    "expensive_cost": 0.8743356523786884,
+    "savings_potential": 0.08903981988681453
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "azure",
+    "expensive_provider": "oci",
+    "price_diff_pct": 14.40278501332368,
+    "cheaper_cost": 0.7852958324918738,
+    "expensive_cost": 0.8984003029642689,
+    "savings_potential": 0.11310447047239502
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 26.330952402775065,
+    "cheaper_cost": 0.7852958324918738,
+    "expensive_cost": 0.9920717043662853,
+    "savings_potential": 0.2067758718744115
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 27.34054589680353,
+    "cheaper_cost": 0.7852958324918738,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.21470416750812615
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 6.312196544092509,
+    "cheaper_cost": 0.8224227142330387,
+    "expensive_cost": 0.8743356523786884,
+    "savings_potential": 0.05191293814564968
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "oci",
+    "price_diff_pct": 9.23826487478329,
+    "cheaper_cost": 0.8224227142330387,
+    "expensive_cost": 0.8984003029642689,
+    "savings_potential": 0.07597758873123017
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 20.62795533212565,
+    "cheaper_cost": 0.8224227142330387,
+    "expensive_cost": 0.9920717043662853,
+    "savings_potential": 0.16964899013324664
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 21.591972436287023,
+    "cheaper_cost": 0.8224227142330387,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1775772857669613
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "oci",
+    "price_diff_pct": 7.215659182611354,
+    "cheaper_cost": 0.8379375828246317,
+    "expensive_cost": 0.8984003029642689,
+    "savings_potential": 0.06046272013963716
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 18.394463346789838,
+    "cheaper_cost": 0.8379375828246317,
+    "expensive_cost": 0.9920717043662853,
+    "savings_potential": 0.15413412154165362
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 19.340631151674412,
+    "cheaper_cost": 0.8379375828246317,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.1620624171753683
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "linode",
+    "price_diff_pct": 13.465772746117374,
+    "cheaper_cost": 0.8743356523786884,
+    "expensive_cost": 0.9920717043662853,
+    "savings_potential": 0.11773605198759696
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 14.372552151960566,
+    "cheaper_cost": 0.8743356523786884,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.12566434762131162
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 10.42646591869437,
+    "cheaper_cost": 0.8984003029642689,
+    "expensive_cost": 0.9920717043662853,
+    "savings_potential": 0.09367140140201646
+  },
+  {
+    "dataset": "star_job",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 11.308956230368942,
+    "cheaper_cost": 0.8984003029642689,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.10159969703573113
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "hetzner",
+    "price_diff_pct": 6.654484163013001,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 0.7524158654068407,
+    "savings_potential": 0.04694541912271433
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 15.50725780078712,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 0.8148695670977693,
+    "savings_potential": 0.10939912081364289
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "oci",
+    "price_diff_pct": 18.625505882230684,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 0.8368678857541754,
+    "savings_potential": 0.131397439470049
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "linode",
+    "price_diff_pct": 31.11542450375072,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 0.924980570393937,
+    "savings_potential": 0.21951012410981063
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 32.58378556390616,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 0.9353394237180779,
+    "savings_potential": 0.22986897743395152
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "azure",
+    "expensive_provider": "aws",
+    "price_diff_pct": 41.749382311793205,
+    "cheaper_cost": 0.7054704462841264,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.29452955371587364
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "nebius",
+    "price_diff_pct": 8.300423284822559,
+    "cheaper_cost": 0.7524158654068407,
+    "expensive_cost": 0.8148695670977693,
+    "savings_potential": 0.062453701690928565
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "oci",
+    "price_diff_pct": 11.224114778822534,
+    "cheaper_cost": 0.7524158654068407,
+    "expensive_cost": 0.8368678857541754,
+    "savings_potential": 0.08445202034733468
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "linode",
+    "price_diff_pct": 22.93475096963677,
+    "cheaper_cost": 0.7524158654068407,
+    "expensive_cost": 0.924980570393937,
+    "savings_potential": 0.1725647049870963
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 24.311496703000557,
+    "cheaper_cost": 0.7524158654068407,
+    "expensive_cost": 0.9353394237180779,
+    "savings_potential": 0.1829235583112372
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "hetzner",
+    "expensive_provider": "aws",
+    "price_diff_pct": 32.90522515222183,
+    "cheaper_cost": 0.7524158654068407,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.2475841345931593
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "linode",
+    "price_diff_pct": 13.512715131617679,
+    "cheaper_cost": 0.8148695670977693,
+    "expensive_cost": 0.924980570393937,
+    "savings_potential": 0.11011100329616774
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 14.783943527228876,
+    "cheaper_cost": 0.8148695670977693,
+    "expensive_cost": 0.9353394237180779,
+    "savings_potential": 0.12046985662030862
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "nebius",
+    "expensive_provider": "aws",
+    "price_diff_pct": 22.719026501577343,
+    "cheaper_cost": 0.8148695670977693,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.18513043290223075
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "oci",
+    "expensive_provider": "linode",
+    "price_diff_pct": 10.528864369117896,
+    "cheaper_cost": 0.8368678857541754,
+    "expensive_cost": 0.924980570393937,
+    "savings_potential": 0.08811268463976163
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "oci",
+    "expensive_provider": "coreweave",
+    "price_diff_pct": 11.766676633213274,
+    "cheaper_cost": 0.8368678857541754,
+    "expensive_cost": 0.9353394237180779,
+    "savings_potential": 0.09847153796390251
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "oci",
+    "expensive_provider": "aws",
+    "price_diff_pct": 19.49317413450654,
+    "cheaper_cost": 0.8368678857541754,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.16313211424582463
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "linode",
+    "expensive_provider": "aws",
+    "price_diff_pct": 8.110378964404974,
+    "cheaper_cost": 0.924980570393937,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.075019429606063
+  },
+  {
+    "dataset": "mega_math",
+    "cheaper_provider": "coreweave",
+    "expensive_provider": "aws",
+    "price_diff_pct": 6.913060076617874,
+    "cheaper_cost": 0.9353394237180779,
+    "expensive_cost": 1.0,
+    "savings_potential": 0.06466057628192212
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "job_id": "jssp_job_0",
+    "base_cost": 1.6267357316688733,
+    "normalized_cost": 0.7290035871918286,
+    "cpu_hours": 13.118553620820906,
+    "memory_gb_hours": 35.428427026940994
+  },
+  {
+    "job_id": "jssp_job_1",
+    "base_cost": 2.9551409235084596,
+    "normalized_cost": 0.8127740976718568,
+    "cpu_hours": 16.18362841496584,
+    "memory_gb_hours": 33.55694653041377
+  },
+  {
+    "job_id": "jssp_job_2",
+    "base_cost": 3.3174964889196827,
+    "normalized_cost": 0.77484836841731,
+    "cpu_hours": 12.389930468613077,
+    "memory_gb_hours": 11.844444944431412
+  },
+  {
+    "job_id": "jssp_job_3",
+    "base_cost": 3.245980036182576,
+    "normalized_cost": 1.011808763536631,
+    "cpu_hours": 12.495621615847845,
+    "memory_gb_hours": 32.65988984282825
+  },
+  {
+    "job_id": "jssp_job_4",
+    "base_cost": 3.4957644402472647,
+    "normalized_cost": 0.7184981321552928,
+    "cpu_hours": 19.95763442060285,
+    "memory_gb_hours": 14.238821588304756
+  },
+  {
+    "job_id": "jssp_job_5",
+    "base_cost": 1.52331288873748,
+    "normalized_cost": 0.9037318440808362,
+    "cpu_hours": 7.375204009541858,
+    "memory_gb_hours": 32.99129544270484
+  },
+  {
+    "job_id": "jssp_job_6",
+    "base_cost": 1.6721291936116938,
+    "normalized_cost": 0.7921087335203698,
+    "cpu_hours": 15.00570516509178,
+    "memory_gb_hours": 39.92409162010501
+  },
+  {
+    "job_id": "jssp_job_7",
+    "base_cost": 3.851855516360079,
+    "normalized_cost": 1.0837253640278568,
+    "cpu_hours": 16.971714911844572,
+    "memory_gb_hours": 11.044726372954566
+  },
+  {
+    "job_id": "jssp_job_8",
+    "base_cost": 2.034009369574692,
+    "normalized_cost": 0.9467403082025352,
+    "cpu_hours": 10.742775410579075,
+    "memory_gb_hours": 36.9611522328361
+  },
+  {
+    "job_id": "jssp_job_9",
+    "base_cost": 1.5642200628602483,
+    "normalized_cost": 0.771221481340252,
+    "cpu_hours": 7.738566273033795,
+    "memory_gb_hours": 23.123570650520293
+  },
+  {
+    "job_id": "jssp_job_10",
+    "base_cost": 3.8763037790569865,
+    "normalized_cost": 1.134603040209759,
+    "cpu_hours": 14.168407952654793,
+    "memory_gb_hours": 35.83848427015337
+  },
+  {
+    "job_id": "jssp_job_11",
+    "base_cost": 3.058466432067021,
+    "normalized_cost": 0.7393665035632768,
+    "cpu_hours": 5.412723615642726,
+    "memory_gb_hours": 16.25353544626035
+  },
+  {
+    "job_id": "jssp_job_12",
+    "base_cost": 3.7739243941094296,
+    "normalized_cost": 1.0028074914105543,
+    "cpu_hours": 9.706244205573086,
+    "memory_gb_hours": 18.340745403249525
+  },
+  {
+    "job_id": "jssp_job_13",
+    "base_cost": 1.7648673636571321,
+    "normalized_cost": 0.852761641400231,
+    "cpu_hours": 15.031149463531326,
+    "memory_gb_hours": 19.76662262532866
+  },
+  {
+    "job_id": "jssp_job_14",
+    "base_cost": 3.7292389519002103,
+    "normalized_cost": 1.1687891419201424,
+    "cpu_hours": 17.03457506590985,
+    "memory_gb_hours": 37.66730706619883
+  },
+  {
+    "job_id": "jssp_job_15",
+    "base_cost": 1.7441446358945507,
+    "normalized_cost": 0.7379892419796845,
+    "cpu_hours": 10.547575567191425,
+    "memory_gb_hours": 26.04330303753135
+  },
+  {
+    "job_id": "jssp_job_16",
+    "base_cost": 1.9413919285191028,
+    "normalized_cost": 0.8546964584907462,
+    "cpu_hours": 16.710024990080395,
+    "memory_gb_hours": 24.86652701490211
+  },
+  {
+    "job_id": "jssp_job_17",
+    "base_cost": 3.7501472160487705,
+    "normalized_cost": 0.9149687956640774,
+    "cpu_hours": 19.99253617590124,
+    "memory_gb_hours": 31.717068344537655
+  },
+  {
+    "job_id": "jssp_job_18",
+    "base_cost": 3.9124442154378047,
+    "normalized_cost": 0.8162255635794077,
+    "cpu_hours": 5.694989842178093,
+    "memory_gb_hours": 24.242961377812453
+  },
+  {
+    "job_id": "jssp_job_19",
+    "base_cost": 1.6925816507320188,
+    "normalized_cost": 1.1152195245968484,
+    "cpu_hours": 10.96565794222078,
+    "memory_gb_hours": 30.874418797351318
+  },
+  {
+    "job_id": "jssp_job_20",
+    "base_cost": 2.9107980907243522,
+    "normalized_cost": 1.1648018469522654,
+    "cpu_hours": 8.540170244472545,
+    "memory_gb_hours": 10.439913279791885
+  },
+  {
+    "job_id": "jssp_job_21",
+    "base_cost": 2.3626118532088256,
+    "normalized_cost": 1.1809927264992748,
+    "cpu_hours": 9.24708108683216,
+    "memory_gb_hours": 38.544545267541636
+  },
+  {
+    "job_id": "jssp_job_22",
+    "base_cost": 3.640662379829576,
+    "normalized_cost": 0.8222139304755034,
+    "cpu_hours": 10.26822196285012,
+    "memory_gb_hours": 27.738295250059004
+  },
+  {
+    "job_id": "jssp_job_23",
+    "base_cost": 2.2224536471126513,
+    "normalized_cost": 0.8856196630656308,
+    "cpu_hours": 15.573067820284354,
+    "memory_gb_hours": 34.34684717863728
+  },
+  {
+    "job_id": "jssp_job_24",
+    "base_cost": 2.8041935133140825,
+    "normalized_cost": 1.1705339860001835,
+    "cpu_hours": 13.836222752174445,
+    "memory_gb_hours": 14.115970963251055
+  },
+  {
+    "job_id": "jssp_job_25",
+    "base_cost": 3.2574023928151554,
+    "normalized_cost": 0.995823173982481,
+    "cpu_hours": 12.589759388140951,
+    "memory_gb_hours": 19.018434311620464
+  },
+  {
+    "job_id": "jssp_job_26",
+    "base_cost": 3.07950246840584,
+    "normalized_cost": 0.7982784658281915,
+    "cpu_hours": 7.582507447927397,
+    "memory_gb_hours": 26.85780627356244
+  },
+  {
+    "job_id": "jssp_job_27",
+    "base_cost": 2.4389283617284003,
+    "normalized_cost": 0.7358076204330661,
+    "cpu_hours": 10.125594902043314,
+    "memory_gb_hours": 39.60999828677859
+  },
+  {
+    "job_id": "jssp_job_28",
+    "base_cost": 3.387485032468973,
+    "normalized_cost": 1.0082462611452665,
+    "cpu_hours": 13.927277393631742,
+    "memory_gb_hours": 32.30536941170024
+  },
+  {
+    "job_id": "jssp_job_29",
+    "base_cost": 3.737982162724652,
+    "normalized_cost": 0.8338446405169353,
+    "cpu_hours": 11.427809342415564,
+    "memory_gb_hours": 20.334306079633706
+  }
+]

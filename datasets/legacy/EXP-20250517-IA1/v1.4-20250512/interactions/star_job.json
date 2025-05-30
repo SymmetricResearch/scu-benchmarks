@@ -1,0 +1,542 @@
+[
+  {
+    "job_pair": [
+      "star_job_job_0",
+      "star_job_job_1"
+    ],
+    "interaction_strength": 0.5903099679391928,
+    "synergy_type": "competitive",
+    "confidence": 0.8537523014884969
+  },
+  {
+    "job_pair": [
+      "star_job_job_0",
+      "star_job_job_2"
+    ],
+    "interaction_strength": 0.6170729587519675,
+    "synergy_type": "competitive",
+    "confidence": 0.9325331051058334
+  },
+  {
+    "job_pair": [
+      "star_job_job_0",
+      "star_job_job_3"
+    ],
+    "interaction_strength": 0.5316889947371979,
+    "synergy_type": "complementary",
+    "confidence": 0.8366710530587604
+  },
+  {
+    "job_pair": [
+      "star_job_job_0",
+      "star_job_job_4"
+    ],
+    "interaction_strength": 0.6704563441448479,
+    "synergy_type": "neutral",
+    "confidence": 0.9053980100612861
+  },
+  {
+    "job_pair": [
+      "star_job_job_1",
+      "star_job_job_2"
+    ],
+    "interaction_strength": 0.5187871984308499,
+    "synergy_type": "complementary",
+    "confidence": 0.8666551202462143
+  },
+  {
+    "job_pair": [
+      "star_job_job_1",
+      "star_job_job_3"
+    ],
+    "interaction_strength": 0.5107326919850306,
+    "synergy_type": "complementary",
+    "confidence": 0.8982128551358592
+  },
+  {
+    "job_pair": [
+      "star_job_job_1",
+      "star_job_job_4"
+    ],
+    "interaction_strength": 0.3984567045812625,
+    "synergy_type": "competitive",
+    "confidence": 0.8308744650582108
+  },
+  {
+    "job_pair": [
+      "star_job_job_1",
+      "star_job_job_5"
+    ],
+    "interaction_strength": 0.5916027290950445,
+    "synergy_type": "complementary",
+    "confidence": 0.8799452827309726
+  },
+  {
+    "job_pair": [
+      "star_job_job_2",
+      "star_job_job_3"
+    ],
+    "interaction_strength": 0.6904576665907743,
+    "synergy_type": "competitive",
+    "confidence": 0.8094591591509829
+  },
+  {
+    "job_pair": [
+      "star_job_job_2",
+      "star_job_job_4"
+    ],
+    "interaction_strength": 0.5518999028020091,
+    "synergy_type": "neutral",
+    "confidence": 0.9295673942182046
+  },
+  {
+    "job_pair": [
+      "star_job_job_2",
+      "star_job_job_5"
+    ],
+    "interaction_strength": 0.7246135660406474,
+    "synergy_type": "neutral",
+    "confidence": 0.9084801309367336
+  },
+  {
+    "job_pair": [
+      "star_job_job_2",
+      "star_job_job_6"
+    ],
+    "interaction_strength": 0.27631937665885214,
+    "synergy_type": "competitive",
+    "confidence": 0.8503814485111088
+  },
+  {
+    "job_pair": [
+      "star_job_job_3",
+      "star_job_job_4"
+    ],
+    "interaction_strength": 0.4981964425938545,
+    "synergy_type": "neutral",
+    "confidence": 0.8496065789203361
+  },
+  {
+    "job_pair": [
+      "star_job_job_3",
+      "star_job_job_5"
+    ],
+    "interaction_strength": 0.5132267404187394,
+    "synergy_type": "competitive",
+    "confidence": 0.8794731940034766
+  },
+  {
+    "job_pair": [
+      "star_job_job_3",
+      "star_job_job_6"
+    ],
+    "interaction_strength": 0.5831867759639551,
+    "synergy_type": "competitive",
+    "confidence": 0.908530916402495
+  },
+  {
+    "job_pair": [
+      "star_job_job_3",
+      "star_job_job_7"
+    ],
+    "interaction_strength": 0.3546375247177424,
+    "synergy_type": "neutral",
+    "confidence": 0.8657913336640382
+  },
+  {
+    "job_pair": [
+      "star_job_job_4",
+      "star_job_job_5"
+    ],
+    "interaction_strength": 0.5653419421607982,
+    "synergy_type": "competitive",
+    "confidence": 0.8206682026918499
+  },
+  {
+    "job_pair": [
+      "star_job_job_4",
+      "star_job_job_6"
+    ],
+    "interaction_strength": 0.7472291699401956,
+    "synergy_type": "neutral",
+    "confidence": 0.9323877238371667
+  },
+  {
+    "job_pair": [
+      "star_job_job_4",
+      "star_job_job_7"
+    ],
+    "interaction_strength": 0.45475589423044616,
+    "synergy_type": "competitive",
+    "confidence": 0.8694705862305702
+  },
+  {
+    "job_pair": [
+      "star_job_job_4",
+      "star_job_job_8"
+    ],
+    "interaction_strength": 0.5490195104752552,
+    "synergy_type": "competitive",
+    "confidence": 0.934715029115485
+  },
+  {
+    "job_pair": [
+      "star_job_job_5",
+      "star_job_job_6"
+    ],
+    "interaction_strength": 0.2791702715204802,
+    "synergy_type": "neutral",
+    "confidence": 0.9105361363545041
+  },
+  {
+    "job_pair": [
+      "star_job_job_5",
+      "star_job_job_7"
+    ],
+    "interaction_strength": 0.35675420591355084,
+    "synergy_type": "competitive",
+    "confidence": 0.8906016199530142
+  },
+  {
+    "job_pair": [
+      "star_job_job_5",
+      "star_job_job_8"
+    ],
+    "interaction_strength": 0.46198186140449826,
+    "synergy_type": "neutral",
+    "confidence": 0.9133058626325297
+  },
+  {
+    "job_pair": [
+      "star_job_job_5",
+      "star_job_job_9"
+    ],
+    "interaction_strength": 0.6200399479409184,
+    "synergy_type": "neutral",
+    "confidence": 0.8143495617296956
+  },
+  {
+    "job_pair": [
+      "star_job_job_6",
+      "star_job_job_7"
+    ],
+    "interaction_strength": 0.2757453029429031,
+    "synergy_type": "neutral",
+    "confidence": 0.8747055861728226
+  },
+  {
+    "job_pair": [
+      "star_job_job_6",
+      "star_job_job_8"
+    ],
+    "interaction_strength": 0.7371759089543326,
+    "synergy_type": "complementary",
+    "confidence": 0.8965564307926563
+  },
+  {
+    "job_pair": [
+      "star_job_job_6",
+      "star_job_job_9"
+    ],
+    "interaction_strength": 0.5986620525627233,
+    "synergy_type": "complementary",
+    "confidence": 0.895268154499754
+  },
+  {
+    "job_pair": [
+      "star_job_job_6",
+      "star_job_job_10"
+    ],
+    "interaction_strength": 0.5443293279532866,
+    "synergy_type": "complementary",
+    "confidence": 0.8751836343747912
+  },
+  {
+    "job_pair": [
+      "star_job_job_7",
+      "star_job_job_8"
+    ],
+    "interaction_strength": 0.6101566509391563,
+    "synergy_type": "complementary",
+    "confidence": 0.8232621045272377
+  },
+  {
+    "job_pair": [
+      "star_job_job_7",
+      "star_job_job_9"
+    ],
+    "interaction_strength": 0.25946141780711357,
+    "synergy_type": "complementary",
+    "confidence": 0.8838755624744067
+  },
+  {
+    "job_pair": [
+      "star_job_job_7",
+      "star_job_job_10"
+    ],
+    "interaction_strength": 0.4304412114665929,
+    "synergy_type": "neutral",
+    "confidence": 0.942506924418603
+  },
+  {
+    "job_pair": [
+      "star_job_job_7",
+      "star_job_job_11"
+    ],
+    "interaction_strength": 0.6084521140234057,
+    "synergy_type": "competitive",
+    "confidence": 0.8913537525054612
+  },
+  {
+    "job_pair": [
+      "star_job_job_8",
+      "star_job_job_9"
+    ],
+    "interaction_strength": 0.32303312728469374,
+    "synergy_type": "complementary",
+    "confidence": 0.9181064551684351
+  },
+  {
+    "job_pair": [
+      "star_job_job_8",
+      "star_job_job_10"
+    ],
+    "interaction_strength": 0.31666420384192534,
+    "synergy_type": "complementary",
+    "confidence": 0.8530418831602887
+  },
+  {
+    "job_pair": [
+      "star_job_job_8",
+      "star_job_job_11"
+    ],
+    "interaction_strength": 0.5868768076439594,
+    "synergy_type": "complementary",
+    "confidence": 0.9287433468583841
+  },
+  {
+    "job_pair": [
+      "star_job_job_8",
+      "star_job_job_12"
+    ],
+    "interaction_strength": 0.5064578398701666,
+    "synergy_type": "complementary",
+    "confidence": 0.8053372507214875
+  },
+  {
+    "job_pair": [
+      "star_job_job_9",
+      "star_job_job_10"
+    ],
+    "interaction_strength": 0.3431199643235813,
+    "synergy_type": "competitive",
+    "confidence": 0.8320007046008989
+  },
+  {
+    "job_pair": [
+      "star_job_job_9",
+      "star_job_job_11"
+    ],
+    "interaction_strength": 0.5374702258968398,
+    "synergy_type": "complementary",
+    "confidence": 0.8650663386491564
+  },
+  {
+    "job_pair": [
+      "star_job_job_9",
+      "star_job_job_12"
+    ],
+    "interaction_strength": 0.3472051130542837,
+    "synergy_type": "competitive",
+    "confidence": 0.8821711698891307
+  },
+  {
+    "job_pair": [
+      "star_job_job_9",
+      "star_job_job_13"
+    ],
+    "interaction_strength": 0.36823324646509603,
+    "synergy_type": "competitive",
+    "confidence": 0.9486145295900312
+  },
+  {
+    "job_pair": [
+      "star_job_job_10",
+      "star_job_job_11"
+    ],
+    "interaction_strength": 0.4442270293844854,
+    "synergy_type": "neutral",
+    "confidence": 0.8082406703899143
+  },
+  {
+    "job_pair": [
+      "star_job_job_10",
+      "star_job_job_12"
+    ],
+    "interaction_strength": 0.31257476453229066,
+    "synergy_type": "complementary",
+    "confidence": 0.8005411348938003
+  },
+  {
+    "job_pair": [
+      "star_job_job_10",
+      "star_job_job_13"
+    ],
+    "interaction_strength": 0.6210278416938153,
+    "synergy_type": "competitive",
+    "confidence": 0.8712395589474768
+  },
+  {
+    "job_pair": [
+      "star_job_job_10",
+      "star_job_job_14"
+    ],
+    "interaction_strength": 0.5933219899606184,
+    "synergy_type": "complementary",
+    "confidence": 0.8768633080589003
+  },
+  {
+    "job_pair": [
+      "star_job_job_11",
+      "star_job_job_12"
+    ],
+    "interaction_strength": 0.39865385853944646,
+    "synergy_type": "neutral",
+    "confidence": 0.8984500728690078
+  },
+  {
+    "job_pair": [
+      "star_job_job_11",
+      "star_job_job_13"
+    ],
+    "interaction_strength": 0.29783912337042756,
+    "synergy_type": "complementary",
+    "confidence": 0.9122248704406571
+  },
+  {
+    "job_pair": [
+      "star_job_job_11",
+      "star_job_job_14"
+    ],
+    "interaction_strength": 0.3980140629798488,
+    "synergy_type": "neutral",
+    "confidence": 0.8349550433049245
+  },
+  {
+    "job_pair": [
+      "star_job_job_11",
+      "star_job_job_15"
+    ],
+    "interaction_strength": 0.5703155783898333,
+    "synergy_type": "neutral",
+    "confidence": 0.9332340075729993
+  },
+  {
+    "job_pair": [
+      "star_job_job_12",
+      "star_job_job_13"
+    ],
+    "interaction_strength": 0.4696158934604006,
+    "synergy_type": "neutral",
+    "confidence": 0.8735936443731429
+  },
+  {
+    "job_pair": [
+      "star_job_job_12",
+      "star_job_job_14"
+    ],
+    "interaction_strength": 0.5274412995100163,
+    "synergy_type": "neutral",
+    "confidence": 0.946316171271917
+  },
+  {
+    "job_pair": [
+      "star_job_job_12",
+      "star_job_job_15"
+    ],
+    "interaction_strength": 0.27537224025723944,
+    "synergy_type": "complementary",
+    "confidence": 0.9147705392202335
+  },
+  {
+    "job_pair": [
+      "star_job_job_12",
+      "star_job_job_16"
+    ],
+    "interaction_strength": 0.3743582364344927,
+    "synergy_type": "competitive",
+    "confidence": 0.9403845731494076
+  },
+  {
+    "job_pair": [
+      "star_job_job_13",
+      "star_job_job_14"
+    ],
+    "interaction_strength": 0.4531569871919014,
+    "synergy_type": "competitive",
+    "confidence": 0.9482791320980906
+  },
+  {
+    "job_pair": [
+      "star_job_job_13",
+      "star_job_job_15"
+    ],
+    "interaction_strength": 0.6936376707872136,
+    "synergy_type": "complementary",
+    "confidence": 0.8937202977975054
+  },
+  {
+    "job_pair": [
+      "star_job_job_13",
+      "star_job_job_16"
+    ],
+    "interaction_strength": 0.25210671503609416,
+    "synergy_type": "competitive",
+    "confidence": 0.9110788129222078
+  },
+  {
+    "job_pair": [
+      "star_job_job_13",
+      "star_job_job_17"
+    ],
+    "interaction_strength": 0.501368099663489,
+    "synergy_type": "neutral",
+    "confidence": 0.9053105643152288
+  },
+  {
+    "job_pair": [
+      "star_job_job_14",
+      "star_job_job_15"
+    ],
+    "interaction_strength": 0.49045828027400196,
+    "synergy_type": "neutral",
+    "confidence": 0.9103953993225607
+  },
+  {
+    "job_pair": [
+      "star_job_job_14",
+      "star_job_job_16"
+    ],
+    "interaction_strength": 0.6697894235624902,
+    "synergy_type": "complementary",
+    "confidence": 0.9400488496401376
+  },
+  {
+    "job_pair": [
+      "star_job_job_14",
+      "star_job_job_17"
+    ],
+    "interaction_strength": 0.694104679220396,
+    "synergy_type": "competitive",
+    "confidence": 0.9433920950901566
+  },
+  {
+    "job_pair": [
+      "star_job_job_14",
+      "star_job_job_18"
+    ],
+    "interaction_strength": 0.4886633972530567,
+    "synergy_type": "complementary",
+    "confidence": 0.9030537814045753
+  }
+]

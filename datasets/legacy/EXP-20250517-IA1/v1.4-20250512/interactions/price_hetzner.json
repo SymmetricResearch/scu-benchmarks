@@ -1,0 +1,262 @@
+[
+  {
+    "instance_pair": [
+      "hetzner_instance_0",
+      "hetzner_instance_10"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.10660114373899907,
+    "price_correlation": 0.8910314551899936,
+    "confidence": 0.9234623250989922
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_1",
+      "hetzner_instance_11"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.5763966415147589,
+    "price_correlation": 0.4388325156589229,
+    "confidence": 0.9596942267236983
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_2",
+      "hetzner_instance_12"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.44680394826538106,
+    "price_correlation": 0.3989087426779834,
+    "confidence": 0.8643289234865267
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_3",
+      "hetzner_instance_13"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.4150503843204556,
+    "price_correlation": 0.7933204174403911,
+    "confidence": 0.9289068978916097
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_4",
+      "hetzner_instance_14"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.32270642450424314,
+    "price_correlation": 0.4893063136613615,
+    "confidence": 0.823266402919113
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_5",
+      "hetzner_instance_15"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.3803315426709527,
+    "price_correlation": 0.3610217395836763,
+    "confidence": 0.9634706275215784
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_6",
+      "hetzner_instance_16"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.5643125757505045,
+    "price_correlation": 0.4101485189209366,
+    "confidence": 0.8019823032527517
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_7",
+      "hetzner_instance_17"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.5041018605193728,
+    "price_correlation": 0.8913701921856092,
+    "confidence": 0.8678935615329428
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_8",
+      "hetzner_instance_18"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.27917323292365104,
+    "price_correlation": 0.3114287280625515,
+    "confidence": 0.8896386489291114
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_9",
+      "hetzner_instance_19"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.5318062720685022,
+    "price_correlation": 0.6699374829001237,
+    "confidence": 0.9823991744467548
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_10",
+      "hetzner_instance_20"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.324757297177826,
+    "price_correlation": 0.5820668094714859,
+    "confidence": 0.8049478093398471
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_11",
+      "hetzner_instance_21"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.19634721968043375,
+    "price_correlation": 0.8014948535627604,
+    "confidence": 0.857234817104093
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_12",
+      "hetzner_instance_22"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.398184193316219,
+    "price_correlation": 0.6491982759820458,
+    "confidence": 0.9270942646660869
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_13",
+      "hetzner_instance_23"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.28364016339611864,
+    "price_correlation": 0.5213563601387791,
+    "confidence": 0.8830616257024564
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_14",
+      "hetzner_instance_24"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.48693442969372214,
+    "price_correlation": 0.44213367860208164,
+    "confidence": 0.9041760357546766
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_15",
+      "hetzner_instance_25"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.10386354321296762,
+    "price_correlation": 0.544723782231129,
+    "confidence": 0.9801699796638279
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_16",
+      "hetzner_instance_26"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.2977426770950461,
+    "price_correlation": 0.7886377662050198,
+    "confidence": 0.8600256322522837
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_17",
+      "hetzner_instance_27"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.4567464162437994,
+    "price_correlation": 0.5973673841944293,
+    "confidence": 0.9760135401165875
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_18",
+      "hetzner_instance_28"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.15835073828733012,
+    "price_correlation": 0.7771321875097827,
+    "confidence": 0.9414468288998501
+  },
+  {
+    "instance_pair": [
+      "hetzner_instance_19",
+      "hetzner_instance_29"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.3728662321379652,
+    "price_correlation": 0.8623885078077613,
+    "confidence": 0.9939996188765277
+  }
+]

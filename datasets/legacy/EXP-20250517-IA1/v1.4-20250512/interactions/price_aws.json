@@ -1,0 +1,262 @@
+[
+  {
+    "instance_pair": [
+      "aws_instance_0",
+      "aws_instance_10"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.15979000404346724,
+    "price_correlation": 0.8981774071469295,
+    "confidence": 0.94674992052813
+  },
+  {
+    "instance_pair": [
+      "aws_instance_1",
+      "aws_instance_11"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.5427190599810469,
+    "price_correlation": 0.4800808672967175,
+    "confidence": 0.8462311730430404
+  },
+  {
+    "instance_pair": [
+      "aws_instance_2",
+      "aws_instance_12"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.29562860100930455,
+    "price_correlation": 0.3329916741833576,
+    "confidence": 0.8780834779070893
+  },
+  {
+    "instance_pair": [
+      "aws_instance_3",
+      "aws_instance_13"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.12716696140225411,
+    "price_correlation": 0.4262670141960133,
+    "confidence": 0.889581378885971
+  },
+  {
+    "instance_pair": [
+      "aws_instance_4",
+      "aws_instance_14"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.2337769577220514,
+    "price_correlation": 0.35644686218296007,
+    "confidence": 0.9296801051734088
+  },
+  {
+    "instance_pair": [
+      "aws_instance_5",
+      "aws_instance_15"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.29740335757425207,
+    "price_correlation": 0.8790915905139685,
+    "confidence": 0.9927115358464937
+  },
+  {
+    "instance_pair": [
+      "aws_instance_6",
+      "aws_instance_16"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.28469275815936435,
+    "price_correlation": 0.36228256455102653,
+    "confidence": 0.848184877688597
+  },
+  {
+    "instance_pair": [
+      "aws_instance_7",
+      "aws_instance_17"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.15261790761429647,
+    "price_correlation": 0.3926080894018591,
+    "confidence": 0.8079940159814912
+  },
+  {
+    "instance_pair": [
+      "aws_instance_8",
+      "aws_instance_18"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.3151001359606387,
+    "price_correlation": 0.5656166047092689,
+    "confidence": 0.9531346792764971
+  },
+  {
+    "instance_pair": [
+      "aws_instance_9",
+      "aws_instance_19"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.12583487909516336,
+    "price_correlation": 0.8949317206774587,
+    "confidence": 0.9006138386563227
+  },
+  {
+    "instance_pair": [
+      "aws_instance_10",
+      "aws_instance_20"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.1723437048851573,
+    "price_correlation": 0.45376876521120024,
+    "confidence": 0.9882523834394434
+  },
+  {
+    "instance_pair": [
+      "aws_instance_11",
+      "aws_instance_21"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.3266960879800337,
+    "price_correlation": 0.40359425500474577,
+    "confidence": 0.8984077057535895
+  },
+  {
+    "instance_pair": [
+      "aws_instance_12",
+      "aws_instance_22"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.13899829360445295,
+    "price_correlation": 0.3619777942381134,
+    "confidence": 0.995825343295147
+  },
+  {
+    "instance_pair": [
+      "aws_instance_13",
+      "aws_instance_23"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.1226564450395464,
+    "price_correlation": 0.4918036728675155,
+    "confidence": 0.9462792716549056
+  },
+  {
+    "instance_pair": [
+      "aws_instance_14",
+      "aws_instance_24"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.3847317397610869,
+    "price_correlation": 0.4682999582876575,
+    "confidence": 0.8132319460881988
+  },
+  {
+    "instance_pair": [
+      "aws_instance_15",
+      "aws_instance_25"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.31792003367190147,
+    "price_correlation": 0.3103407718371492,
+    "confidence": 0.836765445320096
+  },
+  {
+    "instance_pair": [
+      "aws_instance_16",
+      "aws_instance_26"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.4772483149143427,
+    "price_correlation": 0.5470903258375811,
+    "confidence": 0.8726678651988573
+  },
+  {
+    "instance_pair": [
+      "aws_instance_17",
+      "aws_instance_27"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.4413125048780935,
+    "price_correlation": 0.8560910630658949,
+    "confidence": 0.8464520782257685
+  },
+  {
+    "instance_pair": [
+      "aws_instance_18",
+      "aws_instance_28"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.2706813320942819,
+    "price_correlation": 0.8731392314687205,
+    "confidence": 0.8992344032134184
+  },
+  {
+    "instance_pair": [
+      "aws_instance_19",
+      "aws_instance_29"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.4315071833884687,
+    "price_correlation": 0.6405675631411543,
+    "confidence": 0.9102011388272496
+  }
+]

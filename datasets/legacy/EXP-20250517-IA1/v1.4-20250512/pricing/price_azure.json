@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "azure_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.3085685032044807,
+    "normalized_cost": 0.8625981520687174,
+    "spot_ratio": 0.6850929621086637
+  },
+  {
+    "instance_id": "azure_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.8237795388442852,
+    "normalized_cost": 0.8892306725330144,
+    "spot_ratio": 0.692539583501498
+  },
+  {
+    "instance_id": "azure_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 1.5208746550445147,
+    "normalized_cost": 0.7773050276786657,
+    "spot_ratio": 0.6606213915388943
+  },
+  {
+    "instance_id": "azure_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.3078490867305952,
+    "normalized_cost": 0.8379960485993909,
+    "spot_ratio": 0.4638793536508834
+  },
+  {
+    "instance_id": "azure_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 0.6985964202804231,
+    "normalized_cost": 1.072094464901331,
+    "spot_ratio": 0.5577861726250976
+  },
+  {
+    "instance_id": "azure_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 2.003627964259576,
+    "normalized_cost": 0.987940093797437,
+    "spot_ratio": 0.530436643815928
+  },
+  {
+    "instance_id": "azure_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.9445215233067907,
+    "normalized_cost": 0.8581790596022123,
+    "spot_ratio": 0.44382834066510357
+  },
+  {
+    "instance_id": "azure_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.661740083803454,
+    "normalized_cost": 0.9484498257659599,
+    "spot_ratio": 0.5035443076325643
+  },
+  {
+    "instance_id": "azure_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 2.469185627139606,
+    "normalized_cost": 0.9412742949477344,
+    "spot_ratio": 0.6835048181222774
+  },
+  {
+    "instance_id": "azure_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 0.6621857834626328,
+    "normalized_cost": 0.9400833513766982,
+    "spot_ratio": 0.7088351749390145
+  },
+  {
+    "instance_id": "azure_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 2.2738661213811273,
+    "normalized_cost": 0.7214781614877617,
+    "spot_ratio": 0.4828921597734149
+  },
+  {
+    "instance_id": "azure_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.487647168139298,
+    "normalized_cost": 0.955518299389003,
+    "spot_ratio": 0.642129071109247
+  },
+  {
+    "instance_id": "azure_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 0.5528328947325265,
+    "normalized_cost": 0.9026835856298523,
+    "spot_ratio": 0.4809976476787394
+  },
+  {
+    "instance_id": "azure_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 2.3221978169492514,
+    "normalized_cost": 1.0854571469606873,
+    "spot_ratio": 0.5854021345456257
+  },
+  {
+    "instance_id": "azure_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.1568531830321267,
+    "normalized_cost": 0.8329937083587052,
+    "spot_ratio": 0.311806775386486
+  },
+  {
+    "instance_id": "azure_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 0.5099723410487076,
+    "normalized_cost": 0.85301070421602,
+    "spot_ratio": 0.6062500603572805
+  },
+  {
+    "instance_id": "azure_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.794640799920152,
+    "normalized_cost": 1.1883273763878337,
+    "spot_ratio": 0.7483751375318352
+  },
+  {
+    "instance_id": "azure_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.2797960127126442,
+    "normalized_cost": 1.0749509189618378,
+    "spot_ratio": 0.5408872852241128
+  },
+  {
+    "instance_id": "azure_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 1.5419577855843878,
+    "normalized_cost": 0.8193474705550876,
+    "spot_ratio": 0.44428207601634456
+  },
+  {
+    "instance_id": "azure_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 2.4933053996566477,
+    "normalized_cost": 1.1275094095192708,
+    "spot_ratio": 0.4984300116730487
+  },
+  {
+    "instance_id": "azure_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.3802611747652676,
+    "normalized_cost": 1.024506903959721,
+    "spot_ratio": 0.4940805115278334
+  },
+  {
+    "instance_id": "azure_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.628913922228253,
+    "normalized_cost": 0.9694098885246438,
+    "spot_ratio": 0.5690373520015941
+  },
+  {
+    "instance_id": "azure_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 0.9134659407047829,
+    "normalized_cost": 0.7182526566894403,
+    "spot_ratio": 0.47727829591522236
+  },
+  {
+    "instance_id": "azure_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.320454875833868,
+    "normalized_cost": 0.8915300845974379,
+    "spot_ratio": 0.45535605583009914
+  },
+  {
+    "instance_id": "azure_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 1.137790616693619,
+    "normalized_cost": 0.8174269067705459,
+    "spot_ratio": 0.3682662784097131
+  },
+  {
+    "instance_id": "azure_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 0.5294584741662458,
+    "normalized_cost": 1.0044615460082507,
+    "spot_ratio": 0.532828627676311
+  },
+  {
+    "instance_id": "azure_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.5145477736762807,
+    "normalized_cost": 1.1933122791147481,
+    "spot_ratio": 0.6522549449303802
+  },
+  {
+    "instance_id": "azure_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 0.6134035911602818,
+    "normalized_cost": 0.8276725106788773,
+    "spot_ratio": 0.31630740702512744
+  },
+  {
+    "instance_id": "azure_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.7938739551079588,
+    "normalized_cost": 1.115109084919666,
+    "spot_ratio": 0.6486156824261452
+  },
+  {
+    "instance_id": "azure_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 0.7916645254668937,
+    "normalized_cost": 0.8416541131685279,
+    "spot_ratio": 0.6302213020406797
+  },
+  {
+    "instance_id": "azure_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.11784685156509,
+    "normalized_cost": 0.9166263528350138,
+    "spot_ratio": 0.7205091000849977
+  },
+  {
+    "instance_id": "azure_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 2.0303946082528714,
+    "normalized_cost": 0.9088449245038227,
+    "spot_ratio": 0.7534283968275519
+  },
+  {
+    "instance_id": "azure_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.9997581093372525,
+    "normalized_cost": 1.1698127695007108,
+    "spot_ratio": 0.45487606100380334
+  },
+  {
+    "instance_id": "azure_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.4566917785186653,
+    "normalized_cost": 0.7896462774176684,
+    "spot_ratio": 0.6780231343574137
+  },
+  {
+    "instance_id": "azure_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 2.48512883025769,
+    "normalized_cost": 0.7279227939152111,
+    "spot_ratio": 0.4389977981550577
+  },
+  {
+    "instance_id": "azure_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.1329167879021134,
+    "normalized_cost": 0.7686990562698912,
+    "spot_ratio": 0.46754716403682456
+  },
+  {
+    "instance_id": "azure_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.9982720411714672,
+    "normalized_cost": 0.7402838589827516,
+    "spot_ratio": 0.4621807403304498
+  },
+  {
+    "instance_id": "azure_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "eu-central",
+    "price_usd": 1.2180052232938137,
+    "normalized_cost": 0.9076584930836288,
+    "spot_ratio": 0.6372906910935037
+  },
+  {
+    "instance_id": "azure_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 0.9239445524486698,
+    "normalized_cost": 0.8177522947959883,
+    "spot_ratio": 0.7668359801991435
+  },
+  {
+    "instance_id": "azure_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 2.3078378860986284,
+    "normalized_cost": 1.1063260879549413,
+    "spot_ratio": 0.3583217761636923
+  },
+  {
+    "instance_id": "azure_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.3647222754437103,
+    "normalized_cost": 0.8741710911453187,
+    "spot_ratio": 0.6381753101568668
+  },
+  {
+    "instance_id": "azure_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 0.9838343252466271,
+    "normalized_cost": 0.956104918837566,
+    "spot_ratio": 0.321689164358259
+  },
+  {
+    "instance_id": "azure_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 1.8451290063634196,
+    "normalized_cost": 1.0425992263265966,
+    "spot_ratio": 0.37157448968793133
+  },
+  {
+    "instance_id": "azure_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.7726322052024008,
+    "normalized_cost": 0.9961082313212504,
+    "spot_ratio": 0.3080794430349737
+  },
+  {
+    "instance_id": "azure_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.2225600915351955,
+    "normalized_cost": 0.9339436692981835,
+    "spot_ratio": 0.7660844531564414
+  },
+  {
+    "instance_id": "azure_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.25291114627451,
+    "normalized_cost": 1.1086750985453242,
+    "spot_ratio": 0.4332723562544822
+  },
+  {
+    "instance_id": "azure_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 1.5836838809720726,
+    "normalized_cost": 0.7905493792797489,
+    "spot_ratio": 0.322979267751206
+  },
+  {
+    "instance_id": "azure_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 0.8491302664185614,
+    "normalized_cost": 0.7604914398570595,
+    "spot_ratio": 0.7251958144386614
+  },
+  {
+    "instance_id": "azure_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 1.7019413042155787,
+    "normalized_cost": 1.051240958048756,
+    "spot_ratio": 0.4200834609213531
+  },
+  {
+    "instance_id": "azure_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 2.044299583485049,
+    "normalized_cost": 0.736323896858376,
+    "spot_ratio": 0.3082055362410913
+  },
+  {
+    "instance_id": "azure_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 2.363817159389792,
+    "normalized_cost": 1.03659444556958,
+    "spot_ratio": 0.7285757231759082
+  },
+  {
+    "instance_id": "azure_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.7384055940227592,
+    "normalized_cost": 1.164819752429094,
+    "spot_ratio": 0.6923453915825855
+  },
+  {
+    "instance_id": "azure_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 1.2660566725237226,
+    "normalized_cost": 0.7972319272794529,
+    "spot_ratio": 0.6563631575438901
+  },
+  {
+    "instance_id": "azure_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.037833489904483,
+    "normalized_cost": 0.8411589855715892,
+    "spot_ratio": 0.6687863698040465
+  },
+  {
+    "instance_id": "azure_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 2.205167476867288,
+    "normalized_cost": 0.8714166040180322,
+    "spot_ratio": 0.7778709718309812
+  },
+  {
+    "instance_id": "azure_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 2.1938534213692034,
+    "normalized_cost": 1.1442007639516258,
+    "spot_ratio": 0.5265887310083672
+  },
+  {
+    "instance_id": "azure_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 1.7907408345775138,
+    "normalized_cost": 0.9164365142446472,
+    "spot_ratio": 0.4195171707500454
+  },
+  {
+    "instance_id": "azure_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.7056464613695792,
+    "normalized_cost": 0.9101872962800562,
+    "spot_ratio": 0.5855182069712548
+  },
+  {
+    "instance_id": "azure_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.3191377874121883,
+    "normalized_cost": 0.7717591902233352,
+    "spot_ratio": 0.5977302065024577
+  },
+  {
+    "instance_id": "azure_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.2302192977637079,
+    "normalized_cost": 0.9667800754751799,
+    "spot_ratio": 0.4549216572182729
+  },
+  {
+    "instance_id": "azure_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 0.9231465187799885,
+    "normalized_cost": 0.9053592046017023,
+    "spot_ratio": 0.43452806647662384
+  },
+  {
+    "instance_id": "azure_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 0.5541950864500618,
+    "normalized_cost": 0.8219632739424313,
+    "spot_ratio": 0.716805983261025
+  },
+  {
+    "instance_id": "azure_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.0906892308937948,
+    "normalized_cost": 1.1963815168932723,
+    "spot_ratio": 0.6557364503237222
+  },
+  {
+    "instance_id": "azure_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.8698884010586825,
+    "normalized_cost": 0.8732529121707604,
+    "spot_ratio": 0.36917884192298667
+  },
+  {
+    "instance_id": "azure_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.140238265059817,
+    "normalized_cost": 0.714220344524843,
+    "spot_ratio": 0.645580403730152
+  },
+  {
+    "instance_id": "azure_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 2.348157960774668,
+    "normalized_cost": 0.7197888506285246,
+    "spot_ratio": 0.6911763891779088
+  },
+  {
+    "instance_id": "azure_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.3234809091711823,
+    "normalized_cost": 0.714461886774054,
+    "spot_ratio": 0.5769548265057017
+  },
+  {
+    "instance_id": "azure_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.5768209930880372,
+    "normalized_cost": 0.8897220718390105,
+    "spot_ratio": 0.6057361330722171
+  },
+  {
+    "instance_id": "azure_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 2.215980836403581,
+    "normalized_cost": 1.1855201160161912,
+    "spot_ratio": 0.6196968664516824
+  },
+  {
+    "instance_id": "azure_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 1.5615485296055007,
+    "normalized_cost": 0.8979247503007162,
+    "spot_ratio": 0.7628208321220238
+  },
+  {
+    "instance_id": "azure_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.6361127996379912,
+    "normalized_cost": 0.9078970798736907,
+    "spot_ratio": 0.6682169930210967
+  },
+  {
+    "instance_id": "azure_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.140168848242506,
+    "normalized_cost": 1.093609586010071,
+    "spot_ratio": 0.6213723340616355
+  },
+  {
+    "instance_id": "azure_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.2811142497676287,
+    "normalized_cost": 1.0608939411042302,
+    "spot_ratio": 0.456951047300563
+  },
+  {
+    "instance_id": "azure_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.5738031018566996,
+    "normalized_cost": 0.7495088441207196,
+    "spot_ratio": 0.36770492925916926
+  },
+  {
+    "instance_id": "azure_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.0761114048485796,
+    "normalized_cost": 0.994213762504758,
+    "spot_ratio": 0.7171340915922624
+  }
+]

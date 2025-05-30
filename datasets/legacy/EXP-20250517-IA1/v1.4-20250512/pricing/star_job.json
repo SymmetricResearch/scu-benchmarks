@@ -1,0 +1,202 @@
+[
+  {
+    "job_id": "star_job_job_0",
+    "base_cost": 2.3499354763297977,
+    "normalized_cost": 1.0529568425926623,
+    "cpu_hours": 5.4493688796902555,
+    "memory_gb_hours": 23.67852672895907,
+    "gpu_hours": 4.089340351592779
+  },
+  {
+    "job_id": "star_job_job_1",
+    "base_cost": 3.8292548094853442,
+    "normalized_cost": 0.9276597548613569,
+    "cpu_hours": 16.963816780636428,
+    "memory_gb_hours": 24.770371643002374,
+    "gpu_hours": 2.7432701584699553
+  },
+  {
+    "job_id": "star_job_job_2",
+    "base_cost": 4.287632014217666,
+    "normalized_cost": 1.0284174810710014,
+    "cpu_hours": 7.311316696521914,
+    "memory_gb_hours": 36.35637327325725,
+    "gpu_hours": 1.066643379133681
+  },
+  {
+    "job_id": "star_job_job_3",
+    "base_cost": 2.678130280968994,
+    "normalized_cost": 0.905660128782929,
+    "cpu_hours": 14.819872490081517,
+    "memory_gb_hours": 36.20327984962389,
+    "gpu_hours": 5.430197764767164
+  },
+  {
+    "job_id": "star_job_job_4",
+    "base_cost": 4.867119314197426,
+    "normalized_cost": 1.0353837224502032,
+    "cpu_hours": 13.838755743728623,
+    "memory_gb_hours": 24.60806891408398,
+    "gpu_hours": 6.14064113653313
+  },
+  {
+    "job_id": "star_job_job_5",
+    "base_cost": 2.2942863973197363,
+    "normalized_cost": 1.1381191417595582,
+    "cpu_hours": 11.459955448057112,
+    "memory_gb_hours": 12.819727345623862,
+    "gpu_hours": 4.623668553368213
+  },
+  {
+    "job_id": "star_job_job_6",
+    "base_cost": 4.524422009236735,
+    "normalized_cost": 1.1611962637566224,
+    "cpu_hours": 19.890943145992225,
+    "memory_gb_hours": 28.508680836732474,
+    "gpu_hours": 1.077370506742966
+  },
+  {
+    "job_id": "star_job_job_7",
+    "base_cost": 2.109970553136774,
+    "normalized_cost": 1.1652064549136902,
+    "cpu_hours": 11.789502088943745,
+    "memory_gb_hours": 15.945659645110936,
+    "gpu_hours": 5.035755645152517
+  },
+  {
+    "job_id": "star_job_job_8",
+    "base_cost": 4.948462215511035,
+    "normalized_cost": 0.8239512163259193,
+    "cpu_hours": 9.289538461998996,
+    "memory_gb_hours": 36.18738538477747,
+    "gpu_hours": 2.6739005940906226
+  },
+  {
+    "job_id": "star_job_job_9",
+    "base_cost": 3.4932265564622282,
+    "normalized_cost": 0.987780602088085,
+    "cpu_hours": 6.538390262984907,
+    "memory_gb_hours": 32.34090959775458,
+    "gpu_hours": 0.09321692548976213
+  },
+  {
+    "job_id": "star_job_job_10",
+    "base_cost": 2.113101376933128,
+    "normalized_cost": 0.8083242431399027,
+    "cpu_hours": 15.09913844663438,
+    "memory_gb_hours": 26.037687230512617,
+    "gpu_hours": 0.6508362768677971
+  },
+  {
+    "job_id": "star_job_job_11",
+    "base_cost": 3.204277795335763,
+    "normalized_cost": 1.1196249576721062,
+    "cpu_hours": 18.521474128546828,
+    "memory_gb_hours": 35.22912395636745,
+    "gpu_hours": 1.1020699816139148
+  },
+  {
+    "job_id": "star_job_job_12",
+    "base_cost": 2.070705446631201,
+    "normalized_cost": 1.1082200287691977,
+    "cpu_hours": 8.25188047511174,
+    "memory_gb_hours": 27.46253760370764,
+    "gpu_hours": 2.6344415749991965
+  },
+  {
+    "job_id": "star_job_job_13",
+    "base_cost": 3.6923358176684853,
+    "normalized_cost": 1.0897955288399914,
+    "cpu_hours": 14.289034134374432,
+    "memory_gb_hours": 27.48998407820468,
+    "gpu_hours": 7.388462007450387
+  },
+  {
+    "job_id": "star_job_job_14",
+    "base_cost": 4.587004439208311,
+    "normalized_cost": 1.1934218337002966,
+    "cpu_hours": 15.50960325314888,
+    "memory_gb_hours": 25.132610307187022,
+    "gpu_hours": 2.6584082789739867
+  },
+  {
+    "job_id": "star_job_job_15",
+    "base_cost": 2.218203192934986,
+    "normalized_cost": 0.8744528145906163,
+    "cpu_hours": 19.901064681114853,
+    "memory_gb_hours": 19.19057453628369,
+    "gpu_hours": 5.827854957882426
+  },
+  {
+    "job_id": "star_job_job_16",
+    "base_cost": 4.155751232997956,
+    "normalized_cost": 1.067517895289773,
+    "cpu_hours": 6.392999830994127,
+    "memory_gb_hours": 12.156608255304114,
+    "gpu_hours": 7.968965185660258
+  },
+  {
+    "job_id": "star_job_job_17",
+    "base_cost": 3.9467751291356823,
+    "normalized_cost": 0.8758809404027165,
+    "cpu_hours": 15.886901738822779,
+    "memory_gb_hours": 11.322464165119557,
+    "gpu_hours": 2.9900458034493322
+  },
+  {
+    "job_id": "star_job_job_18",
+    "base_cost": 3.7679108251290963,
+    "normalized_cost": 1.159301325053767,
+    "cpu_hours": 12.66810154563799,
+    "memory_gb_hours": 16.079837115997666,
+    "gpu_hours": 0.776659571299601
+  },
+  {
+    "job_id": "star_job_job_19",
+    "base_cost": 2.618671070313143,
+    "normalized_cost": 0.8365761101406417,
+    "cpu_hours": 16.605405657940878,
+    "memory_gb_hours": 28.983844585638987,
+    "gpu_hours": 4.071733573029375
+  },
+  {
+    "job_id": "star_job_job_20",
+    "base_cost": 2.9096507576546715,
+    "normalized_cost": 1.0271830616921875,
+    "cpu_hours": 7.757337668106253,
+    "memory_gb_hours": 26.49561690935488,
+    "gpu_hours": 7.866700661861265
+  },
+  {
+    "job_id": "star_job_job_21",
+    "base_cost": 4.639570927068997,
+    "normalized_cost": 1.1707511243500126,
+    "cpu_hours": 16.822640056435834,
+    "memory_gb_hours": 30.388762166421763,
+    "gpu_hours": 5.924970178162874
+  },
+  {
+    "job_id": "star_job_job_22",
+    "base_cost": 4.549513374663682,
+    "normalized_cost": 1.1382656029837481,
+    "cpu_hours": 9.357066439993975,
+    "memory_gb_hours": 39.902688009945194,
+    "gpu_hours": 0.09714275743069312
+  },
+  {
+    "job_id": "star_job_job_23",
+    "base_cost": 2.652236818442354,
+    "normalized_cost": 1.0511341392531408,
+    "cpu_hours": 16.747245462579627,
+    "memory_gb_hours": 18.454518950156466,
+    "gpu_hours": 7.5842757386052755
+  },
+  {
+    "job_id": "star_job_job_24",
+    "base_cost": 3.6419579933779715,
+    "normalized_cost": 1.1264908290055613,
+    "cpu_hours": 7.7560805791000025,
+    "memory_gb_hours": 12.67887519923983,
+    "gpu_hours": 1.2390460075789926
+  }
+]

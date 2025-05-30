@@ -1,0 +1,2702 @@
+[
+  {
+    "job_pair": [
+      "job_0",
+      "job_1"
+    ],
+    "interaction_strength": 0.6104136909532254,
+    "synergy_type": "complementary",
+    "confidence": 0.7199498212961534
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_2"
+    ],
+    "interaction_strength": 0.7666434358780043,
+    "synergy_type": "complementary",
+    "confidence": 0.7358300947423242
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_3"
+    ],
+    "interaction_strength": 0.3091028912473164,
+    "synergy_type": "competitive",
+    "confidence": 0.8236262390413214
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_4"
+    ],
+    "interaction_strength": 0.5882085232834573,
+    "synergy_type": "neutral",
+    "confidence": 0.9108327022634389
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_5"
+    ],
+    "interaction_strength": 0.7525672757607356,
+    "synergy_type": "complementary",
+    "confidence": 0.8625152105289221
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_6"
+    ],
+    "interaction_strength": 0.2901833351322337,
+    "synergy_type": "neutral",
+    "confidence": 0.7867917590039294
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_7"
+    ],
+    "interaction_strength": 0.3840962491379306,
+    "synergy_type": "neutral",
+    "confidence": 0.7382509726043768
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_8"
+    ],
+    "interaction_strength": 0.6983960897135397,
+    "synergy_type": "competitive",
+    "confidence": 0.8955126588542569
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_9"
+    ],
+    "interaction_strength": 0.23379108961649397,
+    "synergy_type": "neutral",
+    "confidence": 0.7514442880779912
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_10"
+    ],
+    "interaction_strength": 0.6095768142092423,
+    "synergy_type": "neutral",
+    "confidence": 0.7534311330343725
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_11"
+    ],
+    "interaction_strength": 0.6388328081294553,
+    "synergy_type": "competitive",
+    "confidence": 0.7770568486024154
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_12"
+    ],
+    "interaction_strength": 0.6351562948449723,
+    "synergy_type": "complementary",
+    "confidence": 0.942488658659872
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_13"
+    ],
+    "interaction_strength": 0.6280198045199287,
+    "synergy_type": "complementary",
+    "confidence": 0.9104436945905452
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_14"
+    ],
+    "interaction_strength": 0.23790040957656436,
+    "synergy_type": "complementary",
+    "confidence": 0.8127704825017176
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_15"
+    ],
+    "interaction_strength": 0.657657588905434,
+    "synergy_type": "neutral",
+    "confidence": 0.7855631020780376
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_16"
+    ],
+    "interaction_strength": 0.52417612323107,
+    "synergy_type": "competitive",
+    "confidence": 0.9129980929966391
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_17"
+    ],
+    "interaction_strength": 0.6508262888645091,
+    "synergy_type": "neutral",
+    "confidence": 0.9791376296544053
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_18"
+    ],
+    "interaction_strength": 0.6855298598914319,
+    "synergy_type": "neutral",
+    "confidence": 0.7240775049253652
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_19"
+    ],
+    "interaction_strength": 0.5672255973983994,
+    "synergy_type": "neutral",
+    "confidence": 0.8852034533741018
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_20"
+    ],
+    "interaction_strength": 0.568839921143022,
+    "synergy_type": "neutral",
+    "confidence": 0.7932426030131814
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_21"
+    ],
+    "interaction_strength": 0.6850812743435417,
+    "synergy_type": "neutral",
+    "confidence": 0.8456715530729025
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_22"
+    ],
+    "interaction_strength": 0.7557143992591118,
+    "synergy_type": "neutral",
+    "confidence": 0.7899278125693131
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_23"
+    ],
+    "interaction_strength": 0.482827432397423,
+    "synergy_type": "competitive",
+    "confidence": 0.7125972466341077
+  },
+  {
+    "job_pair": [
+      "job_0",
+      "job_24"
+    ],
+    "interaction_strength": 0.4409694739348261,
+    "synergy_type": "competitive",
+    "confidence": 0.8870814929825186
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_2"
+    ],
+    "interaction_strength": 0.798134348065908,
+    "synergy_type": "competitive",
+    "confidence": 0.7893841724049406
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_3"
+    ],
+    "interaction_strength": 0.6561476759175764,
+    "synergy_type": "complementary",
+    "confidence": 0.9785527378818024
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_4"
+    ],
+    "interaction_strength": 0.6154719082694216,
+    "synergy_type": "competitive",
+    "confidence": 0.7747541190217799
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_5"
+    ],
+    "interaction_strength": 0.24478442113739174,
+    "synergy_type": "neutral",
+    "confidence": 0.8105131094464765
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_6"
+    ],
+    "interaction_strength": 0.2281324580444244,
+    "synergy_type": "competitive",
+    "confidence": 0.7926887922112104
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_7"
+    ],
+    "interaction_strength": 0.7270453607440561,
+    "synergy_type": "competitive",
+    "confidence": 0.9758376373170916
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_8"
+    ],
+    "interaction_strength": 0.21297767002140186,
+    "synergy_type": "neutral",
+    "confidence": 0.7753203838273133
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_9"
+    ],
+    "interaction_strength": 0.32958723261630607,
+    "synergy_type": "competitive",
+    "confidence": 0.7804087487647255
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_10"
+    ],
+    "interaction_strength": 0.7868893425027514,
+    "synergy_type": "neutral",
+    "confidence": 0.7259539499469143
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_11"
+    ],
+    "interaction_strength": 0.6003093193061517,
+    "synergy_type": "neutral",
+    "confidence": 0.9332655537221379
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_12"
+    ],
+    "interaction_strength": 0.4646487308963438,
+    "synergy_type": "complementary",
+    "confidence": 0.9679858360156537
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_13"
+    ],
+    "interaction_strength": 0.3453591432209263,
+    "synergy_type": "complementary",
+    "confidence": 0.9617328631924286
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_14"
+    ],
+    "interaction_strength": 0.652399312602709,
+    "synergy_type": "neutral",
+    "confidence": 0.8032170105900042
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_15"
+    ],
+    "interaction_strength": 0.3571224510547773,
+    "synergy_type": "competitive",
+    "confidence": 0.9935212547701289
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_16"
+    ],
+    "interaction_strength": 0.4716741725599565,
+    "synergy_type": "neutral",
+    "confidence": 0.8398923471869919
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_17"
+    ],
+    "interaction_strength": 0.31159299000227886,
+    "synergy_type": "complementary",
+    "confidence": 0.8105116666472131
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_18"
+    ],
+    "interaction_strength": 0.23678113833339223,
+    "synergy_type": "complementary",
+    "confidence": 0.716105831877829
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_19"
+    ],
+    "interaction_strength": 0.27762006158021596,
+    "synergy_type": "competitive",
+    "confidence": 0.7411915131953489
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_20"
+    ],
+    "interaction_strength": 0.40443108931876637,
+    "synergy_type": "neutral",
+    "confidence": 0.9374634687165853
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_21"
+    ],
+    "interaction_strength": 0.25534847057695736,
+    "synergy_type": "complementary",
+    "confidence": 0.8228246417583984
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_22"
+    ],
+    "interaction_strength": 0.4632293693419509,
+    "synergy_type": "competitive",
+    "confidence": 0.903188509366257
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_23"
+    ],
+    "interaction_strength": 0.4877419704819319,
+    "synergy_type": "neutral",
+    "confidence": 0.8428909120862672
+  },
+  {
+    "job_pair": [
+      "job_1",
+      "job_24"
+    ],
+    "interaction_strength": 0.6978174995928801,
+    "synergy_type": "complementary",
+    "confidence": 0.7323247333581991
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_3"
+    ],
+    "interaction_strength": 0.7949176135618308,
+    "synergy_type": "neutral",
+    "confidence": 0.8837272401120624
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_4"
+    ],
+    "interaction_strength": 0.6596605933832084,
+    "synergy_type": "neutral",
+    "confidence": 0.7330815897768305
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_5"
+    ],
+    "interaction_strength": 0.6116523011845193,
+    "synergy_type": "complementary",
+    "confidence": 0.8036404905444926
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_6"
+    ],
+    "interaction_strength": 0.6390689805948194,
+    "synergy_type": "complementary",
+    "confidence": 0.7685685555095124
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_7"
+    ],
+    "interaction_strength": 0.33692866190814186,
+    "synergy_type": "neutral",
+    "confidence": 0.9313712060088648
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_8"
+    ],
+    "interaction_strength": 0.43539688283660666,
+    "synergy_type": "neutral",
+    "confidence": 0.7158756873598286
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_9"
+    ],
+    "interaction_strength": 0.7558110867258911,
+    "synergy_type": "competitive",
+    "confidence": 0.8020609058794288
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_10"
+    ],
+    "interaction_strength": 0.7455017477405683,
+    "synergy_type": "neutral",
+    "confidence": 0.7601342443771374
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_11"
+    ],
+    "interaction_strength": 0.2258007835255861,
+    "synergy_type": "complementary",
+    "confidence": 0.8092448966681609
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_12"
+    ],
+    "interaction_strength": 0.5785778669659607,
+    "synergy_type": "neutral",
+    "confidence": 0.8289291976632694
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_13"
+    ],
+    "interaction_strength": 0.31675272545532956,
+    "synergy_type": "complementary",
+    "confidence": 0.8137074124931241
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_14"
+    ],
+    "interaction_strength": 0.4027599430519697,
+    "synergy_type": "complementary",
+    "confidence": 0.9366628461264268
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_15"
+    ],
+    "interaction_strength": 0.7660176515587531,
+    "synergy_type": "complementary",
+    "confidence": 0.8008155335365756
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_16"
+    ],
+    "interaction_strength": 0.3106440903827847,
+    "synergy_type": "competitive",
+    "confidence": 0.7507288106633601
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_17"
+    ],
+    "interaction_strength": 0.2575976753351868,
+    "synergy_type": "complementary",
+    "confidence": 0.967912447268025
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_18"
+    ],
+    "interaction_strength": 0.33676310764080697,
+    "synergy_type": "neutral",
+    "confidence": 0.8854003697767244
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_19"
+    ],
+    "interaction_strength": 0.34387750627930525,
+    "synergy_type": "competitive",
+    "confidence": 0.9762393258398663
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_20"
+    ],
+    "interaction_strength": 0.5619237001716004,
+    "synergy_type": "complementary",
+    "confidence": 0.8818526671314888
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_21"
+    ],
+    "interaction_strength": 0.4433296876497352,
+    "synergy_type": "neutral",
+    "confidence": 0.8228819104371015
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_22"
+    ],
+    "interaction_strength": 0.3695623504677485,
+    "synergy_type": "neutral",
+    "confidence": 0.9569687742823022
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_23"
+    ],
+    "interaction_strength": 0.6541689596399638,
+    "synergy_type": "neutral",
+    "confidence": 0.9908158034572438
+  },
+  {
+    "job_pair": [
+      "job_2",
+      "job_24"
+    ],
+    "interaction_strength": 0.3607468171948039,
+    "synergy_type": "competitive",
+    "confidence": 0.9285866068167622
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_4"
+    ],
+    "interaction_strength": 0.2380383514271845,
+    "synergy_type": "neutral",
+    "confidence": 0.8903476897727596
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_5"
+    ],
+    "interaction_strength": 0.6526427404871135,
+    "synergy_type": "competitive",
+    "confidence": 0.9753148479751448
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_6"
+    ],
+    "interaction_strength": 0.45637570459796073,
+    "synergy_type": "competitive",
+    "confidence": 0.8968425201975716
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_7"
+    ],
+    "interaction_strength": 0.26786179958692086,
+    "synergy_type": "neutral",
+    "confidence": 0.917455362979134
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_8"
+    ],
+    "interaction_strength": 0.7703459667265278,
+    "synergy_type": "competitive",
+    "confidence": 0.789890409428892
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_9"
+    ],
+    "interaction_strength": 0.4273489738471684,
+    "synergy_type": "complementary",
+    "confidence": 0.8135169420646842
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_10"
+    ],
+    "interaction_strength": 0.24070896281107879,
+    "synergy_type": "neutral",
+    "confidence": 0.7636300062472987
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_11"
+    ],
+    "interaction_strength": 0.3895969169144269,
+    "synergy_type": "neutral",
+    "confidence": 0.9527499377048098
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_12"
+    ],
+    "interaction_strength": 0.43128035278038274,
+    "synergy_type": "complementary",
+    "confidence": 0.7769925528145408
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_13"
+    ],
+    "interaction_strength": 0.5003581318467876,
+    "synergy_type": "competitive",
+    "confidence": 0.9646983099960611
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_14"
+    ],
+    "interaction_strength": 0.6820888602297439,
+    "synergy_type": "complementary",
+    "confidence": 0.8153555591429349
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_15"
+    ],
+    "interaction_strength": 0.2215129036542448,
+    "synergy_type": "competitive",
+    "confidence": 0.8564316488371116
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_16"
+    ],
+    "interaction_strength": 0.2962785939536571,
+    "synergy_type": "competitive",
+    "confidence": 0.8941151293231051
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_17"
+    ],
+    "interaction_strength": 0.6676431119548647,
+    "synergy_type": "competitive",
+    "confidence": 0.9755783997584224
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_18"
+    ],
+    "interaction_strength": 0.5622703454793553,
+    "synergy_type": "complementary",
+    "confidence": 0.8341366982503786
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_19"
+    ],
+    "interaction_strength": 0.6671728079246415,
+    "synergy_type": "neutral",
+    "confidence": 0.776655481019299
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_20"
+    ],
+    "interaction_strength": 0.6083451429443009,
+    "synergy_type": "neutral",
+    "confidence": 0.9720490089335984
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_21"
+    ],
+    "interaction_strength": 0.24479947332060492,
+    "synergy_type": "complementary",
+    "confidence": 0.8933587775659371
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_22"
+    ],
+    "interaction_strength": 0.3639727375974553,
+    "synergy_type": "competitive",
+    "confidence": 0.8606991615501084
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_23"
+    ],
+    "interaction_strength": 0.2772656358731255,
+    "synergy_type": "competitive",
+    "confidence": 0.7983309619000465
+  },
+  {
+    "job_pair": [
+      "job_3",
+      "job_24"
+    ],
+    "interaction_strength": 0.740361461567058,
+    "synergy_type": "complementary",
+    "confidence": 0.7142230263761348
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_5"
+    ],
+    "interaction_strength": 0.3148767198327225,
+    "synergy_type": "neutral",
+    "confidence": 0.8678194367165624
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_6"
+    ],
+    "interaction_strength": 0.23407066104823054,
+    "synergy_type": "neutral",
+    "confidence": 0.7032362662331082
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_7"
+    ],
+    "interaction_strength": 0.7541412537012091,
+    "synergy_type": "complementary",
+    "confidence": 0.8834868986244317
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_8"
+    ],
+    "interaction_strength": 0.6182491186722971,
+    "synergy_type": "neutral",
+    "confidence": 0.8180918169130127
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_9"
+    ],
+    "interaction_strength": 0.31070075588116586,
+    "synergy_type": "complementary",
+    "confidence": 0.7336398148402834
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_10"
+    ],
+    "interaction_strength": 0.5550723128156372,
+    "synergy_type": "competitive",
+    "confidence": 0.9318861605516096
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_11"
+    ],
+    "interaction_strength": 0.4140926334474165,
+    "synergy_type": "competitive",
+    "confidence": 0.7056040373556455
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_12"
+    ],
+    "interaction_strength": 0.22583207155651708,
+    "synergy_type": "competitive",
+    "confidence": 0.7656928262584974
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_13"
+    ],
+    "interaction_strength": 0.2171905888187263,
+    "synergy_type": "complementary",
+    "confidence": 0.7440095887583495
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_14"
+    ],
+    "interaction_strength": 0.3670600333051318,
+    "synergy_type": "competitive",
+    "confidence": 0.9333637228701723
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_15"
+    ],
+    "interaction_strength": 0.4915290730246272,
+    "synergy_type": "complementary",
+    "confidence": 0.833602784125983
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_16"
+    ],
+    "interaction_strength": 0.6987193216617698,
+    "synergy_type": "complementary",
+    "confidence": 0.7081155694351644
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_17"
+    ],
+    "interaction_strength": 0.6385906519111578,
+    "synergy_type": "competitive",
+    "confidence": 0.8797734225080218
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_18"
+    ],
+    "interaction_strength": 0.4172997742636738,
+    "synergy_type": "complementary",
+    "confidence": 0.9195200249627649
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_19"
+    ],
+    "interaction_strength": 0.48726435165212734,
+    "synergy_type": "complementary",
+    "confidence": 0.9673400073287108
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_20"
+    ],
+    "interaction_strength": 0.4969668553194445,
+    "synergy_type": "competitive",
+    "confidence": 0.8570541485253964
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_21"
+    ],
+    "interaction_strength": 0.37186795619326884,
+    "synergy_type": "complementary",
+    "confidence": 0.7886720012643864
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_22"
+    ],
+    "interaction_strength": 0.6963941433516321,
+    "synergy_type": "competitive",
+    "confidence": 0.9314212741254752
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_23"
+    ],
+    "interaction_strength": 0.6737885285640295,
+    "synergy_type": "neutral",
+    "confidence": 0.725698926147742
+  },
+  {
+    "job_pair": [
+      "job_4",
+      "job_24"
+    ],
+    "interaction_strength": 0.40314715943843715,
+    "synergy_type": "complementary",
+    "confidence": 0.8733894629531795
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_6"
+    ],
+    "interaction_strength": 0.5388195754106156,
+    "synergy_type": "competitive",
+    "confidence": 0.9297705715861834
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_7"
+    ],
+    "interaction_strength": 0.22317818842620296,
+    "synergy_type": "neutral",
+    "confidence": 0.8794831421784878
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_8"
+    ],
+    "interaction_strength": 0.4284321767227046,
+    "synergy_type": "competitive",
+    "confidence": 0.8178692943384567
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_9"
+    ],
+    "interaction_strength": 0.427515609889098,
+    "synergy_type": "complementary",
+    "confidence": 0.8871077636971988
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_10"
+    ],
+    "interaction_strength": 0.2741977020791688,
+    "synergy_type": "complementary",
+    "confidence": 0.8547960331395588
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_11"
+    ],
+    "interaction_strength": 0.7741834073325093,
+    "synergy_type": "complementary",
+    "confidence": 0.7536598893151099
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_12"
+    ],
+    "interaction_strength": 0.7152629865319586,
+    "synergy_type": "competitive",
+    "confidence": 0.9793510992341332
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_13"
+    ],
+    "interaction_strength": 0.6378946151456093,
+    "synergy_type": "competitive",
+    "confidence": 0.7316570839755817
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_14"
+    ],
+    "interaction_strength": 0.7864258140265274,
+    "synergy_type": "complementary",
+    "confidence": 0.799739351800798
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_15"
+    ],
+    "interaction_strength": 0.41587924753334105,
+    "synergy_type": "neutral",
+    "confidence": 0.8434612451516791
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_16"
+    ],
+    "interaction_strength": 0.6640580467419924,
+    "synergy_type": "neutral",
+    "confidence": 0.8233787925699455
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_17"
+    ],
+    "interaction_strength": 0.44777034412829775,
+    "synergy_type": "complementary",
+    "confidence": 0.7302445283759598
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_18"
+    ],
+    "interaction_strength": 0.25521638196360563,
+    "synergy_type": "neutral",
+    "confidence": 0.8685243264518459
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_19"
+    ],
+    "interaction_strength": 0.20501291022544288,
+    "synergy_type": "complementary",
+    "confidence": 0.784636245550499
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_20"
+    ],
+    "interaction_strength": 0.3637635445941654,
+    "synergy_type": "competitive",
+    "confidence": 0.988001867631292
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_21"
+    ],
+    "interaction_strength": 0.5296137560673446,
+    "synergy_type": "neutral",
+    "confidence": 0.8789959793728304
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_22"
+    ],
+    "interaction_strength": 0.297837922321715,
+    "synergy_type": "competitive",
+    "confidence": 0.7934465338939569
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_23"
+    ],
+    "interaction_strength": 0.46953873375668204,
+    "synergy_type": "complementary",
+    "confidence": 0.9632518817152451
+  },
+  {
+    "job_pair": [
+      "job_5",
+      "job_24"
+    ],
+    "interaction_strength": 0.7335314793273462,
+    "synergy_type": "neutral",
+    "confidence": 0.9067172522331514
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_7"
+    ],
+    "interaction_strength": 0.7932375914293481,
+    "synergy_type": "complementary",
+    "confidence": 0.8641274594647668
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_8"
+    ],
+    "interaction_strength": 0.397543927092086,
+    "synergy_type": "neutral",
+    "confidence": 0.8387661609747195
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_9"
+    ],
+    "interaction_strength": 0.5768458186427816,
+    "synergy_type": "neutral",
+    "confidence": 0.7975512436090845
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_10"
+    ],
+    "interaction_strength": 0.6955999145856102,
+    "synergy_type": "neutral",
+    "confidence": 0.7201726825371977
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_11"
+    ],
+    "interaction_strength": 0.3315427057433783,
+    "synergy_type": "complementary",
+    "confidence": 0.7454175841490166
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_12"
+    ],
+    "interaction_strength": 0.59435281907639,
+    "synergy_type": "competitive",
+    "confidence": 0.9861940710470811
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_13"
+    ],
+    "interaction_strength": 0.7092708403230867,
+    "synergy_type": "competitive",
+    "confidence": 0.9646588124723818
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_14"
+    ],
+    "interaction_strength": 0.6113516285245004,
+    "synergy_type": "complementary",
+    "confidence": 0.8683216436673031
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_15"
+    ],
+    "interaction_strength": 0.40173196970863123,
+    "synergy_type": "neutral",
+    "confidence": 0.8812953690013531
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_16"
+    ],
+    "interaction_strength": 0.43651612029918013,
+    "synergy_type": "competitive",
+    "confidence": 0.7567238107952473
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_17"
+    ],
+    "interaction_strength": 0.6997600038321035,
+    "synergy_type": "competitive",
+    "confidence": 0.7197661872940209
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_18"
+    ],
+    "interaction_strength": 0.38017569452003247,
+    "synergy_type": "neutral",
+    "confidence": 0.7420527519014182
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_19"
+    ],
+    "interaction_strength": 0.44159284796371895,
+    "synergy_type": "neutral",
+    "confidence": 0.7673118653794002
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_20"
+    ],
+    "interaction_strength": 0.24972109740707182,
+    "synergy_type": "competitive",
+    "confidence": 0.8813918206984194
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_21"
+    ],
+    "interaction_strength": 0.25240913288201894,
+    "synergy_type": "complementary",
+    "confidence": 0.7111757964322435
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_22"
+    ],
+    "interaction_strength": 0.7186420932865092,
+    "synergy_type": "neutral",
+    "confidence": 0.9003121724055326
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_23"
+    ],
+    "interaction_strength": 0.2374489019099212,
+    "synergy_type": "complementary",
+    "confidence": 0.8483969767846214
+  },
+  {
+    "job_pair": [
+      "job_6",
+      "job_24"
+    ],
+    "interaction_strength": 0.3011412882413086,
+    "synergy_type": "competitive",
+    "confidence": 0.980599994662474
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_8"
+    ],
+    "interaction_strength": 0.778482744802081,
+    "synergy_type": "complementary",
+    "confidence": 0.9147298944693791
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_9"
+    ],
+    "interaction_strength": 0.2185415779207505,
+    "synergy_type": "neutral",
+    "confidence": 0.9235712812229153
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_10"
+    ],
+    "interaction_strength": 0.7585599702759167,
+    "synergy_type": "neutral",
+    "confidence": 0.8673300905994648
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_11"
+    ],
+    "interaction_strength": 0.31862346344374065,
+    "synergy_type": "neutral",
+    "confidence": 0.7902966678798984
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_12"
+    ],
+    "interaction_strength": 0.647257851529518,
+    "synergy_type": "complementary",
+    "confidence": 0.9681420401889835
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_13"
+    ],
+    "interaction_strength": 0.21652500725990956,
+    "synergy_type": "complementary",
+    "confidence": 0.8547856973465899
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_14"
+    ],
+    "interaction_strength": 0.7836013412588905,
+    "synergy_type": "neutral",
+    "confidence": 0.9732584966161146
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_15"
+    ],
+    "interaction_strength": 0.4528968219046886,
+    "synergy_type": "complementary",
+    "confidence": 0.8299519805149331
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_16"
+    ],
+    "interaction_strength": 0.3468652995873901,
+    "synergy_type": "complementary",
+    "confidence": 0.900076621316435
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_17"
+    ],
+    "interaction_strength": 0.6349887495744244,
+    "synergy_type": "competitive",
+    "confidence": 0.9383742424058504
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_18"
+    ],
+    "interaction_strength": 0.6765931285824471,
+    "synergy_type": "complementary",
+    "confidence": 0.933755102126849
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_19"
+    ],
+    "interaction_strength": 0.38523758637454353,
+    "synergy_type": "competitive",
+    "confidence": 0.9941880912967849
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_20"
+    ],
+    "interaction_strength": 0.6295936415543022,
+    "synergy_type": "neutral",
+    "confidence": 0.7574051748899713
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_21"
+    ],
+    "interaction_strength": 0.6157630270807493,
+    "synergy_type": "neutral",
+    "confidence": 0.7361805646511281
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_22"
+    ],
+    "interaction_strength": 0.20920950944766945,
+    "synergy_type": "competitive",
+    "confidence": 0.7291648666406124
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_23"
+    ],
+    "interaction_strength": 0.5428189493982891,
+    "synergy_type": "complementary",
+    "confidence": 0.9256566895799276
+  },
+  {
+    "job_pair": [
+      "job_7",
+      "job_24"
+    ],
+    "interaction_strength": 0.3155881103420741,
+    "synergy_type": "competitive",
+    "confidence": 0.9364243027432831
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_9"
+    ],
+    "interaction_strength": 0.6127165087913369,
+    "synergy_type": "competitive",
+    "confidence": 0.8519440830386285
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_10"
+    ],
+    "interaction_strength": 0.6524522197103765,
+    "synergy_type": "competitive",
+    "confidence": 0.7225498063665723
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_11"
+    ],
+    "interaction_strength": 0.4084742683819591,
+    "synergy_type": "complementary",
+    "confidence": 0.9487517456556156
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_12"
+    ],
+    "interaction_strength": 0.3255652565809261,
+    "synergy_type": "neutral",
+    "confidence": 0.786724473971687
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_13"
+    ],
+    "interaction_strength": 0.28461329927153534,
+    "synergy_type": "competitive",
+    "confidence": 0.8240108534819992
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_14"
+    ],
+    "interaction_strength": 0.2253425620734379,
+    "synergy_type": "competitive",
+    "confidence": 0.7389971029099512
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_15"
+    ],
+    "interaction_strength": 0.2127714640244033,
+    "synergy_type": "complementary",
+    "confidence": 0.9713316199872679
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_16"
+    ],
+    "interaction_strength": 0.6178350515755129,
+    "synergy_type": "competitive",
+    "confidence": 0.834723957179329
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_17"
+    ],
+    "interaction_strength": 0.4207304862231299,
+    "synergy_type": "neutral",
+    "confidence": 0.8260981342861247
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_18"
+    ],
+    "interaction_strength": 0.4658367616190086,
+    "synergy_type": "competitive",
+    "confidence": 0.8909657746241536
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_19"
+    ],
+    "interaction_strength": 0.46699503991742064,
+    "synergy_type": "competitive",
+    "confidence": 0.7751449872164102
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_20"
+    ],
+    "interaction_strength": 0.36027330405209657,
+    "synergy_type": "neutral",
+    "confidence": 0.8604949273774141
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_21"
+    ],
+    "interaction_strength": 0.21730331312087223,
+    "synergy_type": "complementary",
+    "confidence": 0.822457889088407
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_22"
+    ],
+    "interaction_strength": 0.4943119122614845,
+    "synergy_type": "competitive",
+    "confidence": 0.7732687137583116
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_23"
+    ],
+    "interaction_strength": 0.48121929574390837,
+    "synergy_type": "complementary",
+    "confidence": 0.7787042056195114
+  },
+  {
+    "job_pair": [
+      "job_8",
+      "job_24"
+    ],
+    "interaction_strength": 0.5011361020002234,
+    "synergy_type": "neutral",
+    "confidence": 0.7420102044250951
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_10"
+    ],
+    "interaction_strength": 0.3745538847078873,
+    "synergy_type": "neutral",
+    "confidence": 0.8314115126848061
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_11"
+    ],
+    "interaction_strength": 0.42800289043111317,
+    "synergy_type": "competitive",
+    "confidence": 0.7411377045615699
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_12"
+    ],
+    "interaction_strength": 0.26528208095307654,
+    "synergy_type": "competitive",
+    "confidence": 0.9678314185831853
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_13"
+    ],
+    "interaction_strength": 0.39448372283839767,
+    "synergy_type": "neutral",
+    "confidence": 0.8565019679724779
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_14"
+    ],
+    "interaction_strength": 0.5130411810733511,
+    "synergy_type": "competitive",
+    "confidence": 0.8643289200404585
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_15"
+    ],
+    "interaction_strength": 0.7008113133257297,
+    "synergy_type": "competitive",
+    "confidence": 0.7399181989706656
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_16"
+    ],
+    "interaction_strength": 0.3378978212224716,
+    "synergy_type": "competitive",
+    "confidence": 0.9288073367542753
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_17"
+    ],
+    "interaction_strength": 0.7393673475056755,
+    "synergy_type": "complementary",
+    "confidence": 0.8515953122158868
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_18"
+    ],
+    "interaction_strength": 0.42069195138767235,
+    "synergy_type": "complementary",
+    "confidence": 0.7395388199293482
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_19"
+    ],
+    "interaction_strength": 0.30576942052817196,
+    "synergy_type": "competitive",
+    "confidence": 0.8279886591211352
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_20"
+    ],
+    "interaction_strength": 0.6056965157466692,
+    "synergy_type": "neutral",
+    "confidence": 0.8071321912445185
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_21"
+    ],
+    "interaction_strength": 0.6529279575854483,
+    "synergy_type": "neutral",
+    "confidence": 0.8862787656618859
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_22"
+    ],
+    "interaction_strength": 0.2481852572901296,
+    "synergy_type": "competitive",
+    "confidence": 0.8336368920642777
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_23"
+    ],
+    "interaction_strength": 0.45643480088046146,
+    "synergy_type": "complementary",
+    "confidence": 0.9699504837430302
+  },
+  {
+    "job_pair": [
+      "job_9",
+      "job_24"
+    ],
+    "interaction_strength": 0.3649843247106489,
+    "synergy_type": "competitive",
+    "confidence": 0.7901898446234494
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_11"
+    ],
+    "interaction_strength": 0.43658805900156006,
+    "synergy_type": "neutral",
+    "confidence": 0.7502335598909374
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_12"
+    ],
+    "interaction_strength": 0.3643456678610707,
+    "synergy_type": "complementary",
+    "confidence": 0.9926825281740816
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_13"
+    ],
+    "interaction_strength": 0.3520458055368837,
+    "synergy_type": "complementary",
+    "confidence": 0.9553265806420923
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_14"
+    ],
+    "interaction_strength": 0.6484853663711043,
+    "synergy_type": "neutral",
+    "confidence": 0.8794665767315801
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_15"
+    ],
+    "interaction_strength": 0.26382910552473604,
+    "synergy_type": "complementary",
+    "confidence": 0.8990379669257125
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_16"
+    ],
+    "interaction_strength": 0.4306471842928067,
+    "synergy_type": "competitive",
+    "confidence": 0.9979504528119453
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_17"
+    ],
+    "interaction_strength": 0.7112612367329101,
+    "synergy_type": "complementary",
+    "confidence": 0.9676824370688719
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_18"
+    ],
+    "interaction_strength": 0.6544638359369739,
+    "synergy_type": "neutral",
+    "confidence": 0.7791680702136942
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_19"
+    ],
+    "interaction_strength": 0.24790231116927403,
+    "synergy_type": "complementary",
+    "confidence": 0.8162014037669215
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_20"
+    ],
+    "interaction_strength": 0.3229464082973318,
+    "synergy_type": "competitive",
+    "confidence": 0.742372695428838
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_21"
+    ],
+    "interaction_strength": 0.2344821041776827,
+    "synergy_type": "competitive",
+    "confidence": 0.8083987109566778
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_22"
+    ],
+    "interaction_strength": 0.46445167190248005,
+    "synergy_type": "neutral",
+    "confidence": 0.8253980264732721
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_23"
+    ],
+    "interaction_strength": 0.705744294203487,
+    "synergy_type": "complementary",
+    "confidence": 0.9650647774035344
+  },
+  {
+    "job_pair": [
+      "job_10",
+      "job_24"
+    ],
+    "interaction_strength": 0.2714289025415514,
+    "synergy_type": "neutral",
+    "confidence": 0.9666372175222341
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_12"
+    ],
+    "interaction_strength": 0.7625866720143342,
+    "synergy_type": "competitive",
+    "confidence": 0.7235894792701819
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_13"
+    ],
+    "interaction_strength": 0.3409417872391174,
+    "synergy_type": "neutral",
+    "confidence": 0.9549177260039454
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_14"
+    ],
+    "interaction_strength": 0.3696392228267933,
+    "synergy_type": "competitive",
+    "confidence": 0.7577256293581598
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_15"
+    ],
+    "interaction_strength": 0.41532594926889776,
+    "synergy_type": "neutral",
+    "confidence": 0.7900913233538566
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_16"
+    ],
+    "interaction_strength": 0.4176105579378412,
+    "synergy_type": "complementary",
+    "confidence": 0.9168553940978961
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_17"
+    ],
+    "interaction_strength": 0.6890791391896154,
+    "synergy_type": "competitive",
+    "confidence": 0.733493491618119
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_18"
+    ],
+    "interaction_strength": 0.5666039597340344,
+    "synergy_type": "neutral",
+    "confidence": 0.9120783257370801
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_19"
+    ],
+    "interaction_strength": 0.3989522801142755,
+    "synergy_type": "competitive",
+    "confidence": 0.990787516214405
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_20"
+    ],
+    "interaction_strength": 0.2776797139218872,
+    "synergy_type": "complementary",
+    "confidence": 0.9266832750849547
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_21"
+    ],
+    "interaction_strength": 0.5358133960434175,
+    "synergy_type": "competitive",
+    "confidence": 0.9896890019863326
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_22"
+    ],
+    "interaction_strength": 0.7370299016780073,
+    "synergy_type": "complementary",
+    "confidence": 0.7309529251116181
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_23"
+    ],
+    "interaction_strength": 0.4216743196568169,
+    "synergy_type": "neutral",
+    "confidence": 0.7093330034187165
+  },
+  {
+    "job_pair": [
+      "job_11",
+      "job_24"
+    ],
+    "interaction_strength": 0.3156042499389772,
+    "synergy_type": "neutral",
+    "confidence": 0.7434441571886412
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_13"
+    ],
+    "interaction_strength": 0.2976289943733748,
+    "synergy_type": "complementary",
+    "confidence": 0.9363691949727055
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_14"
+    ],
+    "interaction_strength": 0.7368539192106203,
+    "synergy_type": "complementary",
+    "confidence": 0.9201177359610608
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_15"
+    ],
+    "interaction_strength": 0.7527281173499116,
+    "synergy_type": "complementary",
+    "confidence": 0.9837276764776145
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_16"
+    ],
+    "interaction_strength": 0.7903056502483876,
+    "synergy_type": "neutral",
+    "confidence": 0.9794607247860417
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_17"
+    ],
+    "interaction_strength": 0.31332368550000345,
+    "synergy_type": "complementary",
+    "confidence": 0.7832296069461967
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_18"
+    ],
+    "interaction_strength": 0.6486604778908902,
+    "synergy_type": "neutral",
+    "confidence": 0.8521365734712604
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_19"
+    ],
+    "interaction_strength": 0.5130941684862749,
+    "synergy_type": "complementary",
+    "confidence": 0.8946650929490123
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_20"
+    ],
+    "interaction_strength": 0.5242505026189264,
+    "synergy_type": "complementary",
+    "confidence": 0.7918156159376875
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_21"
+    ],
+    "interaction_strength": 0.5503436804729642,
+    "synergy_type": "complementary",
+    "confidence": 0.9139461042840635
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_22"
+    ],
+    "interaction_strength": 0.4011876626954742,
+    "synergy_type": "competitive",
+    "confidence": 0.9036722288187866
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_23"
+    ],
+    "interaction_strength": 0.35153414326795107,
+    "synergy_type": "neutral",
+    "confidence": 0.8690047778843544
+  },
+  {
+    "job_pair": [
+      "job_12",
+      "job_24"
+    ],
+    "interaction_strength": 0.5848158147835321,
+    "synergy_type": "competitive",
+    "confidence": 0.7858029661540512
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_14"
+    ],
+    "interaction_strength": 0.5070419242573526,
+    "synergy_type": "competitive",
+    "confidence": 0.9646216188333478
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_15"
+    ],
+    "interaction_strength": 0.47222944133522554,
+    "synergy_type": "competitive",
+    "confidence": 0.8367112928195692
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_16"
+    ],
+    "interaction_strength": 0.7560592252606899,
+    "synergy_type": "complementary",
+    "confidence": 0.9691480466316846
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_17"
+    ],
+    "interaction_strength": 0.7904677546738859,
+    "synergy_type": "complementary",
+    "confidence": 0.8900700055489509
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_18"
+    ],
+    "interaction_strength": 0.5793062873332571,
+    "synergy_type": "neutral",
+    "confidence": 0.7747964577593757
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_19"
+    ],
+    "interaction_strength": 0.24043480653648253,
+    "synergy_type": "complementary",
+    "confidence": 0.7971600229251504
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_20"
+    ],
+    "interaction_strength": 0.4119690125696599,
+    "synergy_type": "neutral",
+    "confidence": 0.7854078194281293
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_21"
+    ],
+    "interaction_strength": 0.6343127495203283,
+    "synergy_type": "competitive",
+    "confidence": 0.7697904823102484
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_22"
+    ],
+    "interaction_strength": 0.7734356478884639,
+    "synergy_type": "complementary",
+    "confidence": 0.8629799950362746
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_23"
+    ],
+    "interaction_strength": 0.26060759502943176,
+    "synergy_type": "complementary",
+    "confidence": 0.7401488665038067
+  },
+  {
+    "job_pair": [
+      "job_13",
+      "job_24"
+    ],
+    "interaction_strength": 0.32826650995000894,
+    "synergy_type": "competitive",
+    "confidence": 0.7847784329756562
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_15"
+    ],
+    "interaction_strength": 0.6887179443410493,
+    "synergy_type": "competitive",
+    "confidence": 0.7489554823970141
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_16"
+    ],
+    "interaction_strength": 0.4712243665257265,
+    "synergy_type": "neutral",
+    "confidence": 0.8288702061478089
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_17"
+    ],
+    "interaction_strength": 0.728935716962336,
+    "synergy_type": "complementary",
+    "confidence": 0.9768569322907432
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_18"
+    ],
+    "interaction_strength": 0.7121581299320228,
+    "synergy_type": "complementary",
+    "confidence": 0.9625281685395969
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_19"
+    ],
+    "interaction_strength": 0.27038761978511366,
+    "synergy_type": "complementary",
+    "confidence": 0.8930321755588422
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_20"
+    ],
+    "interaction_strength": 0.6260081921730487,
+    "synergy_type": "neutral",
+    "confidence": 0.7340582472860873
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_21"
+    ],
+    "interaction_strength": 0.7497340295171389,
+    "synergy_type": "complementary",
+    "confidence": 0.7121758660844917
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_22"
+    ],
+    "interaction_strength": 0.6336396375134008,
+    "synergy_type": "competitive",
+    "confidence": 0.9934682826045329
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_23"
+    ],
+    "interaction_strength": 0.34468376065315964,
+    "synergy_type": "complementary",
+    "confidence": 0.7325707857840179
+  },
+  {
+    "job_pair": [
+      "job_14",
+      "job_24"
+    ],
+    "interaction_strength": 0.5088647643126513,
+    "synergy_type": "neutral",
+    "confidence": 0.9038468716643339
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_16"
+    ],
+    "interaction_strength": 0.6982357087376325,
+    "synergy_type": "competitive",
+    "confidence": 0.949972383217278
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_17"
+    ],
+    "interaction_strength": 0.6469046555893032,
+    "synergy_type": "neutral",
+    "confidence": 0.9487516301460953
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_18"
+    ],
+    "interaction_strength": 0.6032899912429932,
+    "synergy_type": "neutral",
+    "confidence": 0.8045988954195119
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_19"
+    ],
+    "interaction_strength": 0.31041497827764974,
+    "synergy_type": "competitive",
+    "confidence": 0.7138979383027746
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_20"
+    ],
+    "interaction_strength": 0.3440362642460134,
+    "synergy_type": "neutral",
+    "confidence": 0.791098362770421
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_21"
+    ],
+    "interaction_strength": 0.2941591404721166,
+    "synergy_type": "competitive",
+    "confidence": 0.8163665958113785
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_22"
+    ],
+    "interaction_strength": 0.48987739604204267,
+    "synergy_type": "competitive",
+    "confidence": 0.8567323039699043
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_23"
+    ],
+    "interaction_strength": 0.37072391236236657,
+    "synergy_type": "neutral",
+    "confidence": 0.8740881943632192
+  },
+  {
+    "job_pair": [
+      "job_15",
+      "job_24"
+    ],
+    "interaction_strength": 0.632527074920159,
+    "synergy_type": "complementary",
+    "confidence": 0.9091320165355169
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_17"
+    ],
+    "interaction_strength": 0.4687665446389867,
+    "synergy_type": "competitive",
+    "confidence": 0.9621936643211046
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_18"
+    ],
+    "interaction_strength": 0.707872261672893,
+    "synergy_type": "complementary",
+    "confidence": 0.7688999186805074
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_19"
+    ],
+    "interaction_strength": 0.39207483331623055,
+    "synergy_type": "neutral",
+    "confidence": 0.8170941978231689
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_20"
+    ],
+    "interaction_strength": 0.24149473622526715,
+    "synergy_type": "competitive",
+    "confidence": 0.9644977106161677
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_21"
+    ],
+    "interaction_strength": 0.6776682894316836,
+    "synergy_type": "neutral",
+    "confidence": 0.8647398607650432
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_22"
+    ],
+    "interaction_strength": 0.21642065718254525,
+    "synergy_type": "competitive",
+    "confidence": 0.9782446814393103
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_23"
+    ],
+    "interaction_strength": 0.7726904507470147,
+    "synergy_type": "competitive",
+    "confidence": 0.8777500139999773
+  },
+  {
+    "job_pair": [
+      "job_16",
+      "job_24"
+    ],
+    "interaction_strength": 0.5616484822010543,
+    "synergy_type": "competitive",
+    "confidence": 0.836593425101286
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_18"
+    ],
+    "interaction_strength": 0.3833765203420555,
+    "synergy_type": "complementary",
+    "confidence": 0.838412108382958
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_19"
+    ],
+    "interaction_strength": 0.6006240791675751,
+    "synergy_type": "neutral",
+    "confidence": 0.9527986342942414
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_20"
+    ],
+    "interaction_strength": 0.48931538641882316,
+    "synergy_type": "competitive",
+    "confidence": 0.9577025493524032
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_21"
+    ],
+    "interaction_strength": 0.35927096291635907,
+    "synergy_type": "competitive",
+    "confidence": 0.9024701611521194
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_22"
+    ],
+    "interaction_strength": 0.6302671374487843,
+    "synergy_type": "neutral",
+    "confidence": 0.7316247930423054
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_23"
+    ],
+    "interaction_strength": 0.7950611224876216,
+    "synergy_type": "complementary",
+    "confidence": 0.919479823371699
+  },
+  {
+    "job_pair": [
+      "job_17",
+      "job_24"
+    ],
+    "interaction_strength": 0.2677167219852812,
+    "synergy_type": "complementary",
+    "confidence": 0.9129600745679701
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_19"
+    ],
+    "interaction_strength": 0.2193280176899202,
+    "synergy_type": "neutral",
+    "confidence": 0.9808728600001808
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_20"
+    ],
+    "interaction_strength": 0.507024826566713,
+    "synergy_type": "neutral",
+    "confidence": 0.7376479080663496
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_21"
+    ],
+    "interaction_strength": 0.4309224621486276,
+    "synergy_type": "complementary",
+    "confidence": 0.8318899574266135
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_22"
+    ],
+    "interaction_strength": 0.3862855433363884,
+    "synergy_type": "neutral",
+    "confidence": 0.9005299459731645
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_23"
+    ],
+    "interaction_strength": 0.36164653085378157,
+    "synergy_type": "competitive",
+    "confidence": 0.8999275345707343
+  },
+  {
+    "job_pair": [
+      "job_18",
+      "job_24"
+    ],
+    "interaction_strength": 0.6917830016524247,
+    "synergy_type": "complementary",
+    "confidence": 0.8179270744361249
+  },
+  {
+    "job_pair": [
+      "job_19",
+      "job_20"
+    ],
+    "interaction_strength": 0.3988429345034173,
+    "synergy_type": "neutral",
+    "confidence": 0.7490815869993181
+  },
+  {
+    "job_pair": [
+      "job_19",
+      "job_21"
+    ],
+    "interaction_strength": 0.6457811513452166,
+    "synergy_type": "neutral",
+    "confidence": 0.7381243878683545
+  },
+  {
+    "job_pair": [
+      "job_19",
+      "job_22"
+    ],
+    "interaction_strength": 0.36409231796678343,
+    "synergy_type": "complementary",
+    "confidence": 0.9705420846806052
+  },
+  {
+    "job_pair": [
+      "job_19",
+      "job_23"
+    ],
+    "interaction_strength": 0.7019500759613473,
+    "synergy_type": "complementary",
+    "confidence": 0.784597614581428
+  },
+  {
+    "job_pair": [
+      "job_19",
+      "job_24"
+    ],
+    "interaction_strength": 0.2558037116335356,
+    "synergy_type": "complementary",
+    "confidence": 0.9210328634058912
+  },
+  {
+    "job_pair": [
+      "job_20",
+      "job_21"
+    ],
+    "interaction_strength": 0.7199552091645822,
+    "synergy_type": "neutral",
+    "confidence": 0.7034793726404991
+  },
+  {
+    "job_pair": [
+      "job_20",
+      "job_22"
+    ],
+    "interaction_strength": 0.383751164285544,
+    "synergy_type": "complementary",
+    "confidence": 0.72756335932901
+  },
+  {
+    "job_pair": [
+      "job_20",
+      "job_23"
+    ],
+    "interaction_strength": 0.2713185842728989,
+    "synergy_type": "neutral",
+    "confidence": 0.7509447136077114
+  },
+  {
+    "job_pair": [
+      "job_20",
+      "job_24"
+    ],
+    "interaction_strength": 0.42877776046402044,
+    "synergy_type": "complementary",
+    "confidence": 0.7257215820415942
+  },
+  {
+    "job_pair": [
+      "job_21",
+      "job_22"
+    ],
+    "interaction_strength": 0.6918747315626947,
+    "synergy_type": "competitive",
+    "confidence": 0.7844427645075107
+  },
+  {
+    "job_pair": [
+      "job_21",
+      "job_23"
+    ],
+    "interaction_strength": 0.2604516506490696,
+    "synergy_type": "competitive",
+    "confidence": 0.8617368447619114
+  },
+  {
+    "job_pair": [
+      "job_21",
+      "job_24"
+    ],
+    "interaction_strength": 0.364649739065692,
+    "synergy_type": "complementary",
+    "confidence": 0.9737169309726674
+  },
+  {
+    "job_pair": [
+      "job_22",
+      "job_23"
+    ],
+    "interaction_strength": 0.7877538538309172,
+    "synergy_type": "complementary",
+    "confidence": 0.7013949466437006
+  },
+  {
+    "job_pair": [
+      "job_22",
+      "job_24"
+    ],
+    "interaction_strength": 0.22965673561713,
+    "synergy_type": "competitive",
+    "confidence": 0.7596570648538169
+  },
+  {
+    "job_pair": [
+      "job_23",
+      "job_24"
+    ],
+    "interaction_strength": 0.33714245296064227,
+    "synergy_type": "complementary",
+    "confidence": 0.7571885662643891
+  }
+]

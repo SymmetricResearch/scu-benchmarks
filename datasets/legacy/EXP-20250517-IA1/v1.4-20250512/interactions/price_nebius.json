@@ -1,0 +1,262 @@
+[
+  {
+    "instance_pair": [
+      "nebius_instance_0",
+      "nebius_instance_10"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.20066939301956263,
+    "price_correlation": 0.30403666964613013,
+    "confidence": 0.8840397630312183
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_1",
+      "nebius_instance_11"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.2532929065764643,
+    "price_correlation": 0.5887556173614485,
+    "confidence": 0.8870831953757895
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_2",
+      "nebius_instance_12"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.4102120997167915,
+    "price_correlation": 0.40979059069843027,
+    "confidence": 0.9651695665016556
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_3",
+      "nebius_instance_13"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.1036499011223955,
+    "price_correlation": 0.8996884184995262,
+    "confidence": 0.8142779715159129
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_4",
+      "nebius_instance_14"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.468737643265112,
+    "price_correlation": 0.8221063238531188,
+    "confidence": 0.9556585315997524
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_5",
+      "nebius_instance_15"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.3242627221035007,
+    "price_correlation": 0.5636326348813971,
+    "confidence": 0.9446185515927454
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_6",
+      "nebius_instance_16"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.47633995568652043,
+    "price_correlation": 0.6292228420894869,
+    "confidence": 0.8723164851128352
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_7",
+      "nebius_instance_17"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.40878368353526495,
+    "price_correlation": 0.49639845772992397,
+    "confidence": 0.9612317989596534
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_8",
+      "nebius_instance_18"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.39250868072678835,
+    "price_correlation": 0.684880757509351,
+    "confidence": 0.9183196346528898
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_9",
+      "nebius_instance_19"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.3903802513279455,
+    "price_correlation": 0.48710892975202635,
+    "confidence": 0.9812125750261944
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_10",
+      "nebius_instance_20"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.1886976745929179,
+    "price_correlation": 0.8714973581371455,
+    "confidence": 0.9388674917319394
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_11",
+      "nebius_instance_21"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.4871434694804352,
+    "price_correlation": 0.8830509687142472,
+    "confidence": 0.915099372395869
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_12",
+      "nebius_instance_22"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.1537176043437801,
+    "price_correlation": 0.5908192230965246,
+    "confidence": 0.8528655201922872
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_13",
+      "nebius_instance_23"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.4883086017620425,
+    "price_correlation": 0.7357646045173694,
+    "confidence": 0.8797302723153393
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_14",
+      "nebius_instance_24"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.40875299437662393,
+    "price_correlation": 0.3176205442235584,
+    "confidence": 0.8744109814745709
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_15",
+      "nebius_instance_25"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.5052491912862833,
+    "price_correlation": 0.5215798553216308,
+    "confidence": 0.8345539718047282
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_16",
+      "nebius_instance_26"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.22161347171579296,
+    "price_correlation": 0.770743963628896,
+    "confidence": 0.8920937571091725
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_17",
+      "nebius_instance_27"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.2619676478699171,
+    "price_correlation": 0.3272628905750676,
+    "confidence": 0.9427589825189012
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_18",
+      "nebius_instance_28"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.5048846423624288,
+    "price_correlation": 0.6914670697014335,
+    "confidence": 0.8093518726919433
+  },
+  {
+    "instance_pair": [
+      "nebius_instance_19",
+      "nebius_instance_29"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.38401296427893983,
+    "price_correlation": 0.7992027543294316,
+    "confidence": 0.9109867965342192
+  }
+]

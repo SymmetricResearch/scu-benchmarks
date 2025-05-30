@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "nebius_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 0.7196134856085312,
+    "normalized_cost": 1.021451217367624,
+    "spot_ratio": 0.3381483915832365
+  },
+  {
+    "instance_id": "nebius_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 1.734416062025401,
+    "normalized_cost": 0.7859449452774734,
+    "spot_ratio": 0.697935757960495
+  },
+  {
+    "instance_id": "nebius_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 1.6094192884936067,
+    "normalized_cost": 0.9388099999933568,
+    "spot_ratio": 0.34652454402449817
+  },
+  {
+    "instance_id": "nebius_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.0385307837580264,
+    "normalized_cost": 0.7741515225029211,
+    "spot_ratio": 0.4634038921281228
+  },
+  {
+    "instance_id": "nebius_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.1482905956552316,
+    "normalized_cost": 0.8622354051953581,
+    "spot_ratio": 0.7970258645126223
+  },
+  {
+    "instance_id": "nebius_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.9724417262471314,
+    "normalized_cost": 1.1713189345388417,
+    "spot_ratio": 0.4389620723809866
+  },
+  {
+    "instance_id": "nebius_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 1.3335145290773966,
+    "normalized_cost": 1.0598014666196125,
+    "spot_ratio": 0.3862997063202633
+  },
+  {
+    "instance_id": "nebius_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.9870119351399751,
+    "normalized_cost": 0.7125362508703152,
+    "spot_ratio": 0.6984614551324564
+  },
+  {
+    "instance_id": "nebius_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.510084796664968,
+    "normalized_cost": 0.8859017172158894,
+    "spot_ratio": 0.45644716746666725
+  },
+  {
+    "instance_id": "nebius_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.317303350355235,
+    "normalized_cost": 0.7357712970717905,
+    "spot_ratio": 0.42298299448560756
+  },
+  {
+    "instance_id": "nebius_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.4863731124709973,
+    "normalized_cost": 0.9212439228268414,
+    "spot_ratio": 0.303293511006911
+  },
+  {
+    "instance_id": "nebius_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.8806861560017782,
+    "normalized_cost": 1.0166651955073647,
+    "spot_ratio": 0.39476888482151873
+  },
+  {
+    "instance_id": "nebius_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 2.0477055468726286,
+    "normalized_cost": 0.8852278579126861,
+    "spot_ratio": 0.6133808692888658
+  },
+  {
+    "instance_id": "nebius_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.3529171612472861,
+    "normalized_cost": 0.8036704384812686,
+    "spot_ratio": 0.5712914259327084
+  },
+  {
+    "instance_id": "nebius_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.7957142192724485,
+    "normalized_cost": 1.1984811371859188,
+    "spot_ratio": 0.3638098797765362
+  },
+  {
+    "instance_id": "nebius_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 0.662085637410496,
+    "normalized_cost": 0.723415117105521,
+    "spot_ratio": 0.6091250070279929
+  },
+  {
+    "instance_id": "nebius_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 0.9272748906134889,
+    "normalized_cost": 0.860530761505351,
+    "spot_ratio": 0.7213122766897669
+  },
+  {
+    "instance_id": "nebius_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.2828891867423555,
+    "normalized_cost": 0.9828014940062042,
+    "spot_ratio": 0.7494425030657224
+  },
+  {
+    "instance_id": "nebius_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 0.7149615930190409,
+    "normalized_cost": 0.8267058615095362,
+    "spot_ratio": 0.5612917496790677
+  },
+  {
+    "instance_id": "nebius_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 0.5481679277607303,
+    "normalized_cost": 1.117149798764538,
+    "spot_ratio": 0.7206423245583994
+  },
+  {
+    "instance_id": "nebius_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 0.7585674632395849,
+    "normalized_cost": 0.962610269506645,
+    "spot_ratio": 0.5524191139282567
+  },
+  {
+    "instance_id": "nebius_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.6127044776332224,
+    "normalized_cost": 1.113901276947436,
+    "spot_ratio": 0.3908674839439036
+  },
+  {
+    "instance_id": "nebius_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.441992142442483,
+    "normalized_cost": 0.835508683177689,
+    "spot_ratio": 0.542382371108795
+  },
+  {
+    "instance_id": "nebius_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 2.499838144386967,
+    "normalized_cost": 0.7628016234705115,
+    "spot_ratio": 0.4373112851733701
+  },
+  {
+    "instance_id": "nebius_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 2.2620957187585637,
+    "normalized_cost": 1.1217479821545568,
+    "spot_ratio": 0.44846774249916743
+  },
+  {
+    "instance_id": "nebius_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 1.1177401075380868,
+    "normalized_cost": 0.982317296931322,
+    "spot_ratio": 0.7039251825814001
+  },
+  {
+    "instance_id": "nebius_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 2.152425954086066,
+    "normalized_cost": 1.1587537764425015,
+    "spot_ratio": 0.7012001582638508
+  },
+  {
+    "instance_id": "nebius_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.5355427625048743,
+    "normalized_cost": 0.7599467043945712,
+    "spot_ratio": 0.5656673798105205
+  },
+  {
+    "instance_id": "nebius_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 1.9959025117745832,
+    "normalized_cost": 1.0445596605532432,
+    "spot_ratio": 0.7422535667843214
+  },
+  {
+    "instance_id": "nebius_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.8735505745662155,
+    "normalized_cost": 0.7306739420596827,
+    "spot_ratio": 0.39045376705296125
+  },
+  {
+    "instance_id": "nebius_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.2867975096105375,
+    "normalized_cost": 0.989047269947095,
+    "spot_ratio": 0.5742264462806119
+  },
+  {
+    "instance_id": "nebius_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 2.309972970320589,
+    "normalized_cost": 0.9289882835022578,
+    "spot_ratio": 0.7681786999831817
+  },
+  {
+    "instance_id": "nebius_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.8032640278827121,
+    "normalized_cost": 1.0980109907382776,
+    "spot_ratio": 0.6788864243840802
+  },
+  {
+    "instance_id": "nebius_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.6935837286780684,
+    "normalized_cost": 0.9701534805749819,
+    "spot_ratio": 0.43677331764575156
+  },
+  {
+    "instance_id": "nebius_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.2014479906596787,
+    "normalized_cost": 0.8376422379064706,
+    "spot_ratio": 0.38490404548193585
+  },
+  {
+    "instance_id": "nebius_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 2.3821172345556025,
+    "normalized_cost": 0.8139423293649672,
+    "spot_ratio": 0.5486943915639403
+  },
+  {
+    "instance_id": "nebius_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 1.9216648366576499,
+    "normalized_cost": 0.9159619384429145,
+    "spot_ratio": 0.47809459584976416
+  },
+  {
+    "instance_id": "nebius_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.7474193233577315,
+    "normalized_cost": 1.1612542770545644,
+    "spot_ratio": 0.4905544878554391
+  },
+  {
+    "instance_id": "nebius_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 2.3956978172654573,
+    "normalized_cost": 1.1431506685967636,
+    "spot_ratio": 0.449413564177732
+  },
+  {
+    "instance_id": "nebius_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.2808897057029989,
+    "normalized_cost": 0.8716684877290746,
+    "spot_ratio": 0.4877411970153675
+  },
+  {
+    "instance_id": "nebius_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.2254596397577096,
+    "normalized_cost": 1.190447894161295,
+    "spot_ratio": 0.6135270777901628
+  },
+  {
+    "instance_id": "nebius_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.0322287009094202,
+    "normalized_cost": 0.8902890850979983,
+    "spot_ratio": 0.7410598973914156
+  },
+  {
+    "instance_id": "nebius_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 0.6948562700086596,
+    "normalized_cost": 0.7890289293581318,
+    "spot_ratio": 0.3041243364322677
+  },
+  {
+    "instance_id": "nebius_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.9795321204073912,
+    "normalized_cost": 0.9718326218612765,
+    "spot_ratio": 0.6613742366206604
+  },
+  {
+    "instance_id": "nebius_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 1.2917644424223893,
+    "normalized_cost": 0.9674765392899658,
+    "spot_ratio": 0.32910757563332743
+  },
+  {
+    "instance_id": "nebius_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 0.7862792988481284,
+    "normalized_cost": 1.0077110926380153,
+    "spot_ratio": 0.3863665676748537
+  },
+  {
+    "instance_id": "nebius_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 2.101049116464933,
+    "normalized_cost": 1.0406927126642613,
+    "spot_ratio": 0.5386477633625674
+  },
+  {
+    "instance_id": "nebius_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.5711594429829554,
+    "normalized_cost": 0.9629089077082612,
+    "spot_ratio": 0.34299706699057797
+  },
+  {
+    "instance_id": "nebius_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.2202479496085565,
+    "normalized_cost": 0.785097399926317,
+    "spot_ratio": 0.3957441691993047
+  },
+  {
+    "instance_id": "nebius_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.790789342913103,
+    "normalized_cost": 0.9955339347739358,
+    "spot_ratio": 0.4344125558265229
+  },
+  {
+    "instance_id": "nebius_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 2.2345506418326173,
+    "normalized_cost": 0.9247524643746962,
+    "spot_ratio": 0.5620685923862432
+  },
+  {
+    "instance_id": "nebius_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.8496376841696045,
+    "normalized_cost": 0.757935723321645,
+    "spot_ratio": 0.4626029800388032
+  },
+  {
+    "instance_id": "nebius_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 0.9342343452197606,
+    "normalized_cost": 1.1777677868370824,
+    "spot_ratio": 0.39423055323577627
+  },
+  {
+    "instance_id": "nebius_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 1.5563195305515305,
+    "normalized_cost": 0.769465279584254,
+    "spot_ratio": 0.3054299532675373
+  },
+  {
+    "instance_id": "nebius_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.3165373906452393,
+    "normalized_cost": 0.7504730354224749,
+    "spot_ratio": 0.5673567739294476
+  },
+  {
+    "instance_id": "nebius_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 2.0899603907636637,
+    "normalized_cost": 0.7740284148772116,
+    "spot_ratio": 0.6172581555878837
+  },
+  {
+    "instance_id": "nebius_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 0.6829015877816136,
+    "normalized_cost": 1.0614829203501954,
+    "spot_ratio": 0.31807280380960984
+  },
+  {
+    "instance_id": "nebius_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 2.3255515320701248,
+    "normalized_cost": 1.067619136002189,
+    "spot_ratio": 0.6131366261542057
+  },
+  {
+    "instance_id": "nebius_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 2.0576549870676146,
+    "normalized_cost": 1.0306819040859363,
+    "spot_ratio": 0.5112770355993341
+  },
+  {
+    "instance_id": "nebius_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.7160596311589114,
+    "normalized_cost": 0.7618770280961079,
+    "spot_ratio": 0.5120879112896815
+  },
+  {
+    "instance_id": "nebius_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 0.526456269755111,
+    "normalized_cost": 0.7795942592125502,
+    "spot_ratio": 0.7322580970117109
+  },
+  {
+    "instance_id": "nebius_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.6314464953128245,
+    "normalized_cost": 1.0375741323194656,
+    "spot_ratio": 0.47395045489934745
+  },
+  {
+    "instance_id": "nebius_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 1.8928321121840663,
+    "normalized_cost": 0.973543632408149,
+    "spot_ratio": 0.42952914188315955
+  },
+  {
+    "instance_id": "nebius_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.38562208507539,
+    "normalized_cost": 0.8578576263170277,
+    "spot_ratio": 0.6820101847954614
+  },
+  {
+    "instance_id": "nebius_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 2.4202082921395958,
+    "normalized_cost": 0.9693452670758094,
+    "spot_ratio": 0.42527253467885673
+  },
+  {
+    "instance_id": "nebius_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.23276507244523,
+    "normalized_cost": 0.9889529320907023,
+    "spot_ratio": 0.3522574854109536
+  },
+  {
+    "instance_id": "nebius_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 0.9087518442940887,
+    "normalized_cost": 1.1826231804809657,
+    "spot_ratio": 0.7617894290963558
+  },
+  {
+    "instance_id": "nebius_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.8195167685104554,
+    "normalized_cost": 0.7924648591092897,
+    "spot_ratio": 0.6953046930004763
+  },
+  {
+    "instance_id": "nebius_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 2.1570216520475993,
+    "normalized_cost": 0.7704207801257268,
+    "spot_ratio": 0.3333156003810294
+  },
+  {
+    "instance_id": "nebius_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 0.696162317220901,
+    "normalized_cost": 1.1303931480228533,
+    "spot_ratio": 0.37494471628211024
+  },
+  {
+    "instance_id": "nebius_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 2.2799974154486042,
+    "normalized_cost": 0.8574919292478851,
+    "spot_ratio": 0.774230545573485
+  },
+  {
+    "instance_id": "nebius_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.0732274402968192,
+    "normalized_cost": 0.9944386671043615,
+    "spot_ratio": 0.69145320421239
+  },
+  {
+    "instance_id": "nebius_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 0.5235472407350961,
+    "normalized_cost": 1.1349016758842951,
+    "spot_ratio": 0.44974947661553766
+  },
+  {
+    "instance_id": "nebius_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.4946202252009086,
+    "normalized_cost": 0.9323762554765098,
+    "spot_ratio": 0.4003972874592037
+  },
+  {
+    "instance_id": "nebius_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.9946114272471633,
+    "normalized_cost": 0.8474449940576732,
+    "spot_ratio": 0.34489629285314544
+  }
+]

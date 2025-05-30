@@ -1,0 +1,296 @@
+[
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "aws",
+    "raw_average": 1.421702297224135,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "azure",
+    "raw_average": 0.893163758556868,
+    "normalized_cost": 0.7900115066302263
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "oci",
+    "raw_average": 1.0540095976417538,
+    "normalized_cost": 0.870530820791032
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "coreweave",
+    "raw_average": 0.9543290175313462,
+    "normalized_cost": 0.8669485413251068
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "linode",
+    "raw_average": 1.0948456221909126,
+    "normalized_cost": 0.9703558116316486
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "hetzner",
+    "raw_average": 1.0623224019708992,
+    "normalized_cost": 0.7978806441314427
+  },
+  {
+    "dataset": "alibaba_gpu2020",
+    "provider": "nebius",
+    "raw_average": 1.0995745688150143,
+    "normalized_cost": 0.8233540297018169
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "aws",
+    "raw_average": 1.0712362337807304,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "azure",
+    "raw_average": 0.9284537304449052,
+    "normalized_cost": 0.7070345520347294
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "oci",
+    "raw_average": 1.0756075024592526,
+    "normalized_cost": 0.8003973200595489
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "coreweave",
+    "raw_average": 1.136650582915933,
+    "normalized_cost": 0.8512842538703548
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "linode",
+    "raw_average": 1.3985462340922685,
+    "normalized_cost": 0.9437968941936833
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "hetzner",
+    "raw_average": 0.9877153857016122,
+    "normalized_cost": 0.7837037705806164
+  },
+  {
+    "dataset": "alibaba_gpu2025",
+    "provider": "nebius",
+    "raw_average": 1.1001533238054904,
+    "normalized_cost": 0.7836700818921184
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "aws",
+    "raw_average": 1.4172500087178557,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "azure",
+    "raw_average": 0.8615793756699431,
+    "normalized_cost": 0.7995473425058112
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "oci",
+    "raw_average": 1.1192396365434567,
+    "normalized_cost": 0.8085255731619613
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "coreweave",
+    "raw_average": 1.1963025119127992,
+    "normalized_cost": 0.8523563154590691
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "linode",
+    "raw_average": 1.0418613111929313,
+    "normalized_cost": 0.9885159055041689
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "hetzner",
+    "raw_average": 0.8458655619491442,
+    "normalized_cost": 0.8151026740126698
+  },
+  {
+    "dataset": "alibaba2018",
+    "provider": "nebius",
+    "raw_average": 0.9565536394799665,
+    "normalized_cost": 0.8711771911540835
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "aws",
+    "raw_average": 1.111887245573672,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "azure",
+    "raw_average": 0.8732236231145013,
+    "normalized_cost": 0.7845650367978332
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "oci",
+    "raw_average": 0.8974215784385621,
+    "normalized_cost": 0.8012334360613099
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "coreweave",
+    "raw_average": 0.9354658030171058,
+    "normalized_cost": 0.861274022077887
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "linode",
+    "raw_average": 1.3530822512950884,
+    "normalized_cost": 0.9064287180177939
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "hetzner",
+    "raw_average": 0.8685410687959962,
+    "normalized_cost": 0.7994494276760795
+  },
+  {
+    "dataset": "azure_native",
+    "provider": "nebius",
+    "raw_average": 0.9938849055710116,
+    "normalized_cost": 0.8655413328335948
+  },
+  {
+    "dataset": "jssp",
+    "provider": "aws",
+    "raw_average": 1.2283141246787759,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "jssp",
+    "provider": "azure",
+    "raw_average": 0.9702674860440629,
+    "normalized_cost": 0.7078423739297843
+  },
+  {
+    "dataset": "jssp",
+    "provider": "oci",
+    "raw_average": 0.9664054770799316,
+    "normalized_cost": 0.801834705169332
+  },
+  {
+    "dataset": "jssp",
+    "provider": "coreweave",
+    "raw_average": 0.926016596622835,
+    "normalized_cost": 0.8774628085789282
+  },
+  {
+    "dataset": "jssp",
+    "provider": "linode",
+    "raw_average": 1.2621016724771965,
+    "normalized_cost": 0.9522064272768533
+  },
+  {
+    "dataset": "jssp",
+    "provider": "hetzner",
+    "raw_average": 0.7871429862236976,
+    "normalized_cost": 0.7583744290060561
+  },
+  {
+    "dataset": "jssp",
+    "provider": "nebius",
+    "raw_average": 0.899767460434564,
+    "normalized_cost": 0.8156640167006521
+  },
+  {
+    "dataset": "star_job",
+    "provider": "aws",
+    "raw_average": 1.1014572790081496,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "star_job",
+    "provider": "azure",
+    "raw_average": 1.1170866155449228,
+    "normalized_cost": 0.7852958324918738
+  },
+  {
+    "dataset": "star_job",
+    "provider": "oci",
+    "raw_average": 1.1278920544799909,
+    "normalized_cost": 0.8984003029642689
+  },
+  {
+    "dataset": "star_job",
+    "provider": "coreweave",
+    "raw_average": 0.9190622524672213,
+    "normalized_cost": 0.8743356523786884
+  },
+  {
+    "dataset": "star_job",
+    "provider": "linode",
+    "raw_average": 1.0637104955923027,
+    "normalized_cost": 0.9920717043662853
+  },
+  {
+    "dataset": "star_job",
+    "provider": "hetzner",
+    "raw_average": 0.9351169247569804,
+    "normalized_cost": 0.8379375828246317
+  },
+  {
+    "dataset": "star_job",
+    "provider": "nebius",
+    "raw_average": 1.0879070749418571,
+    "normalized_cost": 0.8224227142330387
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "aws",
+    "raw_average": 1.3448097214520045,
+    "normalized_cost": 1.0
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "azure",
+    "raw_average": 0.7823946941956068,
+    "normalized_cost": 0.7054704462841264
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "oci",
+    "raw_average": 1.1521765732540776,
+    "normalized_cost": 0.8368678857541754
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "coreweave",
+    "raw_average": 1.1314097592707952,
+    "normalized_cost": 0.9353394237180779
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "linode",
+    "raw_average": 1.3628564089771236,
+    "normalized_cost": 0.924980570393937
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "hetzner",
+    "raw_average": 0.7530466646034358,
+    "normalized_cost": 0.7524158654068407
+  },
+  {
+    "dataset": "mega_math",
+    "provider": "nebius",
+    "raw_average": 0.932297363546094,
+    "normalized_cost": 0.8148695670977693
+  }
+]

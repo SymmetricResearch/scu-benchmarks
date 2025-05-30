@@ -1,0 +1,262 @@
+[
+  {
+    "instance_pair": [
+      "coreweave_instance_0",
+      "coreweave_instance_10"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.1921404248296347,
+    "price_correlation": 0.8292679956737565,
+    "confidence": 0.8062614544342533
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_1",
+      "coreweave_instance_11"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.5121174862729,
+    "price_correlation": 0.4800639233335559,
+    "confidence": 0.9758788300010112
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_2",
+      "coreweave_instance_12"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.14624867343306389,
+    "price_correlation": 0.5311065511425388,
+    "confidence": 0.8886293809890219
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_3",
+      "coreweave_instance_13"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.3082161700863787,
+    "price_correlation": 0.8504253705806832,
+    "confidence": 0.9457079799899923
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_4",
+      "coreweave_instance_14"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.5543228320827253,
+    "price_correlation": 0.8381697403089599,
+    "confidence": 0.9095075078090126
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_5",
+      "coreweave_instance_15"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.11245018958558786,
+    "price_correlation": 0.45695360637364546,
+    "confidence": 0.8597568622154501
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_6",
+      "coreweave_instance_16"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.14894313809059626,
+    "price_correlation": 0.6900825844339176,
+    "confidence": 0.8930808415570684
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_7",
+      "coreweave_instance_17"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.2619155397574908,
+    "price_correlation": 0.39434367316763475,
+    "confidence": 0.826812589504312
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_8",
+      "coreweave_instance_18"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.19346848986093437,
+    "price_correlation": 0.31095365703620703,
+    "confidence": 0.8837719485941584
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_9",
+      "coreweave_instance_19"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.3917372433997074,
+    "price_correlation": 0.8575863270752069,
+    "confidence": 0.8425807017656023
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_10",
+      "coreweave_instance_20"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.4787893705272781,
+    "price_correlation": 0.8203393235593575,
+    "confidence": 0.8987172233315557
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_11",
+      "coreweave_instance_21"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.5100085277850438,
+    "price_correlation": 0.6514327869901686,
+    "confidence": 0.8524696527991378
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_12",
+      "coreweave_instance_22"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.570778475506208,
+    "price_correlation": 0.3048351115832021,
+    "confidence": 0.9884125909160089
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_13",
+      "coreweave_instance_23"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.28748869071989225,
+    "price_correlation": 0.568634448477197,
+    "confidence": 0.8692093548344568
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_14",
+      "coreweave_instance_24"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.174546688690406,
+    "price_correlation": 0.7398035714701452,
+    "confidence": 0.9737079715152015
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_15",
+      "coreweave_instance_25"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.10078842269584984,
+    "price_correlation": 0.49683785943181324,
+    "confidence": 0.8522850222304875
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_16",
+      "coreweave_instance_26"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.5917766465473884,
+    "price_correlation": 0.7354188722156798,
+    "confidence": 0.8740585937058876
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_17",
+      "coreweave_instance_27"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.311606944988011,
+    "price_correlation": 0.5250784694066211,
+    "confidence": 0.881574688073916
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_18",
+      "coreweave_instance_28"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.3197735251868229,
+    "price_correlation": 0.6971407086618822,
+    "confidence": 0.9112934247250426
+  },
+  {
+    "instance_pair": [
+      "coreweave_instance_19",
+      "coreweave_instance_29"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.36671176275328143,
+    "price_correlation": 0.6431022708260907,
+    "confidence": 0.8304497442945054
+  }
+]

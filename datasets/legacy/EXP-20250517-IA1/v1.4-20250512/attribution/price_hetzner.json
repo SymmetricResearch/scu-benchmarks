@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "hetzner_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.9902201673058832,
+    "normalized_cost": 0.7408750878201007,
+    "spot_ratio": 0.7024555227295362
+  },
+  {
+    "instance_id": "hetzner_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 2.1689273300391996,
+    "normalized_cost": 1.0121654893827312,
+    "spot_ratio": 0.6808637597501875
+  },
+  {
+    "instance_id": "hetzner_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 2.1883429311132954,
+    "normalized_cost": 1.0174882767061137,
+    "spot_ratio": 0.7044621369852899
+  },
+  {
+    "instance_id": "hetzner_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.085489583804799,
+    "normalized_cost": 0.7110224747000338,
+    "spot_ratio": 0.6312762928650322
+  },
+  {
+    "instance_id": "hetzner_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 0.8910594756440908,
+    "normalized_cost": 1.0663649176812857,
+    "spot_ratio": 0.6451456973878333
+  },
+  {
+    "instance_id": "hetzner_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.1182860944471704,
+    "normalized_cost": 0.9054177927010284,
+    "spot_ratio": 0.5613831330870083
+  },
+  {
+    "instance_id": "hetzner_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 2.214643322450513,
+    "normalized_cost": 0.8200917630963951,
+    "spot_ratio": 0.5258911181439363
+  },
+  {
+    "instance_id": "hetzner_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 0.7885043370351883,
+    "normalized_cost": 0.8128919012520712,
+    "spot_ratio": 0.5205803837589554
+  },
+  {
+    "instance_id": "hetzner_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 0.6671370168031256,
+    "normalized_cost": 0.7719262720112989,
+    "spot_ratio": 0.7208232908993502
+  },
+  {
+    "instance_id": "hetzner_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.9128292974575754,
+    "normalized_cost": 0.7860195600584159,
+    "spot_ratio": 0.4205195684203308
+  },
+  {
+    "instance_id": "hetzner_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 0.8421873628118528,
+    "normalized_cost": 0.9126250928095505,
+    "spot_ratio": 0.5947399082502095
+  },
+  {
+    "instance_id": "hetzner_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 0.6901469352864706,
+    "normalized_cost": 0.9818088551977471,
+    "spot_ratio": 0.723270196125821
+  },
+  {
+    "instance_id": "hetzner_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.7432978081933697,
+    "normalized_cost": 0.7796941743144308,
+    "spot_ratio": 0.6747511694134389
+  },
+  {
+    "instance_id": "hetzner_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 0.6193181883287844,
+    "normalized_cost": 1.147924705759297,
+    "spot_ratio": 0.6275026078774707
+  },
+  {
+    "instance_id": "hetzner_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 0.6159309408391367,
+    "normalized_cost": 1.151155402203729,
+    "spot_ratio": 0.7884321347361298
+  },
+  {
+    "instance_id": "hetzner_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 2.210029158193273,
+    "normalized_cost": 0.8396802726012043,
+    "spot_ratio": 0.38938948397358286
+  },
+  {
+    "instance_id": "hetzner_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.649865537213806,
+    "normalized_cost": 0.9502965017786407,
+    "spot_ratio": 0.33072252895641546
+  },
+  {
+    "instance_id": "hetzner_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.5828983387344213,
+    "normalized_cost": 1.0016588293069368,
+    "spot_ratio": 0.6914493875033421
+  },
+  {
+    "instance_id": "hetzner_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.83060843419969,
+    "normalized_cost": 0.804967680389768,
+    "spot_ratio": 0.5404023364755719
+  },
+  {
+    "instance_id": "hetzner_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 0.5679096174905036,
+    "normalized_cost": 1.1607834061774864,
+    "spot_ratio": 0.6414348135069592
+  },
+  {
+    "instance_id": "hetzner_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 1.279988658844773,
+    "normalized_cost": 0.8241384803925984,
+    "spot_ratio": 0.6369019325528509
+  },
+  {
+    "instance_id": "hetzner_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 0.6524949392580488,
+    "normalized_cost": 1.198182774898008,
+    "spot_ratio": 0.5869245783777444
+  },
+  {
+    "instance_id": "hetzner_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 2.2666804464711467,
+    "normalized_cost": 1.0866855898669117,
+    "spot_ratio": 0.37363944824447315
+  },
+  {
+    "instance_id": "hetzner_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 0.7909527388943467,
+    "normalized_cost": 1.0849459511831854,
+    "spot_ratio": 0.6293600172047717
+  },
+  {
+    "instance_id": "hetzner_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 0.6950308222693493,
+    "normalized_cost": 0.8134666501999435,
+    "spot_ratio": 0.6884730162834223
+  },
+  {
+    "instance_id": "hetzner_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.6995005496910942,
+    "normalized_cost": 0.9306954098444303,
+    "spot_ratio": 0.7163154347421956
+  },
+  {
+    "instance_id": "hetzner_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 2.094387786815573,
+    "normalized_cost": 1.160260721815493,
+    "spot_ratio": 0.40619732714965595
+  },
+  {
+    "instance_id": "hetzner_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.8166521892134453,
+    "normalized_cost": 1.0966301527557694,
+    "spot_ratio": 0.6609274456753806
+  },
+  {
+    "instance_id": "hetzner_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 1.6302835392825263,
+    "normalized_cost": 1.0749231238817314,
+    "spot_ratio": 0.6240113303387185
+  },
+  {
+    "instance_id": "hetzner_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 0.5188601835410112,
+    "normalized_cost": 0.9901171942266194,
+    "spot_ratio": 0.5059792846043414
+  },
+  {
+    "instance_id": "hetzner_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 2.1373674522935353,
+    "normalized_cost": 0.8101852872202888,
+    "spot_ratio": 0.7900962141023549
+  },
+  {
+    "instance_id": "hetzner_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 1.077907322810621,
+    "normalized_cost": 0.7979961604254973,
+    "spot_ratio": 0.5912250885449839
+  },
+  {
+    "instance_id": "hetzner_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.2226381450626211,
+    "normalized_cost": 1.1504094299680276,
+    "spot_ratio": 0.6743519778498954
+  },
+  {
+    "instance_id": "hetzner_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 2.3347778567518747,
+    "normalized_cost": 1.121384938722021,
+    "spot_ratio": 0.533571118220745
+  },
+  {
+    "instance_id": "hetzner_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.9303865236092452,
+    "normalized_cost": 0.7109318249919054,
+    "spot_ratio": 0.7174617435955257
+  },
+  {
+    "instance_id": "hetzner_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 0.5860452147794981,
+    "normalized_cost": 0.7174752315977966,
+    "spot_ratio": 0.37207148453510747
+  },
+  {
+    "instance_id": "hetzner_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 2.0866373336319954,
+    "normalized_cost": 0.7352919008400505,
+    "spot_ratio": 0.3841472078105281
+  },
+  {
+    "instance_id": "hetzner_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.7185709045087305,
+    "normalized_cost": 0.7204514112787128,
+    "spot_ratio": 0.7141314192654025
+  },
+  {
+    "instance_id": "hetzner_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 0.8148492999778543,
+    "normalized_cost": 1.153740616990282,
+    "spot_ratio": 0.30646943739049376
+  },
+  {
+    "instance_id": "hetzner_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.3600997856224195,
+    "normalized_cost": 1.0990535885313624,
+    "spot_ratio": 0.3237368780784554
+  },
+  {
+    "instance_id": "hetzner_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 2.229564074225226,
+    "normalized_cost": 0.8634583343353267,
+    "spot_ratio": 0.799884123297821
+  },
+  {
+    "instance_id": "hetzner_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.6028772927024211,
+    "normalized_cost": 0.838868737961969,
+    "spot_ratio": 0.7010630208807244
+  },
+  {
+    "instance_id": "hetzner_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 1.7147677620075654,
+    "normalized_cost": 0.7717726089667123,
+    "spot_ratio": 0.3487209691591244
+  },
+  {
+    "instance_id": "hetzner_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.8691232924193415,
+    "normalized_cost": 1.0885100485771315,
+    "spot_ratio": 0.7052135745875577
+  },
+  {
+    "instance_id": "hetzner_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 1.3847296932616513,
+    "normalized_cost": 0.9176311532450656,
+    "spot_ratio": 0.4253180710692045
+  },
+  {
+    "instance_id": "hetzner_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.4444511197892016,
+    "normalized_cost": 0.7107320956329053,
+    "spot_ratio": 0.5683118245971192
+  },
+  {
+    "instance_id": "hetzner_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 1.415215363294849,
+    "normalized_cost": 0.7049529386064946,
+    "spot_ratio": 0.3265708319706024
+  },
+  {
+    "instance_id": "hetzner_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.378142469993782,
+    "normalized_cost": 1.084802964240077,
+    "spot_ratio": 0.7822888683655986
+  },
+  {
+    "instance_id": "hetzner_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 0.5748302225015669,
+    "normalized_cost": 0.7088846949009029,
+    "spot_ratio": 0.49907260185561897
+  },
+  {
+    "instance_id": "hetzner_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 0.8217017452498145,
+    "normalized_cost": 1.0415988829719627,
+    "spot_ratio": 0.4754341138079115
+  },
+  {
+    "instance_id": "hetzner_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.309741244180955,
+    "normalized_cost": 1.102568414754238,
+    "spot_ratio": 0.7732245228224354
+  },
+  {
+    "instance_id": "hetzner_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.4670724539193967,
+    "normalized_cost": 1.198047298536054,
+    "spot_ratio": 0.6982943258382119
+  },
+  {
+    "instance_id": "hetzner_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.3752686545551072,
+    "normalized_cost": 1.041762074650141,
+    "spot_ratio": 0.7729220629362387
+  },
+  {
+    "instance_id": "hetzner_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.426923340982108,
+    "normalized_cost": 0.9257899562677094,
+    "spot_ratio": 0.7107372614688241
+  },
+  {
+    "instance_id": "hetzner_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 1.7922051026182262,
+    "normalized_cost": 0.9828963311852954,
+    "spot_ratio": 0.7596583068076718
+  },
+  {
+    "instance_id": "hetzner_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 2.438039813898981,
+    "normalized_cost": 1.1389677996569927,
+    "spot_ratio": 0.6721128743601446
+  },
+  {
+    "instance_id": "hetzner_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.8315804080060774,
+    "normalized_cost": 0.8174088083350173,
+    "spot_ratio": 0.6688438370982975
+  },
+  {
+    "instance_id": "hetzner_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 2.1355727048486868,
+    "normalized_cost": 1.1456664441697684,
+    "spot_ratio": 0.5812927892885997
+  },
+  {
+    "instance_id": "hetzner_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 2.321600017974226,
+    "normalized_cost": 0.9038452707878168,
+    "spot_ratio": 0.318216403453574
+  },
+  {
+    "instance_id": "hetzner_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 2.2868308822475534,
+    "normalized_cost": 1.0798462340948793,
+    "spot_ratio": 0.38717003966928304
+  },
+  {
+    "instance_id": "hetzner_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 1.0989320045504232,
+    "normalized_cost": 0.9806209565870911,
+    "spot_ratio": 0.3257522090366487
+  },
+  {
+    "instance_id": "hetzner_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.0899846166206466,
+    "normalized_cost": 1.1813531542424895,
+    "spot_ratio": 0.6246456196207528
+  },
+  {
+    "instance_id": "hetzner_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.8370285313006451,
+    "normalized_cost": 1.1439289465919347,
+    "spot_ratio": 0.3938607190792254
+  },
+  {
+    "instance_id": "hetzner_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 0.9733266548714525,
+    "normalized_cost": 0.7782509732277418,
+    "spot_ratio": 0.42031949474910874
+  },
+  {
+    "instance_id": "hetzner_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 0.6299516693399003,
+    "normalized_cost": 0.7618494999124344,
+    "spot_ratio": 0.5691396870328294
+  },
+  {
+    "instance_id": "hetzner_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 0.6164394554219799,
+    "normalized_cost": 0.8326417738482463,
+    "spot_ratio": 0.6811638876847894
+  },
+  {
+    "instance_id": "hetzner_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 0.6019696026706793,
+    "normalized_cost": 0.700024947294295,
+    "spot_ratio": 0.7694644385083977
+  },
+  {
+    "instance_id": "hetzner_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "eu-central",
+    "price_usd": 1.9422469687871733,
+    "normalized_cost": 1.0149807518913976,
+    "spot_ratio": 0.47255802020355075
+  },
+  {
+    "instance_id": "hetzner_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.8275674195952827,
+    "normalized_cost": 1.017031456995254,
+    "spot_ratio": 0.4507121399433602
+  },
+  {
+    "instance_id": "hetzner_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 0.7230160200135398,
+    "normalized_cost": 0.9233002384665538,
+    "spot_ratio": 0.38848492189914724
+  },
+  {
+    "instance_id": "hetzner_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.7448703467162472,
+    "normalized_cost": 0.8782723822469063,
+    "spot_ratio": 0.4551793976437235
+  },
+  {
+    "instance_id": "hetzner_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.3961933598146132,
+    "normalized_cost": 0.9745896645737078,
+    "spot_ratio": 0.6448575884967843
+  },
+  {
+    "instance_id": "hetzner_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 2.339929440888583,
+    "normalized_cost": 1.045739905522712,
+    "spot_ratio": 0.5741237380191726
+  },
+  {
+    "instance_id": "hetzner_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.5096307753235556,
+    "normalized_cost": 1.1620465937075464,
+    "spot_ratio": 0.7400225815134867
+  },
+  {
+    "instance_id": "hetzner_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 0.8524051592067221,
+    "normalized_cost": 1.1200639021543124,
+    "spot_ratio": 0.37709737270260113
+  }
+]

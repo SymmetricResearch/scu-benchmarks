@@ -1,0 +1,947 @@
+[
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_1"
+    ],
+    "interaction_strength": 0.4493251990789636,
+    "synergy_type": "complementary",
+    "confidence": 0.8905540980207141
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_2"
+    ],
+    "interaction_strength": 0.2997474004893058,
+    "synergy_type": "competitive",
+    "confidence": 0.8599659360032865
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_3"
+    ],
+    "interaction_strength": 0.5523811638171671,
+    "synergy_type": "neutral",
+    "confidence": 0.7379254304315513
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_4"
+    ],
+    "interaction_strength": 0.5285494823776287,
+    "synergy_type": "competitive",
+    "confidence": 0.7475350901636033
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_5"
+    ],
+    "interaction_strength": 0.33311443829823784,
+    "synergy_type": "neutral",
+    "confidence": 0.7331192228093544
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.19074497400059975,
+    "synergy_type": "neutral",
+    "confidence": 0.9136005803596623
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.25362476796191535,
+    "synergy_type": "competitive",
+    "confidence": 0.923728647757319
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.5725391179975541,
+    "synergy_type": "complementary",
+    "confidence": 0.722344734497196
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.24241061964535443,
+    "synergy_type": "complementary",
+    "confidence": 0.9473130637656796
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.2560938120317902,
+    "synergy_type": "neutral",
+    "confidence": 0.7407814567652747
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.2271796196027813,
+    "synergy_type": "neutral",
+    "confidence": 0.8706420142922695
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.30386221157383453,
+    "synergy_type": "neutral",
+    "confidence": 0.9415256418852254
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.16993861429905108,
+    "synergy_type": "competitive",
+    "confidence": 0.813390526173863
+  },
+  {
+    "job_pair": [
+      "azure_job_0",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.3707624630680597,
+    "synergy_type": "competitive",
+    "confidence": 0.7308169571506986
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_2"
+    ],
+    "interaction_strength": 0.43931138542553705,
+    "synergy_type": "neutral",
+    "confidence": 0.8707024934935613
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_3"
+    ],
+    "interaction_strength": 0.3999926383942465,
+    "synergy_type": "neutral",
+    "confidence": 0.7551130657890279
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_4"
+    ],
+    "interaction_strength": 0.5741398006899663,
+    "synergy_type": "neutral",
+    "confidence": 0.7500606665524003
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_5"
+    ],
+    "interaction_strength": 0.260870849594786,
+    "synergy_type": "neutral",
+    "confidence": 0.9170796196710851
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.4596804112161137,
+    "synergy_type": "complementary",
+    "confidence": 0.7983395059700891
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.6329508455534351,
+    "synergy_type": "complementary",
+    "confidence": 0.706058871249609
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.541858040184309,
+    "synergy_type": "competitive",
+    "confidence": 0.8326028108406054
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.6627894788202736,
+    "synergy_type": "neutral",
+    "confidence": 0.8358648819000651
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.3350591768515394,
+    "synergy_type": "competitive",
+    "confidence": 0.700205500393616
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.5441629615784891,
+    "synergy_type": "neutral",
+    "confidence": 0.7930839134695461
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.4555118642091003,
+    "synergy_type": "neutral",
+    "confidence": 0.800669273729363
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.6449782303245892,
+    "synergy_type": "neutral",
+    "confidence": 0.7247401001574242
+  },
+  {
+    "job_pair": [
+      "azure_job_1",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.2661941719149957,
+    "synergy_type": "neutral",
+    "confidence": 0.8857207735068517
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_3"
+    ],
+    "interaction_strength": 0.15890447543138822,
+    "synergy_type": "complementary",
+    "confidence": 0.7760792573634772
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_4"
+    ],
+    "interaction_strength": 0.2704802836799839,
+    "synergy_type": "neutral",
+    "confidence": 0.7233237834974598
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_5"
+    ],
+    "interaction_strength": 0.2342335591340131,
+    "synergy_type": "competitive",
+    "confidence": 0.7821614937255276
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.6907978350966921,
+    "synergy_type": "neutral",
+    "confidence": 0.8086777559528372
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.37490586364393474,
+    "synergy_type": "complementary",
+    "confidence": 0.7647196150896597
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.16532509335384474,
+    "synergy_type": "neutral",
+    "confidence": 0.7477465429192942
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.22586441036472793,
+    "synergy_type": "competitive",
+    "confidence": 0.7137761619831291
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.6824365899079561,
+    "synergy_type": "neutral",
+    "confidence": 0.8889699131913711
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.3501202373721109,
+    "synergy_type": "complementary",
+    "confidence": 0.7306560089914178
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.5702169726729718,
+    "synergy_type": "neutral",
+    "confidence": 0.7451826215985571
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.7416668844763885,
+    "synergy_type": "competitive",
+    "confidence": 0.9032723142392433
+  },
+  {
+    "job_pair": [
+      "azure_job_2",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.6075910947211366,
+    "synergy_type": "neutral",
+    "confidence": 0.9429110468984707
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_4"
+    ],
+    "interaction_strength": 0.6942021873719734,
+    "synergy_type": "neutral",
+    "confidence": 0.8177867824792188
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_5"
+    ],
+    "interaction_strength": 0.23306584940492292,
+    "synergy_type": "complementary",
+    "confidence": 0.8270630779668153
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.5821811279932998,
+    "synergy_type": "complementary",
+    "confidence": 0.7205326022536536
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.2698100407260609,
+    "synergy_type": "competitive",
+    "confidence": 0.7127041295612153
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.62351719336529,
+    "synergy_type": "complementary",
+    "confidence": 0.8431240239688713
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.22583001782841824,
+    "synergy_type": "competitive",
+    "confidence": 0.7716214040143715
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.7134281437591077,
+    "synergy_type": "neutral",
+    "confidence": 0.7255453760824382
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.31654872013403496,
+    "synergy_type": "neutral",
+    "confidence": 0.8592210593017502
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.6677158714998508,
+    "synergy_type": "competitive",
+    "confidence": 0.8463924847507959
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.1629288620818109,
+    "synergy_type": "neutral",
+    "confidence": 0.8902435420554283
+  },
+  {
+    "job_pair": [
+      "azure_job_3",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.5343756689694406,
+    "synergy_type": "complementary",
+    "confidence": 0.7596684563893469
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_5"
+    ],
+    "interaction_strength": 0.6514961065068136,
+    "synergy_type": "neutral",
+    "confidence": 0.7582003806204368
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.3740584162566947,
+    "synergy_type": "complementary",
+    "confidence": 0.7003324382336631
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.5867902675323848,
+    "synergy_type": "competitive",
+    "confidence": 0.7201190515274047
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.5455654234175273,
+    "synergy_type": "complementary",
+    "confidence": 0.8166372742293211
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.5198550616989009,
+    "synergy_type": "neutral",
+    "confidence": 0.7775686147980126
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.2790906147114569,
+    "synergy_type": "competitive",
+    "confidence": 0.8534392884225418
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.3668585508515847,
+    "synergy_type": "neutral",
+    "confidence": 0.8772143239727672
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.302456848980704,
+    "synergy_type": "neutral",
+    "confidence": 0.8289031940563862
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.3549445893050868,
+    "synergy_type": "complementary",
+    "confidence": 0.9133862547484229
+  },
+  {
+    "job_pair": [
+      "azure_job_4",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.6906620195255623,
+    "synergy_type": "complementary",
+    "confidence": 0.929994709738067
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_6"
+    ],
+    "interaction_strength": 0.438017811300614,
+    "synergy_type": "competitive",
+    "confidence": 0.860126882721292
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.6638006456240682,
+    "synergy_type": "complementary",
+    "confidence": 0.9090509553514432
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.37917805582472186,
+    "synergy_type": "neutral",
+    "confidence": 0.8200715440345404
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.4824075611804667,
+    "synergy_type": "neutral",
+    "confidence": 0.7740758257443314
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.338739743999279,
+    "synergy_type": "neutral",
+    "confidence": 0.7682782690567962
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.7094527738181574,
+    "synergy_type": "neutral",
+    "confidence": 0.8168540672640461
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.2716708151670561,
+    "synergy_type": "neutral",
+    "confidence": 0.7782050953293032
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.36566370439199863,
+    "synergy_type": "competitive",
+    "confidence": 0.7954844877718226
+  },
+  {
+    "job_pair": [
+      "azure_job_5",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.37157370647432936,
+    "synergy_type": "complementary",
+    "confidence": 0.8339803848305616
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_7"
+    ],
+    "interaction_strength": 0.35848633172818956,
+    "synergy_type": "complementary",
+    "confidence": 0.884054182432097
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.38956033358966774,
+    "synergy_type": "competitive",
+    "confidence": 0.7586258836261974
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.6903599171394997,
+    "synergy_type": "competitive",
+    "confidence": 0.85996115900541
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.2385839762126265,
+    "synergy_type": "neutral",
+    "confidence": 0.7086414863692356
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.44387991444251296,
+    "synergy_type": "complementary",
+    "confidence": 0.8507118010677077
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.38426832118166687,
+    "synergy_type": "competitive",
+    "confidence": 0.7385942091162608
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.24227369213456912,
+    "synergy_type": "complementary",
+    "confidence": 0.9423750943258359
+  },
+  {
+    "job_pair": [
+      "azure_job_6",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.183435543150125,
+    "synergy_type": "competitive",
+    "confidence": 0.8685687495970198
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_8"
+    ],
+    "interaction_strength": 0.35551902573624183,
+    "synergy_type": "competitive",
+    "confidence": 0.9109460183881499
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.6165991629630346,
+    "synergy_type": "complementary",
+    "confidence": 0.7028299831065441
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.4017501171057213,
+    "synergy_type": "neutral",
+    "confidence": 0.7923648151562526
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.5002103477475157,
+    "synergy_type": "neutral",
+    "confidence": 0.7625219429148993
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.47073848619551295,
+    "synergy_type": "neutral",
+    "confidence": 0.8502731022539752
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.32001378287607457,
+    "synergy_type": "competitive",
+    "confidence": 0.8506489449395319
+  },
+  {
+    "job_pair": [
+      "azure_job_7",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.23641896470184298,
+    "synergy_type": "neutral",
+    "confidence": 0.7410961346749415
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_9"
+    ],
+    "interaction_strength": 0.31230587498053686,
+    "synergy_type": "competitive",
+    "confidence": 0.9222846605407469
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.36720347966305894,
+    "synergy_type": "competitive",
+    "confidence": 0.9159661781876708
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.23559525823494254,
+    "synergy_type": "neutral",
+    "confidence": 0.843724744809115
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.1922339887569093,
+    "synergy_type": "complementary",
+    "confidence": 0.9248311836670142
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.20064837401909055,
+    "synergy_type": "neutral",
+    "confidence": 0.8700204883175837
+  },
+  {
+    "job_pair": [
+      "azure_job_8",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.4581526992252619,
+    "synergy_type": "neutral",
+    "confidence": 0.8193735003857956
+  },
+  {
+    "job_pair": [
+      "azure_job_9",
+      "azure_job_10"
+    ],
+    "interaction_strength": 0.2886355772666093,
+    "synergy_type": "neutral",
+    "confidence": 0.9185302353593298
+  },
+  {
+    "job_pair": [
+      "azure_job_9",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.21910249208593457,
+    "synergy_type": "complementary",
+    "confidence": 0.7862923990984363
+  },
+  {
+    "job_pair": [
+      "azure_job_9",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.6928519755277216,
+    "synergy_type": "competitive",
+    "confidence": 0.711387935928952
+  },
+  {
+    "job_pair": [
+      "azure_job_9",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.2250408199954404,
+    "synergy_type": "neutral",
+    "confidence": 0.892517350200419
+  },
+  {
+    "job_pair": [
+      "azure_job_9",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.43891069066620714,
+    "synergy_type": "neutral",
+    "confidence": 0.9473713152445244
+  },
+  {
+    "job_pair": [
+      "azure_job_10",
+      "azure_job_11"
+    ],
+    "interaction_strength": 0.2348941627212658,
+    "synergy_type": "competitive",
+    "confidence": 0.8168390833950341
+  },
+  {
+    "job_pair": [
+      "azure_job_10",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.6466853740861347,
+    "synergy_type": "competitive",
+    "confidence": 0.7733477754233932
+  },
+  {
+    "job_pair": [
+      "azure_job_10",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.2475034198339091,
+    "synergy_type": "complementary",
+    "confidence": 0.8574872143569545
+  },
+  {
+    "job_pair": [
+      "azure_job_10",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.588118442054924,
+    "synergy_type": "neutral",
+    "confidence": 0.7086541786459563
+  },
+  {
+    "job_pair": [
+      "azure_job_11",
+      "azure_job_12"
+    ],
+    "interaction_strength": 0.2495656508045942,
+    "synergy_type": "competitive",
+    "confidence": 0.8350975643731453
+  },
+  {
+    "job_pair": [
+      "azure_job_11",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.2428520362642857,
+    "synergy_type": "competitive",
+    "confidence": 0.7936386552530841
+  },
+  {
+    "job_pair": [
+      "azure_job_11",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.3554896517182197,
+    "synergy_type": "competitive",
+    "confidence": 0.9495465941062706
+  },
+  {
+    "job_pair": [
+      "azure_job_12",
+      "azure_job_13"
+    ],
+    "interaction_strength": 0.3695320650473748,
+    "synergy_type": "neutral",
+    "confidence": 0.7279399194652744
+  },
+  {
+    "job_pair": [
+      "azure_job_12",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.6698988796242794,
+    "synergy_type": "neutral",
+    "confidence": 0.9078628518551086
+  },
+  {
+    "job_pair": [
+      "azure_job_13",
+      "azure_job_14"
+    ],
+    "interaction_strength": 0.2621502859508485,
+    "synergy_type": "complementary",
+    "confidence": 0.7884002906091467
+  }
+]

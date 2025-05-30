@@ -1,0 +1,262 @@
+[
+  {
+    "instance_pair": [
+      "azure_instance_0",
+      "azure_instance_10"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.37947726454160635,
+    "price_correlation": 0.6306057431894256,
+    "confidence": 0.9989327091924096
+  },
+  {
+    "instance_pair": [
+      "azure_instance_1",
+      "azure_instance_11"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.23161094510642197,
+    "price_correlation": 0.8579484240164563,
+    "confidence": 0.8515540046220408
+  },
+  {
+    "instance_pair": [
+      "azure_instance_2",
+      "azure_instance_12"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.5793267284404493,
+    "price_correlation": 0.4389612953324099,
+    "confidence": 0.875846547986795
+  },
+  {
+    "instance_pair": [
+      "azure_instance_3",
+      "azure_instance_13"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.3195611678357907,
+    "price_correlation": 0.7946278374766493,
+    "confidence": 0.8497806913411211
+  },
+  {
+    "instance_pair": [
+      "azure_instance_4",
+      "azure_instance_14"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.12669847888016547,
+    "price_correlation": 0.7783313186781156,
+    "confidence": 0.8526172437998298
+  },
+  {
+    "instance_pair": [
+      "azure_instance_5",
+      "azure_instance_15"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.31994017932524,
+    "price_correlation": 0.5281200489712569,
+    "confidence": 0.9242027474692048
+  },
+  {
+    "instance_pair": [
+      "azure_instance_6",
+      "azure_instance_16"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.27370456798452913,
+    "price_correlation": 0.7644651932210944,
+    "confidence": 0.967682383326206
+  },
+  {
+    "instance_pair": [
+      "azure_instance_7",
+      "azure_instance_17"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.5538052363857798,
+    "price_correlation": 0.8849905342194697,
+    "confidence": 0.9435177229310912
+  },
+  {
+    "instance_pair": [
+      "azure_instance_8",
+      "azure_instance_18"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.5713793604998543,
+    "price_correlation": 0.7874995383453369,
+    "confidence": 0.9848915393249871
+  },
+  {
+    "instance_pair": [
+      "azure_instance_9",
+      "azure_instance_19"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.5576277010694679,
+    "price_correlation": 0.6938043107952295,
+    "confidence": 0.990703632538794
+  },
+  {
+    "instance_pair": [
+      "azure_instance_10",
+      "azure_instance_20"
+    ],
+    "instance_types": [
+      "instance_type_0",
+      "instance_type_3"
+    ],
+    "interaction_strength": 0.4352090262849474,
+    "price_correlation": 0.6666476988067884,
+    "confidence": 0.8651639936985016
+  },
+  {
+    "instance_pair": [
+      "azure_instance_11",
+      "azure_instance_21"
+    ],
+    "instance_types": [
+      "instance_type_1",
+      "instance_type_4"
+    ],
+    "interaction_strength": 0.42065531473689,
+    "price_correlation": 0.8522996863987127,
+    "confidence": 0.8069443766466301
+  },
+  {
+    "instance_pair": [
+      "azure_instance_12",
+      "azure_instance_22"
+    ],
+    "instance_types": [
+      "instance_type_2",
+      "instance_type_5"
+    ],
+    "interaction_strength": 0.52160032978055,
+    "price_correlation": 0.33521290651337604,
+    "confidence": 0.9467605617069376
+  },
+  {
+    "instance_pair": [
+      "azure_instance_13",
+      "azure_instance_23"
+    ],
+    "instance_types": [
+      "instance_type_3",
+      "instance_type_6"
+    ],
+    "interaction_strength": 0.4222282800415862,
+    "price_correlation": 0.8301998326565356,
+    "confidence": 0.9108862712821504
+  },
+  {
+    "instance_pair": [
+      "azure_instance_14",
+      "azure_instance_24"
+    ],
+    "instance_types": [
+      "instance_type_4",
+      "instance_type_7"
+    ],
+    "interaction_strength": 0.4374513087116412,
+    "price_correlation": 0.5354398249890178,
+    "confidence": 0.8556746343410447
+  },
+  {
+    "instance_pair": [
+      "azure_instance_15",
+      "azure_instance_25"
+    ],
+    "instance_types": [
+      "instance_type_5",
+      "instance_type_8"
+    ],
+    "interaction_strength": 0.13045551802983943,
+    "price_correlation": 0.6493257283624035,
+    "confidence": 0.9451678311380299
+  },
+  {
+    "instance_pair": [
+      "azure_instance_16",
+      "azure_instance_26"
+    ],
+    "instance_types": [
+      "instance_type_6",
+      "instance_type_9"
+    ],
+    "interaction_strength": 0.593159787260086,
+    "price_correlation": 0.5978473055854696,
+    "confidence": 0.9266453249522857
+  },
+  {
+    "instance_pair": [
+      "azure_instance_17",
+      "azure_instance_27"
+    ],
+    "instance_types": [
+      "instance_type_7",
+      "instance_type_0"
+    ],
+    "interaction_strength": 0.42471435420995396,
+    "price_correlation": 0.4906218315781884,
+    "confidence": 0.8205200459943455
+  },
+  {
+    "instance_pair": [
+      "azure_instance_18",
+      "azure_instance_28"
+    ],
+    "instance_types": [
+      "instance_type_8",
+      "instance_type_1"
+    ],
+    "interaction_strength": 0.5345575468100563,
+    "price_correlation": 0.5340633914505044,
+    "confidence": 0.8950171833247992
+  },
+  {
+    "instance_pair": [
+      "azure_instance_19",
+      "azure_instance_29"
+    ],
+    "instance_types": [
+      "instance_type_9",
+      "instance_type_2"
+    ],
+    "interaction_strength": 0.4300890797903758,
+    "price_correlation": 0.6549892323860095,
+    "confidence": 0.9974249498627508
+  }
+]

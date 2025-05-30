@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "linode_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.9153943310942705,
+    "normalized_cost": 0.7564983820383964,
+    "spot_ratio": 0.7712563049492427
+  },
+  {
+    "instance_id": "linode_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.9772111882148353,
+    "normalized_cost": 0.9641601764888514,
+    "spot_ratio": 0.5874707736457376
+  },
+  {
+    "instance_id": "linode_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 2.304672868462699,
+    "normalized_cost": 0.9749234451654349,
+    "spot_ratio": 0.3929840094921028
+  },
+  {
+    "instance_id": "linode_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.25924208852692,
+    "normalized_cost": 0.873866132975368,
+    "spot_ratio": 0.5891719947554348
+  },
+  {
+    "instance_id": "linode_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.3358288059674583,
+    "normalized_cost": 1.1462612476372884,
+    "spot_ratio": 0.3714372237350561
+  },
+  {
+    "instance_id": "linode_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 2.1265483219329466,
+    "normalized_cost": 0.9410162120243106,
+    "spot_ratio": 0.792518623450384
+  },
+  {
+    "instance_id": "linode_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.7153939118370776,
+    "normalized_cost": 1.1190731633167514,
+    "spot_ratio": 0.42692128966232656
+  },
+  {
+    "instance_id": "linode_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.6681167828732573,
+    "normalized_cost": 0.9136676526219758,
+    "spot_ratio": 0.39574264839096196
+  },
+  {
+    "instance_id": "linode_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.8543494900619228,
+    "normalized_cost": 0.9043713040990803,
+    "spot_ratio": 0.3631128294115912
+  },
+  {
+    "instance_id": "linode_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 2.247888920353031,
+    "normalized_cost": 0.8909636539186004,
+    "spot_ratio": 0.7203013907127884
+  },
+  {
+    "instance_id": "linode_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.3346909651221126,
+    "normalized_cost": 0.9095461791810954,
+    "spot_ratio": 0.3608830367358208
+  },
+  {
+    "instance_id": "linode_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.8319146818443686,
+    "normalized_cost": 1.1721753321565578,
+    "spot_ratio": 0.4430477302094745
+  },
+  {
+    "instance_id": "linode_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 0.6887940124835337,
+    "normalized_cost": 1.037887136481391,
+    "spot_ratio": 0.6640256317230127
+  },
+  {
+    "instance_id": "linode_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 1.882277709095227,
+    "normalized_cost": 0.8960442882314623,
+    "spot_ratio": 0.36704717202101295
+  },
+  {
+    "instance_id": "linode_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.564904187030635,
+    "normalized_cost": 1.1228543466977121,
+    "spot_ratio": 0.7723088694852198
+  },
+  {
+    "instance_id": "linode_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.8706603099140593,
+    "normalized_cost": 0.8015242774318923,
+    "spot_ratio": 0.6163481085498916
+  },
+  {
+    "instance_id": "linode_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 2.408927899627528,
+    "normalized_cost": 1.0474175727322483,
+    "spot_ratio": 0.5921255683226019
+  },
+  {
+    "instance_id": "linode_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 0.8023828724772146,
+    "normalized_cost": 0.9255524619036681,
+    "spot_ratio": 0.5543165201578761
+  },
+  {
+    "instance_id": "linode_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.8155780569648132,
+    "normalized_cost": 0.7631464650782005,
+    "spot_ratio": 0.5420275211085777
+  },
+  {
+    "instance_id": "linode_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 2.3101534650397455,
+    "normalized_cost": 1.1316774300063877,
+    "spot_ratio": 0.4075099470991836
+  },
+  {
+    "instance_id": "linode_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.315092628702628,
+    "normalized_cost": 1.0879577524925477,
+    "spot_ratio": 0.4347076474539692
+  },
+  {
+    "instance_id": "linode_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.5108056284826046,
+    "normalized_cost": 1.092214942028178,
+    "spot_ratio": 0.3220634972111679
+  },
+  {
+    "instance_id": "linode_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.5212229070158296,
+    "normalized_cost": 1.1420887047436126,
+    "spot_ratio": 0.4135973464146084
+  },
+  {
+    "instance_id": "linode_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 0.8733975381533552,
+    "normalized_cost": 1.0950236667731779,
+    "spot_ratio": 0.6058192534894268
+  },
+  {
+    "instance_id": "linode_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.7194988576650438,
+    "normalized_cost": 0.7384663643043612,
+    "spot_ratio": 0.30876173231646836
+  },
+  {
+    "instance_id": "linode_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 1.8357602928367631,
+    "normalized_cost": 0.9950728872243266,
+    "spot_ratio": 0.5089964838371899
+  },
+  {
+    "instance_id": "linode_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 1.2073988048056057,
+    "normalized_cost": 0.8222603139725189,
+    "spot_ratio": 0.3724947772520892
+  },
+  {
+    "instance_id": "linode_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.7995263602455607,
+    "normalized_cost": 0.9001703183282908,
+    "spot_ratio": 0.694208290804561
+  },
+  {
+    "instance_id": "linode_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 2.2769365561748227,
+    "normalized_cost": 0.9333010926473047,
+    "spot_ratio": 0.3331945045328739
+  },
+  {
+    "instance_id": "linode_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 0.6643196969477738,
+    "normalized_cost": 0.842510876078925,
+    "spot_ratio": 0.7335360369481603
+  },
+  {
+    "instance_id": "linode_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.3392063246671384,
+    "normalized_cost": 1.1471978207525833,
+    "spot_ratio": 0.4054884682281021
+  },
+  {
+    "instance_id": "linode_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 1.0945477328095208,
+    "normalized_cost": 1.0068803993149564,
+    "spot_ratio": 0.30983118438201596
+  },
+  {
+    "instance_id": "linode_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.3822175665022203,
+    "normalized_cost": 0.7873991131703957,
+    "spot_ratio": 0.5159317213684816
+  },
+  {
+    "instance_id": "linode_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 2.314553960100854,
+    "normalized_cost": 0.7678083576901996,
+    "spot_ratio": 0.6814213625397196
+  },
+  {
+    "instance_id": "linode_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.455316132311968,
+    "normalized_cost": 0.8345758320183059,
+    "spot_ratio": 0.7482823902094073
+  },
+  {
+    "instance_id": "linode_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 0.9770707750452674,
+    "normalized_cost": 0.8545320561223166,
+    "spot_ratio": 0.6911001614880784
+  },
+  {
+    "instance_id": "linode_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 1.4281786104522343,
+    "normalized_cost": 1.040389141374037,
+    "spot_ratio": 0.6258916953559919
+  },
+  {
+    "instance_id": "linode_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.2161965393498104,
+    "normalized_cost": 0.8425931098996486,
+    "spot_ratio": 0.49164458474157785
+  },
+  {
+    "instance_id": "linode_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.7591205286802516,
+    "normalized_cost": 0.9691291060272903,
+    "spot_ratio": 0.360988518071567
+  },
+  {
+    "instance_id": "linode_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.1100471310216797,
+    "normalized_cost": 0.8612869498674924,
+    "spot_ratio": 0.7767309113915234
+  },
+  {
+    "instance_id": "linode_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.696497143328156,
+    "normalized_cost": 0.9653500921087041,
+    "spot_ratio": 0.43665146950484135
+  },
+  {
+    "instance_id": "linode_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.2458778849018697,
+    "normalized_cost": 1.109663541038297,
+    "spot_ratio": 0.7012042715400884
+  },
+  {
+    "instance_id": "linode_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 2.4176156317967084,
+    "normalized_cost": 0.9139562548609479,
+    "spot_ratio": 0.7258592381550131
+  },
+  {
+    "instance_id": "linode_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 1.2554878704678183,
+    "normalized_cost": 1.1013028648604666,
+    "spot_ratio": 0.5816752461564447
+  },
+  {
+    "instance_id": "linode_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 2.0221688850350503,
+    "normalized_cost": 1.0798835275909837,
+    "spot_ratio": 0.5734529025281797
+  },
+  {
+    "instance_id": "linode_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 1.5499836088997183,
+    "normalized_cost": 0.7912364999282264,
+    "spot_ratio": 0.537210628773173
+  },
+  {
+    "instance_id": "linode_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 2.08702249756128,
+    "normalized_cost": 0.9966799017138452,
+    "spot_ratio": 0.675070772493203
+  },
+  {
+    "instance_id": "linode_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.5158678177478335,
+    "normalized_cost": 0.7856270834937883,
+    "spot_ratio": 0.4049329902940217
+  },
+  {
+    "instance_id": "linode_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.4398063208696263,
+    "normalized_cost": 0.8932669609511165,
+    "spot_ratio": 0.6204277668582656
+  },
+  {
+    "instance_id": "linode_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 2.20814758266116,
+    "normalized_cost": 1.0882037399333018,
+    "spot_ratio": 0.6511794428873823
+  },
+  {
+    "instance_id": "linode_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 1.3458192766235317,
+    "normalized_cost": 1.1729579984323713,
+    "spot_ratio": 0.5343480561353768
+  },
+  {
+    "instance_id": "linode_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 2.1794473352945083,
+    "normalized_cost": 1.1176144068109664,
+    "spot_ratio": 0.7569083367325826
+  },
+  {
+    "instance_id": "linode_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.382585156005999,
+    "normalized_cost": 0.7853996416882884,
+    "spot_ratio": 0.37003576654264625
+  },
+  {
+    "instance_id": "linode_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.5245436678739963,
+    "normalized_cost": 0.7715316676043056,
+    "spot_ratio": 0.4772393763732234
+  },
+  {
+    "instance_id": "linode_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.0829172031112018,
+    "normalized_cost": 0.7876758276210408,
+    "spot_ratio": 0.5899249065393692
+  },
+  {
+    "instance_id": "linode_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.7043338910973855,
+    "normalized_cost": 0.98741825210935,
+    "spot_ratio": 0.4465527100085009
+  },
+  {
+    "instance_id": "linode_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.783644805143943,
+    "normalized_cost": 1.0971320299453655,
+    "spot_ratio": 0.43671458834141147
+  },
+  {
+    "instance_id": "linode_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.6573227601196827,
+    "normalized_cost": 0.8093645175932606,
+    "spot_ratio": 0.7597662919996591
+  },
+  {
+    "instance_id": "linode_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.5347015283860428,
+    "normalized_cost": 1.012758463262709,
+    "spot_ratio": 0.3813503434865864
+  },
+  {
+    "instance_id": "linode_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 0.5310042567405973,
+    "normalized_cost": 1.1856547281918228,
+    "spot_ratio": 0.7852876130253541
+  },
+  {
+    "instance_id": "linode_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.046339882525593,
+    "normalized_cost": 0.9687107501659842,
+    "spot_ratio": 0.4708521082965301
+  },
+  {
+    "instance_id": "linode_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 0.7223260778810663,
+    "normalized_cost": 0.8291715920658714,
+    "spot_ratio": 0.3044104385328131
+  },
+  {
+    "instance_id": "linode_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.90218169180725,
+    "normalized_cost": 0.771532476607742,
+    "spot_ratio": 0.7451502890165599
+  },
+  {
+    "instance_id": "linode_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.5827822930604292,
+    "normalized_cost": 1.1051272054744832,
+    "spot_ratio": 0.7612749671809447
+  },
+  {
+    "instance_id": "linode_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.0764987751451394,
+    "normalized_cost": 0.8740245253500841,
+    "spot_ratio": 0.5571064266660183
+  },
+  {
+    "instance_id": "linode_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 2.1809889924378973,
+    "normalized_cost": 1.0350751902164035,
+    "spot_ratio": 0.6572517261643489
+  },
+  {
+    "instance_id": "linode_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 0.8320017632654786,
+    "normalized_cost": 0.7721008983576959,
+    "spot_ratio": 0.30167355363653814
+  },
+  {
+    "instance_id": "linode_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 0.8870218354894488,
+    "normalized_cost": 0.8705779581737846,
+    "spot_ratio": 0.7679000582580895
+  },
+  {
+    "instance_id": "linode_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.5143682524281943,
+    "normalized_cost": 0.8090747231749675,
+    "spot_ratio": 0.3880937993072616
+  },
+  {
+    "instance_id": "linode_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 2.227899872796586,
+    "normalized_cost": 1.0003591874272657,
+    "spot_ratio": 0.7996204415922986
+  },
+  {
+    "instance_id": "linode_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 2.0524444864421136,
+    "normalized_cost": 0.8914801585894303,
+    "spot_ratio": 0.3049829914520614
+  },
+  {
+    "instance_id": "linode_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 0.5370685421432482,
+    "normalized_cost": 1.0101713528397476,
+    "spot_ratio": 0.736404558707824
+  },
+  {
+    "instance_id": "linode_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.2523904030171888,
+    "normalized_cost": 0.7219204915039665,
+    "spot_ratio": 0.3351731459369501
+  },
+  {
+    "instance_id": "linode_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 0.744938558087028,
+    "normalized_cost": 0.7981687259352859,
+    "spot_ratio": 0.3079654376714685
+  },
+  {
+    "instance_id": "linode_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.951753595727636,
+    "normalized_cost": 1.1677851361859426,
+    "spot_ratio": 0.39739913425167295
+  }
+]

@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "https://openalex.org/W4385723923",
+    "doi": "https://doi.org/10.1002/spe.3248",
+    "title": "Energy\u2010efficiency and sustainability in new generation cloud computing: A vision and directions for integrated management of data centre resources and workloads",
+    "display_name": "Energy\u2010efficiency and sustainability in new generation cloud computing: A vision and directions for integrated management of data centre resources and workloads",
+    "relevance_score": 265.14883,
+    "publication_year": 2023,
+    "publication_date": "2023-08-10",
+    "ids": {
+      "openalex": "https://openalex.org/W4385723923",
+      "doi": "https://doi.org/10.1002/spe.3248"
+    },
+    "language": "en",
+    "primary_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/spe.3248",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.3248",
+      "source": {
+        "id": "https://openalex.org/S122199241",
+        "display_name": "Software Practice and Experience",
+        "issn_l": "0038-0644",
+        "issn": [
+          "0038-0644",
+          "1097-024X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "type": "article",
+    "type_crossref": "journal-article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.3248",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5014716105",
+          "display_name": "Rajkumar Buyya",
+          "orcid": "https://orcid.org/0000-0001-9754-6496"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165779595",
+            "display_name": "The University of Melbourne",
+            "ror": "https://ror.org/01ej9dk98",
+            "country_code": "AU",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I165779595"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rajkumar Buyya",
+        "raw_affiliation_strings": [
+          "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia",
+            "institution_ids": [
+              "https://openalex.org/I165779595"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5050418212",
+          "display_name": "Shashikant Ilager",
+          "orcid": "https://orcid.org/0000-0003-1178-6582"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165779595",
+            "display_name": "The University of Melbourne",
+            "ror": "https://ror.org/01ej9dk98",
+            "country_code": "AU",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I165779595"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Shashikant Ilager",
+        "raw_affiliation_strings": [
+          "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia",
+            "institution_ids": [
+              "https://openalex.org/I165779595"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5085179161",
+          "display_name": "Patricia Arroba",
+          "orcid": "https://orcid.org/0000-0002-0587-997X"
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165779595",
+            "display_name": "The University of Melbourne",
+            "ror": "https://ror.org/01ej9dk98",
+            "country_code": "AU",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I165779595"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I88060688",
+            "display_name": "Universidad Polit\u00e9cnica de Madrid",
+            "ror": "https://ror.org/03n6nwv02",
+            "country_code": "ES",
+            "type": "funder",
+            "lineage": [
+              "https://openalex.org/I88060688"
+            ]
+          }
+        ],
+        "countries": [
+          "AU",
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Patricia Arroba",
+        "raw_affiliation_strings": [
+          "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia",
+          "ETSI Telecomunicaci\u00f3n, CCS\u2013Center for Computational Simulation Universidad Polit\u00e9cnica de Madrid  Madrid Spain"
+        ],
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cloud Computing and Distributed Systems (CLOUDS) Lab, School of Computing and Information Systems, The University of Melbourne, Australia",
+            "institution_ids": [
+              "https://openalex.org/I165779595"
+            ]
+          },
+          {
+            "raw_affiliation_string": "ETSI Telecomunicaci\u00f3n, CCS\u2013Center for Computational Simulation Universidad Polit\u00e9cnica de Madrid  Madrid Spain",
+            "institution_ids": [
+              "https://openalex.org/I88060688"
+            ]
+          }
+        ]
+      }
+    ],
+    "institution_assertions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5014716105"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I165779595"
+    ],
+    "apc_list": {
+      "value": 4220,
+      "currency": "USD",
+      "value_usd": 4220
+    },
+    "apc_paid": {
+      "value": 4220,
+      "currency": "USD",
+      "value_usd": 4220
+    },
+    "fwci": 22.777,
+    "has_fulltext": true,
+    "fulltext_origin": "pdf",
+    "cited_by_count": 35,
+    "citation_normalized_percentile": {
+      "value": 0.899121,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "54",
+      "issue": "1",
+      "first_page": "24",
+      "last_page": "38"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10101",
+        "display_name": "Cloud Computing and Resource Management",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10273",
+        "display_name": "IoT and Edge/Fog Computing",
+        "score": 0.9991,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1705",
+          "display_name": "Computer Networks and Communications"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/carbon-footprint",
+        "display_name": "Carbon Footprint",
+        "score": 0.4974678
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C79974875",
+        "wikidata": "https://www.wikidata.org/wiki/Q483639",
+        "display_name": "Cloud computing",
+        "level": 2,
+        "score": 0.84554636
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.6023081
+      },
+      {
+        "id": "https://openalex.org/C2780165032",
+        "wikidata": "https://www.wikidata.org/wiki/Q16869822",
+        "display_name": "Energy consumption",
+        "level": 2,
+        "score": 0.5647538
+      },
+      {
+        "id": "https://openalex.org/C2780936489",
+        "wikidata": "https://www.wikidata.org/wiki/Q310667",
+        "display_name": "Carbon footprint",
+        "level": 3,
+        "score": 0.4974678
+      },
+      {
+        "id": "https://openalex.org/C2742236",
+        "wikidata": "https://www.wikidata.org/wiki/Q924713",
+        "display_name": "Efficient energy use",
+        "level": 2,
+        "score": 0.4885498
+      },
+      {
+        "id": "https://openalex.org/C85106507",
+        "wikidata": "https://www.wikidata.org/wiki/Q1188445",
+        "display_name": "Utility computing",
+        "level": 4,
+        "score": 0.47961816
+      },
+      {
+        "id": "https://openalex.org/C66204764",
+        "wikidata": "https://www.wikidata.org/wiki/Q219416",
+        "display_name": "Sustainability",
+        "level": 2,
+        "score": 0.4521629
+      },
+      {
+        "id": "https://openalex.org/C7817414",
+        "wikidata": "https://www.wikidata.org/wiki/Q1779504",
+        "display_name": "Energy management",
+        "level": 3,
+        "score": 0.4238688
+      },
+      {
+        "id": "https://openalex.org/C134560507",
+        "wikidata": "https://www.wikidata.org/wiki/Q753291",
+        "display_name": "Environmental economics",
+        "level": 1,
+        "score": 0.41501832
+      },
+      {
+        "id": "https://openalex.org/C184842701",
+        "wikidata": "https://www.wikidata.org/wiki/Q370563",
+        "display_name": "Cloud computing security",
+        "level": 3,
+        "score": 0.24258897
+      },
+      {
+        "id": "https://openalex.org/C47737302",
+        "wikidata": "https://www.wikidata.org/wiki/Q167336",
+        "display_name": "Greenhouse gas",
+        "level": 2,
+        "score": 0.19938439
+      },
+      {
+        "id": "https://openalex.org/C186370098",
+        "wikidata": "https://www.wikidata.org/wiki/Q442787",
+        "display_name": "Energy (signal processing)",
+        "level": 2,
+        "score": 0.18320596
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.1815697
+      },
+      {
+        "id": "https://openalex.org/C119599485",
+        "wikidata": "https://www.wikidata.org/wiki/Q43035",
+        "display_name": "Electrical engineering",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C111919701",
+        "wikidata": "https://www.wikidata.org/wiki/Q9135",
+        "display_name": "Operating system",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C18903297",
+        "wikidata": "https://www.wikidata.org/wiki/Q7150",
+        "display_name": "Ecology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/spe.3248",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.3248",
+        "source": {
+          "id": "https://openalex.org/S122199241",
+          "display_name": "Software Practice and Experience",
+          "issn_l": "0038-0644",
+          "issn": [
+            "0038-0644",
+            "1097-024X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true
+      },
+      {
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2303.10572",
+        "pdf_url": "http://arxiv.org/pdf/2303.10572",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [
+            "Cornell University"
+          ],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false
+      }
+    ],
+    "best_oa_location": {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/spe.3248",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.3248",
+      "source": {
+        "id": "https://openalex.org/S122199241",
+        "display_name": "Software Practice and Experience",
+        "issn_l": "0038-0644",
+        "issn": [
+          "0038-0644",
+          "1097-024X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    "sustainable_development_goals": [],
+    "grants": [
+      {
+        "funder": "https://openalex.org/F4320317579",
+        "funder_display_name": "HiPEAC Network",
+        "award_id": null
+      },
+      {
+        "funder": "https://openalex.org/F4320320974",
+        "funder_display_name": "University of Melbourne",
+        "award_id": null
+      }
+    ],
+    "datasets": [],
+    "versions": [],
+    "referenced_works_count": 25,
+    "referenced_works": [
+      "https://openalex.org/W1601546968",
+      "https://openalex.org/W2037236761",
+      "https://openalex.org/W2045287414",
+      "https://openalex.org/W2061099358",
+      "https://openalex.org/W2075863084",
+      "https://openalex.org/W2099197225",
+      "https://openalex.org/W2110374615",
+      "https://openalex.org/W2111619626",
+      "https://openalex.org/W2160680340",
+      "https://openalex.org/W2318550784",
+      "https://openalex.org/W2414620989",
+      "https://openalex.org/W2566878206",
+      "https://openalex.org/W2621115566",
+      "https://openalex.org/W2769008494",
+      "https://openalex.org/W2771936465",
+      "https://openalex.org/W2795097904",
+      "https://openalex.org/W2809992815",
+      "https://openalex.org/W2899352930",
+      "https://openalex.org/W2911686325",
+      "https://openalex.org/W2929242575",
+      "https://openalex.org/W2989730261",
+      "https://openalex.org/W3042358861",
+      "https://openalex.org/W3112578794",
+      "https://openalex.org/W3217244108",
+      "https://openalex.org/W4254578281"
+    ],
+    "related_works": [
+      "https://openalex.org/W4387461514",
+      "https://openalex.org/W3207683219",
+      "https://openalex.org/W2939976636",
+      "https://openalex.org/W2740394464",
+      "https://openalex.org/W2356819012",
+      "https://openalex.org/W2150802979",
+      "https://openalex.org/W2131139750",
+      "https://openalex.org/W2025825730",
+      "https://openalex.org/W1998527916",
+      "https://openalex.org/W179829755"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Cloud": [
+        1,
+        62,
+        85,
+        157,
+        201
+      ],
+      "computing": [
+        2,
+        27,
+        63,
+        158,
+        202
+      ],
+      "has": [
+        3,
+        64
+      ],
+      "become": [
+        4,
+        173
+      ],
+      "a": [
+        5,
+        32,
+        51,
+        66,
+        118,
+        135,
+        189,
+        240
+      ],
+      "critical": [
+        6
+      ],
+      "infrastructure": [
+        7
+      ],
+      "for": [
+        8,
+        152,
+        191,
+        194,
+        243
+      ],
+      "modern": [
+        9,
+        22
+      ],
+      "society,": [
+        10
+      ],
+      "like": [
+        11
+      ],
+      "electric": [
+        12
+      ],
+      "power": [
+        13
+      ],
+      "grids": [
+        14
+      ],
+      "and": [
+        15,
+        106,
+        140,
+        146,
+        163,
+        175,
+        209,
+        224,
+        231,
+        248,
+        257,
+        267
+      ],
+      "roads.": [
+        16
+      ],
+      "As": [
+        17
+      ],
+      "the": [
+        18,
+        21,
+        41,
+        59,
+        75,
+        112,
+        122,
+        141,
+        153,
+        161,
+        195,
+        222,
+        252
+      ],
+      "backbone": [
+        19
+      ],
+      "of": [
+        20,
+        44,
+        47,
+        54,
+        61,
+        77,
+        103,
+        111,
+        121,
+        144,
+        156,
+        166,
+        198,
+        227,
+        255
+      ],
+      "economy,": [
+        23
+      ],
+      "it": [
+        24,
+        72
+      ],
+      "offers": [
+        25
+      ],
+      "subscription\u2010based": [
+        26
+      ],
+      "services": [
+        28,
+        86
+      ],
+      "anytime,": [
+        29
+      ],
+      "anywhere,": [
+        30
+      ],
+      "on": [
+        31,
+        251
+      ],
+      "pay\u2010as\u2010you\u2010go": [
+        33
+      ],
+      "basis.": [
+        34
+      ],
+      "Its": [
+        35
+      ],
+      "use": [
+        36
+      ],
+      "is": [
+        37,
+        125
+      ],
+      "growing": [
+        38
+      ],
+      "exponentially": [
+        39
+      ],
+      "with": [
+        40
+      ],
+      "continued": [
+        42
+      ],
+      "development": [
+        43
+      ],
+      "new": [
+        45,
+        67,
+        199,
+        245
+      ],
+      "classes": [
+        46
+      ],
+      "applications": [
+        48
+      ],
+      "driven": [
+        49
+      ],
+      "by": [
+        50,
+        95
+      ],
+      "huge": [
+        52
+      ],
+      "number": [
+        53
+      ],
+      "emerging": [
+        55
+      ],
+      "networked": [
+        56
+      ],
+      "devices.": [
+        57
+      ],
+      "However,": [
+        58
+      ],
+      "success": [
+        60
+      ],
+      "created": [
+        65
+      ],
+      "global": [
+        68,
+        104
+      ],
+      "energy": [
+        69,
+        79,
+        90,
+        123,
+        169,
+        207,
+        265
+      ],
+      "challenge,": [
+        70
+      ],
+      "as": [
+        71
+      ],
+      "comes": [
+        73
+      ],
+      "at": [
+        74
+      ],
+      "cost": [
+        76
+      ],
+      "vast": [
+        78
+      ],
+      "usage.": [
+        80
+      ],
+      "Currently,": [
+        81
+      ],
+      "data": [
+        82
+      ],
+      "centres": [
+        83
+      ],
+      "hosting": [
+        84
+      ],
+      "world\u2010wide": [
+        87
+      ],
+      "consume": [
+        88,
+        101
+      ],
+      "more": [
+        89
+      ],
+      "than": [
+        91
+      ],
+      "most": [
+        92
+      ],
+      "countries.": [
+        93
+      ],
+      "Globally,": [
+        94
+      ],
+      "2025,": [
+        96
+      ],
+      "they": [
+        97,
+        171
+      ],
+      "are": [
+        98
+      ],
+      "projected": [
+        99
+      ],
+      "to": [
+        100,
+        109,
+        131,
+        159,
+        180,
+        204,
+        235
+      ],
+      "20%": [
+        102
+      ],
+      "electricity": [
+        105
+      ],
+      "emit": [
+        107
+      ],
+      "up": [
+        108
+      ],
+      "5.5%": [
+        110
+      ],
+      "world's": [
+        113
+      ],
+      "carbon": [
+        114,
+        210
+      ],
+      "emissions.": [
+        115
+      ],
+      "In": [
+        116,
+        184,
+        217
+      ],
+      "addition,": [
+        117
+      ],
+      "significant": [
+        119,
+        168
+      ],
+      "part": [
+        120
+      ],
+      "consumed": [
+        124
+      ],
+      "transformed": [
+        126
+      ],
+      "into": [
+        127
+      ],
+      "heat": [
+        128
+      ],
+      "which": [
+        129
+      ],
+      "leads": [
+        130
+      ],
+      "operational": [
+        132,
+        164
+      ],
+      "problems,": [
+        133
+      ],
+      "including": [
+        134
+      ],
+      "reduction": [
+        136
+      ],
+      "in": [
+        137,
+        148
+      ],
+      "system": [
+        138
+      ],
+      "reliability": [
+        139
+      ],
+      "life": [
+        142
+      ],
+      "expectancy": [
+        143
+      ],
+      "devices,": [
+        145
+      ],
+      "escalation": [
+        147
+      ],
+      "cooling": [
+        149
+      ],
+      "requirements.": [
+        150
+      ],
+      "Therefore,": [
+        151
+      ],
+      "future": [
+        154
+      ],
+      "generations": [
+        155
+      ],
+      "address": [
+        160,
+        236
+      ],
+      "environmental": [
+        162
+      ],
+      "consequences": [
+        165
+      ],
+      "such": [
+        167
+      ],
+      "usage,": [
+        170
+      ],
+      "must": [
+        172
+      ],
+      "energy\u2010efficient": [
+        174,
+        244
+      ],
+      "environmentally": [
+        176
+      ],
+      "sustainable": [
+        177
+      ],
+      "while": [
+        178,
+        212
+      ],
+      "continuing": [
+        179
+      ],
+      "deliver": [
+        181
+      ],
+      "high\u2010quality": [
+        182
+      ],
+      "services.": [
+        183
+      ],
+      "this": [
+        185,
+        218
+      ],
+      "article,": [
+        186,
+        219
+      ],
+      "we": [
+        187,
+        220
+      ],
+      "propose": [
+        188
+      ],
+      "vision": [
+        190
+      ],
+      "learning\u2010centric": [
+        192
+      ],
+      "approach": [
+        193
+      ],
+      "integrated": [
+        196,
+        228,
+        253
+      ],
+      "management": [
+        197,
+        230,
+        254
+      ],
+      "generation": [
+        200,
+        246
+      ],
+      "environments": [
+        203
+      ],
+      "reduce": [
+        205
+      ],
+      "their": [
+        206
+      ],
+      "consumption": [
+        208
+      ],
+      "footprint": [
+        211
+      ],
+      "delivering": [
+        213
+      ],
+      "service": [
+        214
+      ],
+      "quality": [
+        215
+      ],
+      "guarantees.": [
+        216
+      ],
+      "identify": [
+        221
+      ],
+      "dimensions": [
+        223
+      ],
+      "key": [
+        225
+      ],
+      "issues": [
+        226
+      ],
+      "resource": [
+        229
+      ],
+      "our": [
+        232
+      ],
+      "envisioned": [
+        233
+      ],
+      "approaches": [
+        234
+      ],
+      "them.": [
+        237
+      ],
+      "We": [
+        238
+      ],
+      "present": [
+        239
+      ],
+      "conceptual": [
+        241
+      ],
+      "architecture": [
+        242
+      ],
+      "Clouds": [
+        247
+      ],
+      "early": [
+        249
+      ],
+      "results": [
+        250
+      ],
+      "resources": [
+        256
+      ],
+      "workloads": [
+        258
+      ],
+      "that": [
+        259
+      ],
+      "evidence": [
+        260
+      ],
+      "its": [
+        261
+      ],
+      "potential": [
+        262
+      ],
+      "benefits": [
+        263
+      ],
+      "towards": [
+        264
+      ],
+      "efficiency": [
+        266
+      ],
+      "sustainability.": [
+        268
+      ]
+    },
+    "abstract_inverted_index_v3": null,
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4385723923",
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 22
+      }
+    ],
+    "updated_date": "2025-05-01T18:17:29.700334",
+    "created_date": "2023-08-11",
+    "relevance": 0.23076923076923078
+  },
+  {
+    "id": "https://openalex.org/W4405373428",
+    "doi": "https://doi.org/10.30574/ijsra.2024.13.2.2435",
+    "title": "Cloud data center performance optimization through machine learning-based workload forecasting and energy efficiency",
+    "display_name": "Cloud data center performance optimization through machine learning-based workload forecasting and energy efficiency",
+    "relevance_score": 98.57377,
+    "publication_year": 2024,
+    "publication_date": "2024-12-13",
+    "ids": {
+      "openalex": "https://openalex.org/W4405373428",
+      "doi": "https://doi.org/10.30574/ijsra.2024.13.2.2435"
+    },
+    "language": "en",
+    "primary_location": {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.30574/ijsra.2024.13.2.2435",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210204839",
+        "display_name": "International Journal of Science and Research Archive",
+        "issn_l": "2582-8185",
+        "issn": [
+          "2582-8185"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    },
+    "type": "article",
+    "type_crossref": "journal-article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5104428080",
+          "display_name": "Aravind Nuthalapati",
+          "orcid": null
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": true,
+        "raw_author_name": "None Aravind Nuthalapati",
+        "raw_affiliation_strings": [],
+        "affiliations": []
+      }
+    ],
+    "institution_assertions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5104428080"
+    ],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 5.225,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.999981,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 92
+    },
+    "biblio": {
+      "volume": "13",
+      "issue": "2",
+      "first_page": "2353",
+      "last_page": "2361"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "score": 0.9846,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10101",
+        "display_name": "Cloud Computing and Resource Management",
+        "score": 0.9846,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10273",
+        "display_name": "IoT and Edge/Fog Computing",
+        "score": 0.9193,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1705",
+          "display_name": "Computer Networks and Communications"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/data-center",
+        "display_name": "Data center",
+        "score": 0.7245486
+      },
+      {
+        "id": "https://openalex.org/keywords/center",
+        "display_name": "Center (category theory)",
+        "score": 0.56786525
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778476105",
+        "wikidata": "https://www.wikidata.org/wiki/Q628539",
+        "display_name": "Workload",
+        "level": 2,
+        "score": 0.7662324
+      },
+      {
+        "id": "https://openalex.org/C153740404",
+        "wikidata": "https://www.wikidata.org/wiki/Q671224",
+        "display_name": "Data center",
+        "level": 2,
+        "score": 0.7245486
+      },
+      {
+        "id": "https://openalex.org/C79974875",
+        "wikidata": "https://www.wikidata.org/wiki/Q483639",
+        "display_name": "Cloud computing",
+        "level": 2,
+        "score": 0.7195638
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.64867914
+      },
+      {
+        "id": "https://openalex.org/C2779463800",
+        "wikidata": "https://www.wikidata.org/wiki/Q5062222",
+        "display_name": "Center (category theory)",
+        "level": 2,
+        "score": 0.56786525
+      },
+      {
+        "id": "https://openalex.org/C2742236",
+        "wikidata": "https://www.wikidata.org/wiki/Q924713",
+        "display_name": "Efficient energy use",
+        "level": 2,
+        "score": 0.51267827
+      },
+      {
+        "id": "https://openalex.org/C186370098",
+        "wikidata": "https://www.wikidata.org/wiki/Q442787",
+        "display_name": "Energy (signal processing)",
+        "level": 2,
+        "score": 0.4640336
+      },
+      {
+        "id": "https://openalex.org/C13736549",
+        "wikidata": "https://www.wikidata.org/wiki/Q4489420",
+        "display_name": "Industrial engineering",
+        "level": 1,
+        "score": 0.39908573
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.35834956
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.34366006
+      },
+      {
+        "id": "https://openalex.org/C111919701",
+        "wikidata": "https://www.wikidata.org/wiki/Q9135",
+        "display_name": "Operating system",
+        "level": 1,
+        "score": 0.22089094
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.18027559
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.06179768
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C119599485",
+        "wikidata": "https://www.wikidata.org/wiki/Q43035",
+        "display_name": "Electrical engineering",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C8010536",
+        "wikidata": "https://www.wikidata.org/wiki/Q160398",
+        "display_name": "Crystallography",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.30574/ijsra.2024.13.2.2435",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210204839",
+          "display_name": "International Journal of Science and Research Archive",
+          "issn_l": "2582-8185",
+          "issn": [
+            "2582-8185"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_indexed_in_scopus": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [],
+    "grants": [],
+    "datasets": [],
+    "versions": [],
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W986318368",
+      "https://openalex.org/W4389065284",
+      "https://openalex.org/W2903994135",
+      "https://openalex.org/W2547038763",
+      "https://openalex.org/W2384410913",
+      "https://openalex.org/W2185314374",
+      "https://openalex.org/W2165967062",
+      "https://openalex.org/W2089689241",
+      "https://openalex.org/W2031586449",
+      "https://openalex.org/W2000785801"
+    ],
+    "abstract_inverted_index": {
+      "The": [
+        0,
+        161,
+        189
+      ],
+      "accelerating": [
+        1
+      ],
+      "adoption": [
+        2
+      ],
+      "of": [
+        3,
+        10,
+        85,
+        155
+      ],
+      "cloud": [
+        4,
+        13,
+        64,
+        209
+      ],
+      "models": [
+        5,
+        131,
+        198
+      ],
+      "has": [
+        6
+      ],
+      "increased": [
+        7
+      ],
+      "the": [
+        8,
+        20,
+        30,
+        73,
+        77,
+        82,
+        114,
+        140,
+        144,
+        153,
+        193
+      ],
+      "amount": [
+        9
+      ],
+      "complexity": [
+        11
+      ],
+      "in": [
+        12,
+        27,
+        76,
+        94,
+        105,
+        117,
+        147,
+        208
+      ],
+      "data": [
+        14,
+        65,
+        168,
+        210
+      ],
+      "centers": [
+        15
+      ],
+      "with": [
+        16,
+        179
+      ],
+      "particular": [
+        17
+      ],
+      "emphasis": [
+        18
+      ],
+      "on": [
+        19,
+        25,
+        113,
+        133,
+        166
+      ],
+      "energy": [
+        21,
+        56,
+        134,
+        148,
+        173
+      ],
+      "management": [
+        22
+      ],
+      "load": [
+        23
+      ],
+      "efficiency": [
+        24,
+        146
+      ],
+      "resources": [
+        26,
+        92
+      ],
+      "relation": [
+        28
+      ],
+      "to": [
+        29,
+        90,
+        119,
+        142,
+        199
+      ],
+      "workload": [
+        31,
+        51,
+        116
+      ],
+      "tris.": [
+        32
+      ],
+      "This": [
+        33
+      ],
+      "paper": [
+        34,
+        78
+      ],
+      "introduces": [
+        35
+      ],
+      "a": [
+        36,
+        68,
+        101
+      ],
+      "new": [
+        37
+      ],
+      "fully-converged": [
+        38
+      ],
+      "architectural": [
+        39
+      ],
+      "framework": [
+        40
+      ],
+      "enhanced": [
+        41
+      ],
+      "by": [
+        42,
+        151
+      ],
+      "machine": [
+        43,
+        129,
+        196
+      ],
+      "learning": [
+        44,
+        197
+      ],
+      "features": [
+        45
+      ],
+      "that": [
+        46
+      ],
+      "addresses": [
+        47
+      ],
+      "several": [
+        48
+      ],
+      "common": [
+        49
+      ],
+      "issues:": [
+        50
+      ],
+      "forecasting,": [
+        52
+      ],
+      "adaptive": [
+        53
+      ],
+      "scheduling": [
+        54,
+        121
+      ],
+      "and": [
+        55,
+        80,
+        122,
+        158,
+        175,
+        201
+      ],
+      "optimization": [
+        57,
+        97,
+        150
+      ],
+      "for": [
+        58,
+        184,
+        195
+      ],
+      "better": [
+        59,
+        172
+      ],
+      "performance": [
+        60
+      ],
+      "at": [
+        61
+      ],
+      "hyper": [
+        62
+      ],
+      "scale": [
+        63
+      ],
+      "centers.": [
+        66
+      ],
+      "Using": [
+        67
+      ],
+      "Gated": [
+        69
+      ],
+      "Recurrent": [
+        70
+      ],
+      "Unit": [
+        71
+      ],
+      "(GRU),": [
+        72
+      ],
+      "method": [
+        74,
+        104
+      ],
+      "described": [
+        75
+      ],
+      "learns": [
+        79
+      ],
+      "remembers": [
+        81
+      ],
+      "complicated": [
+        83
+      ],
+      "sequence": [
+        84
+      ],
+      "nonlinear": [
+        86
+      ],
+      "workloads,": [
+        87
+      ],
+      "enabling": [
+        88
+      ],
+      "it": [
+        89
+      ],
+      "allocate": [
+        91
+      ],
+      "appropriately": [
+        93
+      ],
+      "advance.": [
+        95
+      ],
+      "Schedule": [
+        96
+      ],
+      "is": [
+        98
+      ],
+      "achieved": [
+        99
+      ],
+      "via": [
+        100
+      ],
+      "gradient": [
+        102
+      ],
+      "boosting": [
+        103
+      ],
+      "which": [
+        106
+      ],
+      "resource": [
+        107,
+        176
+      ],
+      "managers": [
+        108
+      ],
+      "are": [
+        109,
+        137
+      ],
+      "proactively": [
+        110
+      ],
+      "chosen": [
+        111
+      ],
+      "based": [
+        112,
+        132,
+        165
+      ],
+      "expected": [
+        115
+      ],
+      "order": [
+        118
+      ],
+      "enhance": [
+        120,
+        143
+      ],
+      "reduce": [
+        123
+      ],
+      "task": [
+        124
+      ],
+      "waiting": [
+        125
+      ],
+      "times.": [
+        126
+      ],
+      "Furthermore,": [
+        127
+      ],
+      "virtual": [
+        128,
+        156
+      ],
+      "clustering": [
+        130
+      ],
+      "consumption": [
+        135
+      ],
+      "patterns": [
+        136
+      ],
+      "incorporated": [
+        138
+      ],
+      "into": [
+        139
+      ],
+      "design": [
+        141
+      ],
+      "framework's": [
+        145
+      ],
+      "usage": [
+        149
+      ],
+      "controlling": [
+        152
+      ],
+      "number": [
+        154
+      ],
+      "machines": [
+        157
+      ],
+      "their": [
+        159
+      ],
+      "migration.": [
+        160
+      ],
+      "test": [
+        162
+      ],
+      "case": [
+        163
+      ],
+      "application": [
+        164
+      ],
+      "realistic": [
+        167
+      ],
+      "center": [
+        169,
+        211
+      ],
+      "traces": [
+        170
+      ],
+      "verified": [
+        171
+      ],
+      "effectiveness": [
+        174
+      ],
+      "utilization": [
+        177
+      ],
+      "levels": [
+        178
+      ],
+      "service": [
+        180
+      ],
+      "level": [
+        181
+      ],
+      "agreement": [
+        182
+      ],
+      "compliance": [
+        183
+      ],
+      "this": [
+        185
+      ],
+      "entire": [
+        186
+      ],
+      "integrated": [
+        187
+      ],
+      "method.": [
+        188
+      ],
+      "study": [
+        190
+      ],
+      "further": [
+        191
+      ],
+      "underscores": [
+        192
+      ],
+      "opportunity": [
+        194
+      ],
+      "pinpoint": [
+        200
+      ],
+      "even": [
+        202
+      ],
+      "combine": [
+        203
+      ],
+      "distinct": [
+        204
+      ],
+      "operational": [
+        205
+      ],
+      "stresses": [
+        206
+      ],
+      "prevalent": [
+        207
+      ],
+      "environments.": [
+        212
+      ]
+    },
+    "abstract_inverted_index_v3": null,
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4405373428",
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2025-04-23T18:54:16.762348",
+    "created_date": "2024-12-14",
+    "relevance": 0.23076923076923078
+  }
+]

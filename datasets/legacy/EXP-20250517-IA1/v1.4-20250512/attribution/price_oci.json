@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "oci_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 0.6668601604457154,
+    "normalized_cost": 0.8519562928012292,
+    "spot_ratio": 0.5225353633610694
+  },
+  {
+    "instance_id": "oci_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.5560857748042727,
+    "normalized_cost": 0.7777449113257312,
+    "spot_ratio": 0.5518426313326801
+  },
+  {
+    "instance_id": "oci_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.7671677526391663,
+    "normalized_cost": 0.9941159772681374,
+    "spot_ratio": 0.7044818716450278
+  },
+  {
+    "instance_id": "oci_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 0.8417858046548743,
+    "normalized_cost": 1.0992990901448505,
+    "spot_ratio": 0.3097008247240897
+  },
+  {
+    "instance_id": "oci_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 2.3745270465842134,
+    "normalized_cost": 1.0463023378249416,
+    "spot_ratio": 0.3784596428214804
+  },
+  {
+    "instance_id": "oci_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.1527498446095208,
+    "normalized_cost": 0.8995068010473887,
+    "spot_ratio": 0.3809980193997825
+  },
+  {
+    "instance_id": "oci_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 2.1913014615120763,
+    "normalized_cost": 0.8190892626296837,
+    "spot_ratio": 0.6501822436996135
+  },
+  {
+    "instance_id": "oci_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.310619249156265,
+    "normalized_cost": 0.8289334968531756,
+    "spot_ratio": 0.6604998123241157
+  },
+  {
+    "instance_id": "oci_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.2675056592229021,
+    "normalized_cost": 0.7299282227254172,
+    "spot_ratio": 0.3540607274677234
+  },
+  {
+    "instance_id": "oci_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 2.318213758224391,
+    "normalized_cost": 0.9200087124764345,
+    "spot_ratio": 0.3566754553755473
+  },
+  {
+    "instance_id": "oci_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 0.5325999949534101,
+    "normalized_cost": 0.7380336942947845,
+    "spot_ratio": 0.5200111794747091
+  },
+  {
+    "instance_id": "oci_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 2.1738654251215337,
+    "normalized_cost": 0.8282402550029604,
+    "spot_ratio": 0.4915855841803685
+  },
+  {
+    "instance_id": "oci_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 2.3304062349199706,
+    "normalized_cost": 0.9478235132578001,
+    "spot_ratio": 0.5554454753254101
+  },
+  {
+    "instance_id": "oci_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 0.7913004265484003,
+    "normalized_cost": 0.7306020286818661,
+    "spot_ratio": 0.4739865116750042
+  },
+  {
+    "instance_id": "oci_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 1.999383451008899,
+    "normalized_cost": 0.9917805263404433,
+    "spot_ratio": 0.6068434785476473
+  },
+  {
+    "instance_id": "oci_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 2.463458820215096,
+    "normalized_cost": 1.094607515058792,
+    "spot_ratio": 0.46154559873443196
+  },
+  {
+    "instance_id": "oci_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 1.997004141949589,
+    "normalized_cost": 0.7497268936698405,
+    "spot_ratio": 0.6306092330651806
+  },
+  {
+    "instance_id": "oci_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 1.214201973707258,
+    "normalized_cost": 0.9996985857709335,
+    "spot_ratio": 0.6475012542430001
+  },
+  {
+    "instance_id": "oci_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 0.5110219802429323,
+    "normalized_cost": 0.8407727704518263,
+    "spot_ratio": 0.7771492881659834
+  },
+  {
+    "instance_id": "oci_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 0.8590297805955662,
+    "normalized_cost": 0.8099721175377705,
+    "spot_ratio": 0.5213126749853902
+  },
+  {
+    "instance_id": "oci_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "ap-south",
+    "price_usd": 1.456850078918947,
+    "normalized_cost": 1.0254316286593517,
+    "spot_ratio": 0.7859986447862388
+  },
+  {
+    "instance_id": "oci_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 0.8619553136879217,
+    "normalized_cost": 1.1368511810082702,
+    "spot_ratio": 0.4803925640002035
+  },
+  {
+    "instance_id": "oci_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.6718845290671698,
+    "normalized_cost": 0.9289544459924888,
+    "spot_ratio": 0.3856534494915427
+  },
+  {
+    "instance_id": "oci_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.4216936000799727,
+    "normalized_cost": 0.7605234907108636,
+    "spot_ratio": 0.42284129875338006
+  },
+  {
+    "instance_id": "oci_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 2.1964926325100063,
+    "normalized_cost": 0.7884642987803019,
+    "spot_ratio": 0.40099681431522943
+  },
+  {
+    "instance_id": "oci_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 1.3707074741581016,
+    "normalized_cost": 0.7175286328666091,
+    "spot_ratio": 0.5231307752499491
+  },
+  {
+    "instance_id": "oci_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.2576556715515357,
+    "normalized_cost": 1.162749790597661,
+    "spot_ratio": 0.5715698495542922
+  },
+  {
+    "instance_id": "oci_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "eu-central",
+    "price_usd": 1.3817195290868962,
+    "normalized_cost": 1.0134982649426831,
+    "spot_ratio": 0.3937045482904479
+  },
+  {
+    "instance_id": "oci_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 2.4783440310986995,
+    "normalized_cost": 1.1861177503576839,
+    "spot_ratio": 0.6747493381672405
+  },
+  {
+    "instance_id": "oci_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 1.0408980429298291,
+    "normalized_cost": 0.7981743503602049,
+    "spot_ratio": 0.6589621487058362
+  },
+  {
+    "instance_id": "oci_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.1201465422265078,
+    "normalized_cost": 1.1093719622166751,
+    "spot_ratio": 0.3420489066462218
+  },
+  {
+    "instance_id": "oci_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 2.478400771679172,
+    "normalized_cost": 0.846578920099816,
+    "spot_ratio": 0.4750147938145005
+  },
+  {
+    "instance_id": "oci_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.8865264532559338,
+    "normalized_cost": 0.7853740851008462,
+    "spot_ratio": 0.4215947528075218
+  },
+  {
+    "instance_id": "oci_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 2.196612267637426,
+    "normalized_cost": 0.91709901731329,
+    "spot_ratio": 0.3998968544161271
+  },
+  {
+    "instance_id": "oci_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.8675328000312648,
+    "normalized_cost": 1.1087739893306041,
+    "spot_ratio": 0.6968041686841415
+  },
+  {
+    "instance_id": "oci_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 1.0615381535471924,
+    "normalized_cost": 1.1937219214958938,
+    "spot_ratio": 0.4030773151539432
+  },
+  {
+    "instance_id": "oci_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 0.52120097079703,
+    "normalized_cost": 1.0139307444217773,
+    "spot_ratio": 0.5359341250310813
+  },
+  {
+    "instance_id": "oci_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.7087862455663332,
+    "normalized_cost": 0.805220736944737,
+    "spot_ratio": 0.4015068135423805
+  },
+  {
+    "instance_id": "oci_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 2.3935799749985187,
+    "normalized_cost": 1.1221263271761917,
+    "spot_ratio": 0.7317125153533288
+  },
+  {
+    "instance_id": "oci_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 2.207408212884887,
+    "normalized_cost": 0.9890126403618659,
+    "spot_ratio": 0.45523836268154255
+  },
+  {
+    "instance_id": "oci_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.8518167969372017,
+    "normalized_cost": 1.1792171521695045,
+    "spot_ratio": 0.30079775863462055
+  },
+  {
+    "instance_id": "oci_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.42317180947969,
+    "normalized_cost": 0.7529545693703756,
+    "spot_ratio": 0.6068277260378738
+  },
+  {
+    "instance_id": "oci_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.6378316293538193,
+    "normalized_cost": 0.887301202083205,
+    "spot_ratio": 0.7854547552062034
+  },
+  {
+    "instance_id": "oci_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.218714073661175,
+    "normalized_cost": 0.968804015412297,
+    "spot_ratio": 0.6948435999801974
+  },
+  {
+    "instance_id": "oci_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-west",
+    "price_usd": 0.8289179135375881,
+    "normalized_cost": 1.1327486266229565,
+    "spot_ratio": 0.34883004672328927
+  },
+  {
+    "instance_id": "oci_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.4150778063317162,
+    "normalized_cost": 0.8878832589879821,
+    "spot_ratio": 0.46049413935462047
+  },
+  {
+    "instance_id": "oci_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.7054299385030516,
+    "normalized_cost": 0.9993102237465755,
+    "spot_ratio": 0.6316417016812926
+  },
+  {
+    "instance_id": "oci_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 2.494954460537655,
+    "normalized_cost": 0.8183835133841936,
+    "spot_ratio": 0.6931107311825602
+  },
+  {
+    "instance_id": "oci_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.7645064439692613,
+    "normalized_cost": 1.0247392009230727,
+    "spot_ratio": 0.6411779513091505
+  },
+  {
+    "instance_id": "oci_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 2.110845332859208,
+    "normalized_cost": 0.8286647181714374,
+    "spot_ratio": 0.35648125310007617
+  },
+  {
+    "instance_id": "oci_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.2987729835052853,
+    "normalized_cost": 0.7987578424963044,
+    "spot_ratio": 0.5827630972727833
+  },
+  {
+    "instance_id": "oci_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 0.6939941011462427,
+    "normalized_cost": 1.1513782145531022,
+    "spot_ratio": 0.3431867604296882
+  },
+  {
+    "instance_id": "oci_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 2.132900490912399,
+    "normalized_cost": 0.8937475623554901,
+    "spot_ratio": 0.30304243426526717
+  },
+  {
+    "instance_id": "oci_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 0.6219192616209606,
+    "normalized_cost": 0.8524334944106329,
+    "spot_ratio": 0.7340128147062024
+  },
+  {
+    "instance_id": "oci_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.5570988116022124,
+    "normalized_cost": 0.8835059385653874,
+    "spot_ratio": 0.35452967425353177
+  },
+  {
+    "instance_id": "oci_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 1.249771860786573,
+    "normalized_cost": 0.8311541353999059,
+    "spot_ratio": 0.3255634011397781
+  },
+  {
+    "instance_id": "oci_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 1.6706684993446608,
+    "normalized_cost": 1.0219183526747528,
+    "spot_ratio": 0.35893234998837814
+  },
+  {
+    "instance_id": "oci_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 0.9168961808054765,
+    "normalized_cost": 0.7855080794405335,
+    "spot_ratio": 0.5993892790912807
+  },
+  {
+    "instance_id": "oci_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 1.6232633152347917,
+    "normalized_cost": 1.0948887427822234,
+    "spot_ratio": 0.31590346942761127
+  },
+  {
+    "instance_id": "oci_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.306754453576797,
+    "normalized_cost": 0.8599735309696417,
+    "spot_ratio": 0.5222494933561863
+  },
+  {
+    "instance_id": "oci_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 0.7671877081537477,
+    "normalized_cost": 0.7131894073209091,
+    "spot_ratio": 0.3383250556333951
+  },
+  {
+    "instance_id": "oci_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 2.232775848301835,
+    "normalized_cost": 0.7756314094637813,
+    "spot_ratio": 0.37606321415605887
+  },
+  {
+    "instance_id": "oci_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.5215323732680266,
+    "normalized_cost": 0.7045662907526584,
+    "spot_ratio": 0.4432904410513857
+  },
+  {
+    "instance_id": "oci_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.0686987385525115,
+    "normalized_cost": 1.1006974024361824,
+    "spot_ratio": 0.31310046221585036
+  },
+  {
+    "instance_id": "oci_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.8483212906950317,
+    "normalized_cost": 1.0508032755877772,
+    "spot_ratio": 0.7480058489991599
+  },
+  {
+    "instance_id": "oci_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 2.2259603207475953,
+    "normalized_cost": 0.8630238468625732,
+    "spot_ratio": 0.6379617431345579
+  },
+  {
+    "instance_id": "oci_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.8898254732114563,
+    "normalized_cost": 1.0196885556656787,
+    "spot_ratio": 0.34287118156490715
+  },
+  {
+    "instance_id": "oci_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 2.044590214934338,
+    "normalized_cost": 0.9766480097821089,
+    "spot_ratio": 0.6591251590200427
+  },
+  {
+    "instance_id": "oci_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.5204245588385488,
+    "normalized_cost": 0.88555259381916,
+    "spot_ratio": 0.5285489011732701
+  },
+  {
+    "instance_id": "oci_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.7100969170677192,
+    "normalized_cost": 0.9591326874421662,
+    "spot_ratio": 0.5106945185721204
+  },
+  {
+    "instance_id": "oci_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.4267790282993515,
+    "normalized_cost": 1.1245690524958778,
+    "spot_ratio": 0.7739643862838883
+  },
+  {
+    "instance_id": "oci_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.132842233314238,
+    "normalized_cost": 1.0923783260810993,
+    "spot_ratio": 0.3072124477537711
+  },
+  {
+    "instance_id": "oci_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.7591637010891632,
+    "normalized_cost": 1.1854349250062777,
+    "spot_ratio": 0.6287354426450407
+  },
+  {
+    "instance_id": "oci_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "ap-south",
+    "price_usd": 1.5807019532812785,
+    "normalized_cost": 0.8337357612903793,
+    "spot_ratio": 0.40162410681776267
+  },
+  {
+    "instance_id": "oci_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.900259311948774,
+    "normalized_cost": 1.1016302124387676,
+    "spot_ratio": 0.7780358320699683
+  }
+]

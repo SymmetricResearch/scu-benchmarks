@@ -1,0 +1,162 @@
+[
+  {
+    "job_id": "mega_math_job_0",
+    "base_cost": 1.8337746065535705,
+    "normalized_cost": 1.033454599531332,
+    "cpu_hours": 16.893866896297787,
+    "memory_gb_hours": 15.072057635352275,
+    "gpu_hours": 1.8977315806838977
+  },
+  {
+    "job_id": "mega_math_job_1",
+    "base_cost": 2.1242522567214444,
+    "normalized_cost": 0.970432006180258,
+    "cpu_hours": 9.680657679007465,
+    "memory_gb_hours": 10.730733055473006,
+    "gpu_hours": 3.0518660065612746
+  },
+  {
+    "job_id": "mega_math_job_2",
+    "base_cost": 1.650574974352649,
+    "normalized_cost": 0.9691576192731071,
+    "cpu_hours": 17.777337174478504,
+    "memory_gb_hours": 11.325995851684302,
+    "gpu_hours": 4.280734930472856
+  },
+  {
+    "job_id": "mega_math_job_3",
+    "base_cost": 3.032230504145023,
+    "normalized_cost": 0.9054671351568987,
+    "cpu_hours": 19.461268066373492,
+    "memory_gb_hours": 29.91538593871165,
+    "gpu_hours": 1.3888973519733572
+  },
+  {
+    "job_id": "mega_math_job_4",
+    "base_cost": 3.0009140588335477,
+    "normalized_cost": 0.9373819649707742,
+    "cpu_hours": 12.178918879585561,
+    "memory_gb_hours": 22.20011394438626,
+    "gpu_hours": 4.387677505041709
+  },
+  {
+    "job_id": "mega_math_job_5",
+    "base_cost": 1.9456764855281858,
+    "normalized_cost": 0.8375812131277408,
+    "cpu_hours": 8.36559188272559,
+    "memory_gb_hours": 18.948884253936967,
+    "gpu_hours": 2.646073999699869
+  },
+  {
+    "job_id": "mega_math_job_6",
+    "base_cost": 3.1188729115251457,
+    "normalized_cost": 0.8755225971212418,
+    "cpu_hours": 13.537137416241833,
+    "memory_gb_hours": 39.00347470694743,
+    "gpu_hours": 5.409347529799885
+  },
+  {
+    "job_id": "mega_math_job_7",
+    "base_cost": 1.2912760142280058,
+    "normalized_cost": 1.026091670311553,
+    "cpu_hours": 5.906368886193335,
+    "memory_gb_hours": 22.318270648713643,
+    "gpu_hours": 4.879128960043751
+  },
+  {
+    "job_id": "mega_math_job_8",
+    "base_cost": 2.6846853757790834,
+    "normalized_cost": 0.9566085902589845,
+    "cpu_hours": 19.563000050645037,
+    "memory_gb_hours": 36.94760473199402,
+    "gpu_hours": 2.5697637448547885
+  },
+  {
+    "job_id": "mega_math_job_9",
+    "base_cost": 2.8673723852919952,
+    "normalized_cost": 0.8313859118277152,
+    "cpu_hours": 5.706159404235162,
+    "memory_gb_hours": 10.417968216894739,
+    "gpu_hours": 1.5599456832093033
+  },
+  {
+    "job_id": "mega_math_job_10",
+    "base_cost": 1.8120018313531052,
+    "normalized_cost": 0.7006669331254435,
+    "cpu_hours": 11.600077958634277,
+    "memory_gb_hours": 27.802484514889713,
+    "gpu_hours": 7.6569820801382305
+  },
+  {
+    "job_id": "mega_math_job_11",
+    "base_cost": 1.627253362882876,
+    "normalized_cost": 0.7923432804402697,
+    "cpu_hours": 10.263554103948195,
+    "memory_gb_hours": 33.12532883891998,
+    "gpu_hours": 4.7838096511543835
+  },
+  {
+    "job_id": "mega_math_job_12",
+    "base_cost": 2.9167907065509775,
+    "normalized_cost": 1.1282683520492531,
+    "cpu_hours": 10.143864648197521,
+    "memory_gb_hours": 13.95194579760064,
+    "gpu_hours": 1.0192866571078563
+  },
+  {
+    "job_id": "mega_math_job_13",
+    "base_cost": 2.0875011484442494,
+    "normalized_cost": 1.102830666346764,
+    "cpu_hours": 6.661927439879052,
+    "memory_gb_hours": 23.689374194684962,
+    "gpu_hours": 1.665403492061028
+  },
+  {
+    "job_id": "mega_math_job_14",
+    "base_cost": 1.2843090147077605,
+    "normalized_cost": 0.845770553472466,
+    "cpu_hours": 11.961961808794051,
+    "memory_gb_hours": 36.47452979401251,
+    "gpu_hours": 0.6690466915297657
+  },
+  {
+    "job_id": "mega_math_job_15",
+    "base_cost": 2.3749590051596474,
+    "normalized_cost": 0.7244013862793106,
+    "cpu_hours": 11.839486106069645,
+    "memory_gb_hours": 33.74312994801797,
+    "gpu_hours": 6.180917705160644
+  },
+  {
+    "job_id": "mega_math_job_16",
+    "base_cost": 2.713313114185876,
+    "normalized_cost": 1.1954646799997557,
+    "cpu_hours": 10.995443935598976,
+    "memory_gb_hours": 27.34555643093022,
+    "gpu_hours": 2.5896576573718697
+  },
+  {
+    "job_id": "mega_math_job_17",
+    "base_cost": 2.479336327807676,
+    "normalized_cost": 0.6966302218632202,
+    "cpu_hours": 16.205659853089248,
+    "memory_gb_hours": 20.866953602974295,
+    "gpu_hours": 7.244961059202072
+  },
+  {
+    "job_id": "mega_math_job_18",
+    "base_cost": 1.6152844638224313,
+    "normalized_cost": 0.6086427292855162,
+    "cpu_hours": 9.581348782314542,
+    "memory_gb_hours": 26.547815308013142,
+    "gpu_hours": 1.2356637936185884
+  },
+  {
+    "job_id": "mega_math_job_19",
+    "base_cost": 1.8132171056524844,
+    "normalized_cost": 0.6198906643020365,
+    "cpu_hours": 9.367203742128327,
+    "memory_gb_hours": 22.193359767720658,
+    "gpu_hours": 5.661859674427888
+  }
+]

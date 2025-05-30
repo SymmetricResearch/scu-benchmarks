@@ -1,0 +1,35 @@
+{
+  "experiment_id": "EXP-20250517-IA1",
+  "phase": 1,
+  "sample_fraction": 0.05,
+  "start_time": "2025-05-11T08:05:58.264287",
+  "config_file": "configs/exp_20250517_ia1.yml",
+  "results": {
+    "alibaba_gpu2020": {
+      "jobs_count": 1,
+      "vram_filter_stats": {
+        "original_count": 3,
+        "filtered_count": 1,
+        "dropped_count": 2,
+        "dropped_pct": 66.66666666666667
+      },
+      "attribution_count": 1,
+      "interactions_count": 0,
+      "pricing_count": 0
+    },
+    "alibaba_gpu2025": {
+      "jobs_count": 4,
+      "vram_filter_stats": {
+        "original_count": 6,
+        "filtered_count": 4,
+        "dropped_count": 2,
+        "dropped_pct": 33.333333333333336
+      },
+      "attribution_count": 4,
+      "interactions_count": 6,
+      "pricing_count": 0
+    }
+  },
+  "end_time": "2025-05-11T08:05:58.267477",
+  "runtime_seconds": 0.0031919479370117188
+}

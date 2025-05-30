@@ -1,0 +1,602 @@
+[
+  {
+    "instance_id": "aws_instance_0",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.3560933444029402,
+    "normalized_cost": 0.8620774441604802,
+    "spot_ratio": 0.3193254644685884
+  },
+  {
+    "instance_id": "aws_instance_1",
+    "instance_type": "instance_type_1",
+    "region": "eu-central",
+    "price_usd": 1.4072542723948482,
+    "normalized_cost": 1.0551095214551176,
+    "spot_ratio": 0.7736440153850899
+  },
+  {
+    "instance_id": "aws_instance_2",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.850342624725319,
+    "normalized_cost": 0.8845015059069619,
+    "spot_ratio": 0.3356490091036027
+  },
+  {
+    "instance_id": "aws_instance_3",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 0.6065143229347367,
+    "normalized_cost": 1.1879273476079382,
+    "spot_ratio": 0.6658303426186984
+  },
+  {
+    "instance_id": "aws_instance_4",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.9165998561156075,
+    "normalized_cost": 0.7478155423575524,
+    "spot_ratio": 0.3996952460662644
+  },
+  {
+    "instance_id": "aws_instance_5",
+    "instance_type": "instance_type_5",
+    "region": "us-west",
+    "price_usd": 0.8638722313737033,
+    "normalized_cost": 1.0642129829603058,
+    "spot_ratio": 0.32406555709074775
+  },
+  {
+    "instance_id": "aws_instance_6",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 1.8771759781343427,
+    "normalized_cost": 0.963318643986844,
+    "spot_ratio": 0.39661148600862633
+  },
+  {
+    "instance_id": "aws_instance_7",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.5340378064466078,
+    "normalized_cost": 0.7383124319901967,
+    "spot_ratio": 0.39692504722504907
+  },
+  {
+    "instance_id": "aws_instance_8",
+    "instance_type": "instance_type_8",
+    "region": "ap-south",
+    "price_usd": 0.5533320654694751,
+    "normalized_cost": 1.0842242843418621,
+    "spot_ratio": 0.6630528658570854
+  },
+  {
+    "instance_id": "aws_instance_9",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 0.9684765902712853,
+    "normalized_cost": 1.045696597838321,
+    "spot_ratio": 0.4355697205618329
+  },
+  {
+    "instance_id": "aws_instance_10",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 0.6905976027876428,
+    "normalized_cost": 1.1852310833402515,
+    "spot_ratio": 0.7843904869051022
+  },
+  {
+    "instance_id": "aws_instance_11",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.5771596659038167,
+    "normalized_cost": 0.8807764893224894,
+    "spot_ratio": 0.5489393196221415
+  },
+  {
+    "instance_id": "aws_instance_12",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 0.6356340649502352,
+    "normalized_cost": 0.8179732380795228,
+    "spot_ratio": 0.7286979718067885
+  },
+  {
+    "instance_id": "aws_instance_13",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 1.1851039259799905,
+    "normalized_cost": 0.8150729649381147,
+    "spot_ratio": 0.42585225109151015
+  },
+  {
+    "instance_id": "aws_instance_14",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.4462256528683417,
+    "normalized_cost": 0.7818063527381847,
+    "spot_ratio": 0.3319502369271169
+  },
+  {
+    "instance_id": "aws_instance_15",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 0.9944661656198475,
+    "normalized_cost": 0.8417875267600091,
+    "spot_ratio": 0.43889855028555685
+  },
+  {
+    "instance_id": "aws_instance_16",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 2.30557999341588,
+    "normalized_cost": 0.8602556360286895,
+    "spot_ratio": 0.799835319576751
+  },
+  {
+    "instance_id": "aws_instance_17",
+    "instance_type": "instance_type_7",
+    "region": "ap-south",
+    "price_usd": 2.0728984901041363,
+    "normalized_cost": 1.181682946804045,
+    "spot_ratio": 0.7956802951774308
+  },
+  {
+    "instance_id": "aws_instance_18",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 1.5066669231749668,
+    "normalized_cost": 1.0697328451662897,
+    "spot_ratio": 0.4903884476422873
+  },
+  {
+    "instance_id": "aws_instance_19",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 1.564239232391026,
+    "normalized_cost": 1.0427880161463583,
+    "spot_ratio": 0.43993780277139644
+  },
+  {
+    "instance_id": "aws_instance_20",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 0.6943760055301524,
+    "normalized_cost": 1.1639651446856076,
+    "spot_ratio": 0.4574379405568164
+  },
+  {
+    "instance_id": "aws_instance_21",
+    "instance_type": "instance_type_1",
+    "region": "us-east",
+    "price_usd": 2.3871684656335077,
+    "normalized_cost": 0.9059781983826078,
+    "spot_ratio": 0.4102899384927092
+  },
+  {
+    "instance_id": "aws_instance_22",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 0.6411240178378068,
+    "normalized_cost": 1.179848393586354,
+    "spot_ratio": 0.44122452910659826
+  },
+  {
+    "instance_id": "aws_instance_23",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 1.6341326397279459,
+    "normalized_cost": 1.1521496278295675,
+    "spot_ratio": 0.7425431319429538
+  },
+  {
+    "instance_id": "aws_instance_24",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 1.3892962378359768,
+    "normalized_cost": 1.0692205268152828,
+    "spot_ratio": 0.7905321119282883
+  },
+  {
+    "instance_id": "aws_instance_25",
+    "instance_type": "instance_type_5",
+    "region": "us-east",
+    "price_usd": 1.536019666431073,
+    "normalized_cost": 1.0042333555672456,
+    "spot_ratio": 0.6810254787297348
+  },
+  {
+    "instance_id": "aws_instance_26",
+    "instance_type": "instance_type_6",
+    "region": "us-east",
+    "price_usd": 0.504322491934938,
+    "normalized_cost": 1.128932120516346,
+    "spot_ratio": 0.6318238116279571
+  },
+  {
+    "instance_id": "aws_instance_27",
+    "instance_type": "instance_type_7",
+    "region": "eu-central",
+    "price_usd": 2.406310003037423,
+    "normalized_cost": 0.7640841043300524,
+    "spot_ratio": 0.7812012761130409
+  },
+  {
+    "instance_id": "aws_instance_28",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 2.3373030885069044,
+    "normalized_cost": 1.0265601919508185,
+    "spot_ratio": 0.4852952320048841
+  },
+  {
+    "instance_id": "aws_instance_29",
+    "instance_type": "instance_type_9",
+    "region": "ap-south",
+    "price_usd": 1.7749485947575747,
+    "normalized_cost": 0.9116124019882716,
+    "spot_ratio": 0.39621441600617396
+  },
+  {
+    "instance_id": "aws_instance_30",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 2.1218281941294643,
+    "normalized_cost": 0.8888874518129641,
+    "spot_ratio": 0.4338181025780573
+  },
+  {
+    "instance_id": "aws_instance_31",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 2.4627167562899923,
+    "normalized_cost": 1.0932841057374723,
+    "spot_ratio": 0.7809816706137068
+  },
+  {
+    "instance_id": "aws_instance_32",
+    "instance_type": "instance_type_2",
+    "region": "ap-south",
+    "price_usd": 1.0811421994037584,
+    "normalized_cost": 1.0830792249099679,
+    "spot_ratio": 0.6526267940081543
+  },
+  {
+    "instance_id": "aws_instance_33",
+    "instance_type": "instance_type_3",
+    "region": "eu-central",
+    "price_usd": 2.2688567027084794,
+    "normalized_cost": 0.8906148999880199,
+    "spot_ratio": 0.4431156227941648
+  },
+  {
+    "instance_id": "aws_instance_34",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.007024160921711,
+    "normalized_cost": 0.7005229610963406,
+    "spot_ratio": 0.614566230332836
+  },
+  {
+    "instance_id": "aws_instance_35",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 0.6442636906040267,
+    "normalized_cost": 0.8944239856582381,
+    "spot_ratio": 0.6987728810054159
+  },
+  {
+    "instance_id": "aws_instance_36",
+    "instance_type": "instance_type_6",
+    "region": "us-west",
+    "price_usd": 1.3696076310072538,
+    "normalized_cost": 0.8135666957739653,
+    "spot_ratio": 0.6709818586271079
+  },
+  {
+    "instance_id": "aws_instance_37",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 1.2660935918020995,
+    "normalized_cost": 0.9255946367919735,
+    "spot_ratio": 0.6195599944722936
+  },
+  {
+    "instance_id": "aws_instance_38",
+    "instance_type": "instance_type_8",
+    "region": "eu-central",
+    "price_usd": 1.5149132417358468,
+    "normalized_cost": 1.074516355692225,
+    "spot_ratio": 0.5843484442554497
+  },
+  {
+    "instance_id": "aws_instance_39",
+    "instance_type": "instance_type_9",
+    "region": "eu-central",
+    "price_usd": 1.8829829703731205,
+    "normalized_cost": 0.716066206576278,
+    "spot_ratio": 0.6355213742151556
+  },
+  {
+    "instance_id": "aws_instance_40",
+    "instance_type": "instance_type_0",
+    "region": "us-west",
+    "price_usd": 1.4919256527471942,
+    "normalized_cost": 0.9271406796869499,
+    "spot_ratio": 0.33297650784156657
+  },
+  {
+    "instance_id": "aws_instance_41",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 1.2450529040677614,
+    "normalized_cost": 0.7698078320286482,
+    "spot_ratio": 0.49542150767219145
+  },
+  {
+    "instance_id": "aws_instance_42",
+    "instance_type": "instance_type_2",
+    "region": "us-east",
+    "price_usd": 1.5758224574794706,
+    "normalized_cost": 1.027918998789765,
+    "spot_ratio": 0.42394238681795315
+  },
+  {
+    "instance_id": "aws_instance_43",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 2.314102122757847,
+    "normalized_cost": 0.7268474998052592,
+    "spot_ratio": 0.4092356412652415
+  },
+  {
+    "instance_id": "aws_instance_44",
+    "instance_type": "instance_type_4",
+    "region": "us-east",
+    "price_usd": 2.0216094438806387,
+    "normalized_cost": 0.8166518862893979,
+    "spot_ratio": 0.6077381823960617
+  },
+  {
+    "instance_id": "aws_instance_45",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 1.9832120590331181,
+    "normalized_cost": 1.041711285443445,
+    "spot_ratio": 0.7229194139586481
+  },
+  {
+    "instance_id": "aws_instance_46",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 0.5241251379058891,
+    "normalized_cost": 1.0696894469069573,
+    "spot_ratio": 0.5505275699464409
+  },
+  {
+    "instance_id": "aws_instance_47",
+    "instance_type": "instance_type_7",
+    "region": "us-west",
+    "price_usd": 1.9974731215830666,
+    "normalized_cost": 1.0908853387424895,
+    "spot_ratio": 0.36238253513734836
+  },
+  {
+    "instance_id": "aws_instance_48",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.4260527257722,
+    "normalized_cost": 1.052448939596148,
+    "spot_ratio": 0.6175142418939628
+  },
+  {
+    "instance_id": "aws_instance_49",
+    "instance_type": "instance_type_9",
+    "region": "us-west",
+    "price_usd": 2.002877235588867,
+    "normalized_cost": 0.8845715974969457,
+    "spot_ratio": 0.5549211653686481
+  },
+  {
+    "instance_id": "aws_instance_50",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 1.3899699687893472,
+    "normalized_cost": 0.8943270833715891,
+    "spot_ratio": 0.4360726002962302
+  },
+  {
+    "instance_id": "aws_instance_51",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 2.2652897868653996,
+    "normalized_cost": 1.0255813802812748,
+    "spot_ratio": 0.7215947383512125
+  },
+  {
+    "instance_id": "aws_instance_52",
+    "instance_type": "instance_type_2",
+    "region": "us-west",
+    "price_usd": 0.9435958153868085,
+    "normalized_cost": 1.0544249843173275,
+    "spot_ratio": 0.7038976328539397
+  },
+  {
+    "instance_id": "aws_instance_53",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 2.426795100370919,
+    "normalized_cost": 1.0900231305330694,
+    "spot_ratio": 0.767879747643524
+  },
+  {
+    "instance_id": "aws_instance_54",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 1.0184163817048422,
+    "normalized_cost": 0.7833095225995148,
+    "spot_ratio": 0.4932187670926126
+  },
+  {
+    "instance_id": "aws_instance_55",
+    "instance_type": "instance_type_5",
+    "region": "ap-south",
+    "price_usd": 0.789986405041746,
+    "normalized_cost": 1.028994584537987,
+    "spot_ratio": 0.4273310467826742
+  },
+  {
+    "instance_id": "aws_instance_56",
+    "instance_type": "instance_type_6",
+    "region": "ap-south",
+    "price_usd": 0.746621223162879,
+    "normalized_cost": 1.1663549685646433,
+    "spot_ratio": 0.7071749997196812
+  },
+  {
+    "instance_id": "aws_instance_57",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.8910674394938602,
+    "normalized_cost": 1.1572650007834286,
+    "spot_ratio": 0.6576159470876564
+  },
+  {
+    "instance_id": "aws_instance_58",
+    "instance_type": "instance_type_8",
+    "region": "us-east",
+    "price_usd": 0.8690444537801427,
+    "normalized_cost": 0.9466620011001936,
+    "spot_ratio": 0.4198276125387285
+  },
+  {
+    "instance_id": "aws_instance_59",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 1.4388035425341406,
+    "normalized_cost": 1.1351610037599587,
+    "spot_ratio": 0.7596941486259943
+  },
+  {
+    "instance_id": "aws_instance_60",
+    "instance_type": "instance_type_0",
+    "region": "eu-central",
+    "price_usd": 0.6363732394075707,
+    "normalized_cost": 1.159560647556665,
+    "spot_ratio": 0.5467268761459178
+  },
+  {
+    "instance_id": "aws_instance_61",
+    "instance_type": "instance_type_1",
+    "region": "ap-south",
+    "price_usd": 1.4338675422450364,
+    "normalized_cost": 1.1671758361408353,
+    "spot_ratio": 0.39098808471963875
+  },
+  {
+    "instance_id": "aws_instance_62",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 0.5209020708433629,
+    "normalized_cost": 1.0679388859811443,
+    "spot_ratio": 0.5744746918569624
+  },
+  {
+    "instance_id": "aws_instance_63",
+    "instance_type": "instance_type_3",
+    "region": "us-east",
+    "price_usd": 0.9311585955086006,
+    "normalized_cost": 0.7772422928003044,
+    "spot_ratio": 0.7198846492510348
+  },
+  {
+    "instance_id": "aws_instance_64",
+    "instance_type": "instance_type_4",
+    "region": "ap-south",
+    "price_usd": 0.546973915527962,
+    "normalized_cost": 0.8253225115455217,
+    "spot_ratio": 0.36877029851919413
+  },
+  {
+    "instance_id": "aws_instance_65",
+    "instance_type": "instance_type_5",
+    "region": "eu-central",
+    "price_usd": 1.1721894480612967,
+    "normalized_cost": 1.0561535281410432,
+    "spot_ratio": 0.777783213913231
+  },
+  {
+    "instance_id": "aws_instance_66",
+    "instance_type": "instance_type_6",
+    "region": "eu-central",
+    "price_usd": 1.1536023895122938,
+    "normalized_cost": 0.9132337907843031,
+    "spot_ratio": 0.5015628229645805
+  },
+  {
+    "instance_id": "aws_instance_67",
+    "instance_type": "instance_type_7",
+    "region": "us-east",
+    "price_usd": 0.8026978301056151,
+    "normalized_cost": 1.0174069842673856,
+    "spot_ratio": 0.5171299639261113
+  },
+  {
+    "instance_id": "aws_instance_68",
+    "instance_type": "instance_type_8",
+    "region": "us-west",
+    "price_usd": 1.0769836678281268,
+    "normalized_cost": 0.8977926560646159,
+    "spot_ratio": 0.5083530312890134
+  },
+  {
+    "instance_id": "aws_instance_69",
+    "instance_type": "instance_type_9",
+    "region": "us-east",
+    "price_usd": 2.2026077393828007,
+    "normalized_cost": 1.19487119361021,
+    "spot_ratio": 0.3144804429886902
+  },
+  {
+    "instance_id": "aws_instance_70",
+    "instance_type": "instance_type_0",
+    "region": "us-east",
+    "price_usd": 1.0250769401360253,
+    "normalized_cost": 1.1573253612390826,
+    "spot_ratio": 0.40285411003036214
+  },
+  {
+    "instance_id": "aws_instance_71",
+    "instance_type": "instance_type_1",
+    "region": "us-west",
+    "price_usd": 2.4508424963078244,
+    "normalized_cost": 0.8809468872894651,
+    "spot_ratio": 0.3930483157766394
+  },
+  {
+    "instance_id": "aws_instance_72",
+    "instance_type": "instance_type_2",
+    "region": "eu-central",
+    "price_usd": 1.3018537176290852,
+    "normalized_cost": 0.9282429384655533,
+    "spot_ratio": 0.44701267997827254
+  },
+  {
+    "instance_id": "aws_instance_73",
+    "instance_type": "instance_type_3",
+    "region": "us-west",
+    "price_usd": 1.9610204550186663,
+    "normalized_cost": 0.9193568960467674,
+    "spot_ratio": 0.5217979643570956
+  },
+  {
+    "instance_id": "aws_instance_74",
+    "instance_type": "instance_type_4",
+    "region": "eu-central",
+    "price_usd": 2.255247938939321,
+    "normalized_cost": 0.8989243103196438,
+    "spot_ratio": 0.41400617157074515
+  }
+]
