@@ -1,0 +1,6 @@
+# Baseline server spec – RawSCU == 1
+cpu_model: Intel Xeon E5-2699 v4
+cpu_clock_ghz: 2.2
+cores: 44
+memory_gb: 256
+kernel: "5.15.0"
