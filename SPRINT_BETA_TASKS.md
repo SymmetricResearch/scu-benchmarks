@@ -12,8 +12,8 @@
 - [ ] Integration with pipeline
 - [ ] Basic validation tests
 
-## A-4: SHA-sig util → CI publish
-- [ ] Implement *.json.sig generation
+## A-4: SHA-sig util → CI publish ✅
+- [x] Implement *.json.sig generation
 - [ ] Add signature verification
 - [ ] Set up public key distribution
 - [ ] End-to-end artifact chain
