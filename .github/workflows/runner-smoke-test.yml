@@ -1,0 +1,32 @@
+name: Runner Smoke Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  gpu-check:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 5
+    steps:
+      - name: System Info
+        run: |
+          echo "=== Runner System Info ==="
+          hostname
+          uptime
+          df -h /
+          
+      - name: GPU Detection
+        run: |
+          echo "=== GPU Detection ==="
+          nvidia-smi --query-gpu=name,driver_version,memory.total --format=csv
+          
+      - name: Docker Check
+        run: |
+          echo "=== Docker Status ==="
+          docker --version
+          docker info | grep -E "(Total Memory|CPUs|Kernel Version)"
+          
+      - name: Success
+        run: |
+          echo "✅ Runner scu-local-3080 is fully functional!"
+          echo "Ready for nightly benchmarks at 02:00 UTC"

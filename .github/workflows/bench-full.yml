@@ -1,0 +1,27 @@
+name: Nightly Full Benchmarks (Local GPU)
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 02:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  full-bench:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull benchmark containers
+        run: |
+          docker compose -f benchmarks/docker-compose.yml pull
+      - name: Run STREAM, HPCG, Mini-MLPerf
+        run: |
+          bash benchmarks/run_all.sh --full
+      - name: Sign results
+        run: |
+          ./scripts/sign_artifacts.sh results/latest
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-bench-results-${{ github.run_id }}
+          path: results/latest
