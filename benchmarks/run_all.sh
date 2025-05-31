@@ -21,14 +21,14 @@ echo "Running SCU Benchmarks (Full Mode: $FULL_MODE)"
 mkdir -p ../results/latest
 
 echo "Starting STREAM benchmark..."
-docker compose run --rm stream
+docker-compose run --rm stream
 
 echo "Starting HPCG benchmark..."
-docker compose run --rm hpcg
+docker-compose run --rm hpcg
 
 if [ "$FULL_MODE" = true ]; then
   echo "Starting Mini-MLPerf benchmark..."
-  docker compose run --rm mini-mlperf
+  docker-compose run --rm mini-mlperf
 fi
 
 echo "All benchmarks completed!"
