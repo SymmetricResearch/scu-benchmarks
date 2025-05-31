@@ -1,0 +1,8 @@
+HPCG Benchmark - Stub Implementation
+=====================================
+Problem setup time: 0.5 seconds
+Optimization phase: 30 seconds
+Testing phase: 30 seconds
+
+Final Summary:
+HPCG result is VALID with a GFLOP/s rating of: 45.2

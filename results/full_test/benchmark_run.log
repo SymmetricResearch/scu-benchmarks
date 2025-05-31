@@ -1,0 +1,79 @@
+Running SCU Benchmarks (Full Mode: true) - Direct Docker
+Starting STREAM benchmark...
+=== STREAM Benchmark Starting ===
+Timestamp: 2025-05-31T12:46:03Z
+Hardware: 32 CPU cores
+OpenMP Threads: 32
+Running STREAM benchmark...
+STREAM benchmark completed successfully
+Results written to /output/stream_results.json
+Starting HPCG benchmark...
+=== HPCG Benchmark Starting (Stub) ===
+Timestamp: 2025-05-31T12:46:33Z
+Sat May 31 12:46:33 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.133.07             Driver Version: 570.133.07     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 3080        Off |   00000000:04:00.0 Off |                  N/A |
+|  0%   35C    P8              9W /  340W |      18MiB /  10240MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+|   1  NVIDIA GeForce RTX 3080        Off |   00000000:0C:00.0  On |                  N/A |
+|  0%   47C    P8             29W /  340W |    1707MiB /  10240MiB |     20%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Running HPCG stub benchmark...
+Simulated runtime: 60s
+HPCG stub benchmark completed successfully
+Results written to /output/hpcg_results.json
+GFLOP/s rating: 90.4
+Starting Mini-MLPerf benchmark...
+=== Mini-MLPerf Benchmark Starting ===
+Timestamp: 2025-05-31T12:46:34Z
+Sat May 31 12:46:34 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.133.07             Driver Version: 570.133.07     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 3080        Off |   00000000:04:00.0 Off |                  N/A |
+|  0%   35C    P8              9W /  340W |      18MiB /  10240MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+|   1  NVIDIA GeForce RTX 3080        Off |   00000000:0C:00.0  On |                  N/A |
+|  0%   47C    P8             29W /  340W |    1707MiB /  10240MiB |     10%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+=== Mini-MLPerf NumPy Benchmark (Stub) ===
+Using device: gpu
+Matrix size: 2048x2048
+Iterations: 10
+
+Benchmark completed successfully!
+Performance: 623.20 GFLOPS
+Results written to /output/mlperf_results.json
+Mini-MLPerf benchmark completed
+All benchmarks completed!
+Results stored in ../results/latest/

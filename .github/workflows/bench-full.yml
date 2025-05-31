@@ -21,12 +21,13 @@ jobs:
           bash benchmarks/run_all_direct.sh --full
       - name: Sign results
         run: |
-          ./scripts/sign_artifacts.sh results/latest
+          ./scripts/sign_artifacts.sh auto
       - name: Generate cost report
         run: |
-          ./scripts/cost_report.sh > results/latest/cost_report.txt
+          RESULTS_DIR=$(ls -d results/*/ 2>/dev/null | sort -Vr | head -n1)
+          ./scripts/cost_report.sh > "${RESULTS_DIR}/cost_report.txt"
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: full-bench-results-${{ github.run_id }}
-          path: results/latest
+          path: results/
