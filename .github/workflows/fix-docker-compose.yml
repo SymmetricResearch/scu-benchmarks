@@ -1,0 +1,32 @@
+name: Fix Docker Compose
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-fixes:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 5
+    steps:
+      - name: Check Docker Compose Plugin
+        run: |
+          echo "=== Test Docker Compose Plugin ==="
+          docker compose version
+          
+      - name: Test Simple Compose
+        run: |
+          echo "=== Create Test Compose ==="
+          cat > test-compose.yml << 'EOF'
+          version: '3.8'
+          services:
+            test:
+              image: hello-world
+          EOF
+          
+          echo "=== Test Docker Compose Pull ==="
+          docker compose -f test-compose.yml pull
+          
+          echo "=== Test Docker Compose Run ==="
+          docker compose -f test-compose.yml run --rm test
+          
+          echo "✅ Docker Compose Plugin works!"
