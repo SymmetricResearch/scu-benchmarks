@@ -7,7 +7,7 @@ on:
 
 jobs:
   full-bench:
-    runs-on: [self-hosted, scu-local, gpu]
+    runs-on: [self-hosted, scu-ci, gpu]
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
