@@ -62,7 +62,7 @@ EOF
 
 # Sign the metadata file with Ed25519
 echo "🖊️  Signing with Ed25519..."
-openssl pkeyutl -sign -inkey "$PRIVATE_KEY" -in "$METADATA_FILE" -out "$RESULTS_DIR/signature.ed25519"
+ssh-keygen -Y sign -f "$PRIVATE_KEY" -n file - < "$METADATA_FILE" > "$RESULTS_DIR/signature.ed25519"
 
 # Create human-readable signature info
 SIGNATURE_INFO="$RESULTS_DIR/signature_info.txt"

@@ -48,7 +48,7 @@ fi
 
 # Verify the Ed25519 signature
 echo "🔐 Verifying Ed25519 signature..."
-if openssl pkeyutl -verify -pubin -inkey "$PUBLIC_KEY" -in "$RESULTS_DIR/signature_metadata.txt" -sigfile "$RESULTS_DIR/signature.ed25519" &> /dev/null; then
+if ssh-keygen -Y verify -f "$PUBLIC_KEY" -n file -s "$RESULTS_DIR/signature.ed25519" -I file < "$RESULTS_DIR/signature_metadata.txt"
     echo "✅ Ed25519 signature verification: PASSED"
     SIGNATURE_VALID=true
 else
