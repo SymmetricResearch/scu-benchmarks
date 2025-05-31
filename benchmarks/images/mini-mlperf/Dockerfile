@@ -10,9 +10,10 @@ RUN apt-get update && apt-get install -y \
 # Install minimal Python packages
 RUN pip3 install numpy
 
-# Create a simple ML benchmark
+# Create enhanced ML benchmark suite  
 WORKDIR /app
 COPY mini_mlperf.py /app/
+COPY enhanced_mlperf.py /app/
 COPY run_mlperf.sh /run_mlperf.sh
 RUN chmod +x /run_mlperf.sh
 
