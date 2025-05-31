@@ -1,0 +1,17 @@
+# Historic config from scu-research repo
+# This is a placeholder for final_iteration_v1.0.yml
+# Original file was not found at the expected URL
+
+experiment:
+  name: "final_iteration_v1.0"
+  version: "1.0"
+  description: "Historic final iteration configuration migrated from legacy repo"
+  
+benchmarks:
+  - hpcg
+  - stream
+  - mini_mlperf
+  
+parameters:
+  # TODO: restore original parameters from scu-research repo
+  placeholder: true
