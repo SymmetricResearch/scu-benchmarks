@@ -22,24 +22,22 @@ mkdir -p ../results/latest
 
 echo "Starting STREAM benchmark..."
 docker run --rm \
-  -v "$(pwd)/../results:/results" \
+  -v "$(pwd)/../results:/output" \
   ghcr.io/symmetricresearch/scu-stream:latest || \
   echo "⚠️ STREAM benchmark failed or container not available"
 
 echo "Starting HPCG benchmark..."
 docker run --rm \
-  --runtime=nvidia \
-  -e NVIDIA_VISIBLE_DEVICES=all \
-  -v "$(pwd)/../results:/results" \
+  --gpus all \
+  -v "$(pwd)/../results:/output" \
   ghcr.io/symmetricresearch/scu-hpcg:latest || \
   echo "⚠️ HPCG benchmark failed or container not available"
 
 if [ "$FULL_MODE" = true ]; then
   echo "Starting Mini-MLPerf benchmark..."
   docker run --rm \
-    --runtime=nvidia \
-    -e NVIDIA_VISIBLE_DEVICES=all \
-    -v "$(pwd)/../results:/results" \
+    --gpus all \
+    -v "$(pwd)/../results:/output" \
     ghcr.io/symmetricresearch/scu-mini-mlperf:latest || \
     echo "⚠️ Mini-MLPerf benchmark failed or container not available"
 fi

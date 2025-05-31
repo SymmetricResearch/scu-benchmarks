@@ -4,18 +4,18 @@ services:
   stream:
     image: ghcr.io/symmetricresearch/scu-stream:latest
     build:
-      context: ./stream
+      context: ./images/stream
       dockerfile: Dockerfile
     volumes:
-      - ../results:/results
+      - ../results:/output
     
   hpcg:
     image: ghcr.io/symmetricresearch/scu-hpcg:latest
     build:
-      context: ./hpcg
+      context: ./images/hpcg
       dockerfile: Dockerfile
     volumes:
-      - ../results:/results
+      - ../results:/output
     runtime: nvidia
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
@@ -23,10 +23,10 @@ services:
   mini-mlperf:
     image: ghcr.io/symmetricresearch/scu-mini-mlperf:latest
     build:
-      context: ./mini-mlperf
+      context: ./images/mini-mlperf
       dockerfile: Dockerfile
     volumes:
-      - ../results:/results
+      - ../results:/output
     runtime: nvidia
     environment:
       - NVIDIA_VISIBLE_DEVICES=all

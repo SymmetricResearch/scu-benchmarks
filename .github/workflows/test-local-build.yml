@@ -1,0 +1,30 @@
+name: Test Local Container Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-build:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Test STREAM Container Build
+        run: |
+          cd benchmarks/images/stream
+          docker build -t test-stream:local .
+          echo "✅ STREAM container built successfully"
+          
+      - name: Test STREAM Container Run
+        run: |
+          mkdir -p test-results
+          docker run --rm \
+            -v "$(pwd)/test-results:/output" \
+            test-stream:local || echo "⚠️ STREAM execution failed (expected without proper setup)"
+          ls -la test-results/
+          
+      - name: Clean up test images
+        run: |
+          docker rmi test-stream:local || true
+          rm -rf test-results

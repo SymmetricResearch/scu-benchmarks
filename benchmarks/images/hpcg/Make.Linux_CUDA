@@ -1,0 +1,36 @@
+# HPCG Build Configuration for Linux CUDA
+SHELL        = /bin/sh
+CD           = cd
+CP           = cp
+LN_S         = ln -s -f
+MKDIR        = mkdir
+RM           = /bin/rm -f
+TOUCH        = touch
+
+ARCH         = Linux_CUDA
+
+TOPdir       = .
+SRCdir       = $(TOPdir)/src
+INCdir       = $(TOPdir)/src
+BINdir       = $(TOPdir)/bin
+
+CXX          = mpicxx
+CXXFLAGS     = $(HPCG_DEFS) -O3 -ffast-math -ftree-vectorize -ftree-vectorizer-verbose=0
+
+LINKER       = $(CXX)
+LINKFLAGS    = $(CXXFLAGS)
+
+ARCHIVER     = ar
+ARFLAGS      = r
+RANLIB       = echo
+
+HPCG_INCLUDES = -I$(INCdir) -I$(INCdir)/$(ARCH) $(MPinc) $(LAinc)
+HPCG_LIBS     = $(LAlib) $(MPlib)
+
+HPCG_DEFS     = -DHPCG_NO_MPI -DHPCG_CONTIGUOUS_ARRAYS
+
+MPinc        =
+MPlib        =
+
+LAinc        = -I/usr/local/cuda/include
+LAlib        = -L/usr/local/cuda/lib64 -lcudart -lcublas -lcusparse
