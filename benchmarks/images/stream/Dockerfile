@@ -10,7 +10,11 @@ RUN apt-get update && apt-get install -y \
 # Download and compile STREAM benchmark
 WORKDIR /app
 RUN wget -O stream.c https://raw.githubusercontent.com/jeffhammond/STREAM/master/stream.c
+# Compile standard STREAM (80M elements)
 RUN gcc -O3 -fopenmp -DSTREAM_ARRAY_SIZE=80000000 -DNTIMES=100 stream.c -o stream
+
+# Compile large-array STREAM (100M elements, ~800MB)
+RUN gcc -O3 -fopenmp -DSTREAM_ARRAY_SIZE=100000000 -DNTIMES=50 stream.c -o stream_large
 
 # Create output directory
 RUN mkdir -p /output

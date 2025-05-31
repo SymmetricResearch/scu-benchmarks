@@ -10,9 +10,13 @@ echo "Hardware: $(nproc) CPU cores"
 export OMP_NUM_THREADS=${OMP_NUM_THREADS:-$(nproc)}
 echo "OpenMP Threads: $OMP_NUM_THREADS"
 
-# Run STREAM benchmark
-echo "Running STREAM benchmark..."
+# Run standard STREAM benchmark
+echo "Running standard STREAM benchmark..."
 ./stream > /output/stream_$(date +%Y%m%d_%H%M%S).log 2>&1
+
+# Run large-array STREAM benchmark
+echo "Running large-array STREAM benchmark..."
+./stream_large > /output/stream_large_$(date +%Y%m%d_%H%M%S).log 2>&1
 
 # Extract results to JSON
 TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
@@ -26,13 +30,20 @@ cat > /output/stream_results.json << EOF
     "threads": $OMP_NUM_THREADS
   },
   "results": {
-    "copy_rate_mb_s": $(grep "Copy:" /output/stream_*.log | awk '{print $2}' || echo "0"),
-    "scale_rate_mb_s": $(grep "Scale:" /output/stream_*.log | awk '{print $2}' || echo "0"),
-    "add_rate_mb_s": $(grep "Add:" /output/stream_*.log | awk '{print $2}' || echo "0"),
-    "triad_rate_mb_s": $(grep "Triad:" /output/stream_*.log | awk '{print $2}' || echo "0")
+    "copy_rate_mb_s": $(grep "Copy:" /output/stream_[0-9]*.log | awk '{print $2}' | head -1 || echo "0"),
+    "scale_rate_mb_s": $(grep "Scale:" /output/stream_[0-9]*.log | awk '{print $2}' | head -1 || echo "0"),
+    "add_rate_mb_s": $(grep "Add:" /output/stream_[0-9]*.log | awk '{print $2}' | head -1 || echo "0"),
+    "triad_rate_mb_s": $(grep "Triad:" /output/stream_[0-9]*.log | awk '{print $2}' | head -1 || echo "0")
+  },
+  "large_array_results": {
+    "copy_rate_mb_s": $(grep "Copy:" /output/stream_large_*.log | awk '{print $2}' | head -1 || echo "0"),
+    "scale_rate_mb_s": $(grep "Scale:" /output/stream_large_*.log | awk '{print $2}' | head -1 || echo "0"),
+    "add_rate_mb_s": $(grep "Add:" /output/stream_large_*.log | awk '{print $2}' | head -1 || echo "0"),
+    "triad_rate_mb_s": $(grep "Triad:" /output/stream_large_*.log | awk '{print $2}' | head -1 || echo "0")
   },
   "scu_metrics": {
-    "memory_bandwidth_score": $(grep "Triad:" /output/stream_*.log | awk '{print $2}' || echo "0")
+    "memory_bandwidth_score": $(grep "Triad:" /output/stream_[0-9]*.log | awk '{print $2}' | head -1 || echo "0"),
+    "large_array_bandwidth_score": $(grep "Triad:" /output/stream_large_*.log | awk '{print $2}' | head -1 || echo "0")
   }
 }
 EOF

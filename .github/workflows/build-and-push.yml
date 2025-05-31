@@ -14,31 +14,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Login to GitHub Container Registry
-        run: |
-          echo ${{ secrets.GITHUB_TOKEN }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
-      
-      - name: Build and Push STREAM
+      - name: Build STREAM (verification only)
         run: |
           cd benchmarks/images/stream
-          docker build -t ghcr.io/symmetricresearch/scu-stream:latest .
-          docker push ghcr.io/symmetricresearch/scu-stream:latest
+          docker build -t scu-stream:test .
+          echo "✅ STREAM container builds successfully with large-array support"
           
-      - name: Build and Push HPCG
+      - name: Build HPCG (verification only)
         run: |
           cd benchmarks/images/hpcg
-          docker build -t ghcr.io/symmetricresearch/scu-hpcg:latest .
-          docker push ghcr.io/symmetricresearch/scu-hpcg:latest
+          docker build -t scu-hpcg:test .
+          echo "✅ HPCG container builds successfully"
           
-      - name: Build and Push Mini-MLPerf
+      - name: Build Mini-MLPerf (verification only)
         run: |
           cd benchmarks/images/mini-mlperf
-          docker build -t ghcr.io/symmetricresearch/scu-mini-mlperf:latest .
-          docker push ghcr.io/symmetricresearch/scu-mini-mlperf:latest
+          docker build -t scu-mini-mlperf:test .
+          echo "✅ Mini-MLPerf container builds successfully"
           
-      - name: Update image tags
+      - name: Verify builds completed
         run: |
-          echo "Images pushed to GHCR:"
-          echo "- ghcr.io/symmetricresearch/scu-stream:latest"
-          echo "- ghcr.io/symmetricresearch/scu-hpcg:latest" 
-          echo "- ghcr.io/symmetricresearch/scu-mini-mlperf:latest"
+          echo "All container builds verified successfully:"
+          echo "- STREAM (with large-array support)"
+          echo "- HPCG" 
+          echo "- Mini-MLPerf"
