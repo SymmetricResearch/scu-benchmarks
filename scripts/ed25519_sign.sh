@@ -30,12 +30,11 @@ if [[ ! -f "$PRIVATE_KEY" ]]; then
     echo "🔑 Generating Ed25519 key pair..."
     mkdir -p "$(dirname "$PRIVATE_KEY")"
     
-    # Generate private key
-    openssl genpkey -algorithm Ed25519 -out "$PRIVATE_KEY"
+    # Generate SSH Ed25519 key pair
+    ssh-keygen -t ed25519 -f "$PRIVATE_KEY" -N "" -C "SCU-benchmark-signing"
     
-    # Generate public key
-    PUBLIC_KEY="${PRIVATE_KEY%.key}.pub"
-    openssl pkey -in "$PRIVATE_KEY" -pubout -out "$PUBLIC_KEY"
+    # Public key is automatically created as .pub
+    PUBLIC_KEY="${PRIVATE_KEY}.pub"
     
     echo "✅ Key pair generated:"
     echo "   Private: $PRIVATE_KEY"
@@ -72,10 +71,10 @@ SCU Benchmark Ed25519 Signature
 
 Signature Algorithm: Ed25519
 Signed: $(date -u +%Y-%m-%dT%H:%M:%SZ)
-Public Key Fingerprint: $(openssl pkey -in "$PRIVATE_KEY" -pubout | openssl dgst -sha256 | cut -d' ' -f2)
+Public Key Fingerprint: $(ssh-keygen -lf "${PRIVATE_KEY}.pub" | cut -d' ' -f2)
 
 Verification Command:
-openssl pkeyutl -verify -pubin -inkey [public_key.pub] -in signature_metadata.txt -sigfile signature.ed25519
+ssh-keygen -Y verify -f [public_key.pub] -n file -s signature.ed25519 -I file < signature_metadata.txt
 
 Files included in manifest: $(wc -l < "$RESULTS_DIR/manifest.sha256") files
 Total manifest checksum: $(sha256sum "$RESULTS_DIR/manifest.sha256" | cut -d' ' -f1)

@@ -94,7 +94,7 @@ cat "$RESULTS_DIR/signature_metadata.txt" | grep -E "(Generated|Signer|Hardware|
 echo ""
 echo "🔑 Public Key Info:"
 echo "=================="
-echo "Fingerprint: $(openssl pkey -pubin -in "$PUBLIC_KEY" | openssl dgst -sha256 | cut -d' ' -f2)"
+echo "Fingerprint: $(ssh-keygen -lf "$PUBLIC_KEY" | cut -d' ' -f2)"
 echo "Key file: $PUBLIC_KEY"
 
 # Final verification result
