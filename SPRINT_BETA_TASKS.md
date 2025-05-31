@@ -12,11 +12,13 @@
 - [ ] Integration with pipeline
 - [ ] Basic validation tests
 
-## A-4: SHA-sig util → CI publish ✅
+## A-4: SHA-sig util → CI publish ✅ 
 - [x] Implement *.json.sig generation
-- [ ] Add signature verification
-- [ ] Set up public key distribution
-- [ ] End-to-end artifact chain
+- [x] Auto-detect results directory for signing
+- [x] Integration with nightly workflow
+- [ ] Add signature verification (E-5)
+- [ ] Set up public key distribution (E-5)
+- [ ] End-to-end artifact chain (E-5)
 
 Sprint window: 10 working days
 Target: Nightly runs + signed artifacts
