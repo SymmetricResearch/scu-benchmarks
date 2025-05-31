@@ -5,7 +5,7 @@
 set -euo pipefail
 
 RESULTS_DIR=${1:-}
-PRIVATE_KEY=${2:-~/.scu/ed25519_private.key}
+PRIVATE_KEY=${2:-~/.scu/ed25519_private}
 
 # Auto-detect latest results directory if not specified
 if [[ -z "$RESULTS_DIR" || "$RESULTS_DIR" == "auto" ]]; then
