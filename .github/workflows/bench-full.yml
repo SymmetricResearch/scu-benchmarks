@@ -13,13 +13,18 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pull benchmark containers
         run: |
-          docker-compose -f benchmarks/docker-compose.yml pull
+          docker pull ghcr.io/symmetricresearch/scu-stream:latest || true
+          docker pull ghcr.io/symmetricresearch/scu-hpcg:latest || true
+          docker pull ghcr.io/symmetricresearch/scu-mini-mlperf:latest || true
       - name: Run STREAM, HPCG, Mini-MLPerf
         run: |
-          bash benchmarks/run_all.sh --full
+          bash benchmarks/run_all_direct.sh --full
       - name: Sign results
         run: |
           ./scripts/sign_artifacts.sh results/latest
+      - name: Generate cost report
+        run: |
+          ./scripts/cost_report.sh > results/latest/cost_report.txt
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
