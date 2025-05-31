@@ -16,9 +16,15 @@ jobs:
           cd benchmarks/images/stream && docker build -t scu-stream:latest .
           cd ../hpcg && docker build -t scu-hpcg:latest .
           cd ../mini-mlperf && docker build -t scu-mini-mlperf:latest .
+      - name: Collect pre-benchmark GPU stats
+        run: |
+          ./scripts/collect_gpu_stats.sh gpu_stats_pre.csv
       - name: Run STREAM, HPCG, Mini-MLPerf
         run: |
           bash benchmarks/run_all_direct.sh --full
+      - name: Collect post-benchmark GPU stats
+        run: |
+          ./scripts/collect_gpu_stats.sh gpu_stats_post.csv
       - name: Sign results (SHA256 + Ed25519)
         run: |
           ./scripts/sign_artifacts.sh auto
@@ -27,6 +33,10 @@ jobs:
         run: |
           RESULTS_DIR=$(ls -d results/*/ 2>/dev/null | sort -Vr | head -n1)
           ./scripts/cost_report.sh > "${RESULTS_DIR}/cost_report.txt"
+      - name: Consolidate GPU telemetry
+        run: |
+          RESULTS_DIR=$(ls -d results/*/ 2>/dev/null | sort -Vr | head -n1)
+          cp gpu_stats_*.csv gpu_stats_*.json "${RESULTS_DIR}/" 2>/dev/null || true
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
