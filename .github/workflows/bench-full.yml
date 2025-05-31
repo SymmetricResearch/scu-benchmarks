@@ -19,9 +19,10 @@ jobs:
       - name: Run STREAM, HPCG, Mini-MLPerf
         run: |
           bash benchmarks/run_all_direct.sh --full
-      - name: Sign results
+      - name: Sign results (SHA256 + Ed25519)
         run: |
           ./scripts/sign_artifacts.sh auto
+          ./scripts/ed25519_sign.sh auto
       - name: Generate cost report
         run: |
           RESULTS_DIR=$(ls -d results/*/ 2>/dev/null | sort -Vr | head -n1)
