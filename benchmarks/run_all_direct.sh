@@ -23,14 +23,14 @@ mkdir -p ../results/latest
 echo "Starting STREAM benchmark..."
 docker run --rm \
   -v "$(pwd)/../results:/output" \
-  ghcr.io/symmetricresearch/scu-stream:latest || \
+  scu-stream:latest || \
   echo "⚠️ STREAM benchmark failed or container not available"
 
 echo "Starting HPCG benchmark..."
 docker run --rm \
   --gpus all \
   -v "$(pwd)/../results:/output" \
-  ghcr.io/symmetricresearch/scu-hpcg:latest || \
+  scu-hpcg:latest || \
   echo "⚠️ HPCG benchmark failed or container not available"
 
 if [ "$FULL_MODE" = true ]; then
@@ -38,7 +38,7 @@ if [ "$FULL_MODE" = true ]; then
   docker run --rm \
     --gpus all \
     -v "$(pwd)/../results:/output" \
-    ghcr.io/symmetricresearch/scu-mini-mlperf:latest || \
+    scu-mini-mlperf:latest || \
     echo "⚠️ Mini-MLPerf benchmark failed or container not available"
 fi
 

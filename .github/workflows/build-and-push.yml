@@ -1,0 +1,44 @@
+name: Build and Push Containers
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'benchmarks/images/**'
+      - '.github/workflows/build-and-push.yml'
+
+jobs:
+  build-push:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Login to GitHub Container Registry
+        run: |
+          echo ${{ secrets.GITHUB_TOKEN }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+      
+      - name: Build and Push STREAM
+        run: |
+          cd benchmarks/images/stream
+          docker build -t ghcr.io/symmetricresearch/scu-stream:latest .
+          docker push ghcr.io/symmetricresearch/scu-stream:latest
+          
+      - name: Build and Push HPCG
+        run: |
+          cd benchmarks/images/hpcg
+          docker build -t ghcr.io/symmetricresearch/scu-hpcg:latest .
+          docker push ghcr.io/symmetricresearch/scu-hpcg:latest
+          
+      - name: Build and Push Mini-MLPerf
+        run: |
+          cd benchmarks/images/mini-mlperf
+          docker build -t ghcr.io/symmetricresearch/scu-mini-mlperf:latest .
+          docker push ghcr.io/symmetricresearch/scu-mini-mlperf:latest
+          
+      - name: Update image tags
+        run: |
+          echo "Images pushed to GHCR:"
+          echo "- ghcr.io/symmetricresearch/scu-stream:latest"
+          echo "- ghcr.io/symmetricresearch/scu-hpcg:latest" 
+          echo "- ghcr.io/symmetricresearch/scu-mini-mlperf:latest"

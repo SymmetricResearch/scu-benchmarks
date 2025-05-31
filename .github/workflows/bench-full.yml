@@ -11,11 +11,11 @@ jobs:
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
-      - name: Pull benchmark containers
+      - name: Build benchmark containers locally
         run: |
-          docker pull ghcr.io/symmetricresearch/scu-stream:latest || true
-          docker pull ghcr.io/symmetricresearch/scu-hpcg:latest || true
-          docker pull ghcr.io/symmetricresearch/scu-mini-mlperf:latest || true
+          cd benchmarks/images/stream && docker build -t scu-stream:latest .
+          cd ../hpcg && docker build -t scu-hpcg:latest .
+          cd ../mini-mlperf && docker build -t scu-mini-mlperf:latest .
       - name: Run STREAM, HPCG, Mini-MLPerf
         run: |
           bash benchmarks/run_all_direct.sh --full
