@@ -12,3 +12,5 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run HPCG (stub)
         run: echo "HPCG will run here" && exit 0
+      - name: Sign results
+        run: python tools/sign_results.py
