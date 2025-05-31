@@ -1,0 +1,14 @@
+name: Benchmark Suite
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'  # 3 AM daily
+
+jobs:
+  run-benchmarks:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run HPCG (stub)
+        run: echo "HPCG will run here" && exit 0
