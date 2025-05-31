@@ -1,4 +1,4 @@
-FROM nvidia/cuda:12.2-runtime-ubuntu22.04
+FROM ubuntu:22.04
 
 # Install basic dependencies
 RUN apt-get update && apt-get install -y \
