@@ -1,15 +1,14 @@
-FROM nvidia/cuda:12.0-devel-ubuntu22.04
+FROM nvidia/cuda:12.2-runtime-ubuntu22.04
 
-# Install Python and dependencies
+# Install Python
 RUN apt-get update && apt-get install -y \
     python3 \
     python3-pip \
-    wget \
+    bc \
     && rm -rf /var/lib/apt/lists/*
 
-# Install PyTorch and other ML dependencies
-RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-RUN pip3 install numpy tensorflow
+# Install minimal Python packages
+RUN pip3 install numpy
 
 # Create a simple ML benchmark
 WORKDIR /app

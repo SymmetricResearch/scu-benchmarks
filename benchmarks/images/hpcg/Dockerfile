@@ -1,25 +1,10 @@
-FROM nvidia/cuda:12.0-devel-ubuntu22.04
+FROM nvidia/cuda:12.2-runtime-ubuntu22.04
 
-# Install dependencies
+# Install basic dependencies
 RUN apt-get update && apt-get install -y \
-    build-essential \
-    cmake \
     wget \
-    mpich \
-    libmpich-dev \
+    bc \
     && rm -rf /var/lib/apt/lists/*
-
-# Download and build HPCG
-WORKDIR /app
-RUN wget -O hpcg-3.1.tar.gz https://github.com/hpcg-benchmark/hpcg/archive/3.1.tar.gz
-RUN tar -xzf hpcg-3.1.tar.gz
-WORKDIR /app/hpcg-3.1
-
-# Configure and build HPCG for CUDA
-COPY Make.Linux_CUDA /app/hpcg-3.1/setup/
-RUN mkdir -p build && cd build && \
-    ../configure Linux_CUDA && \
-    make
 
 # Create output directory
 RUN mkdir -p /output

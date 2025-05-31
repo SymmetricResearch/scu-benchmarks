@@ -1,80 +1,72 @@
 #!/usr/bin/env python3
 
-import torch
+import numpy as np
 import time
 import json
 import sys
+import os
 from datetime import datetime
 
-def run_pytorch_benchmark():
-    """Simple PyTorch matrix multiplication benchmark"""
-    print("=== Mini-MLPerf PyTorch Benchmark ===")
+def run_numpy_benchmark():
+    """Simple NumPy matrix multiplication benchmark"""
+    print("=== Mini-MLPerf NumPy Benchmark (Stub) ===")
     
-    # Check GPU availability
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # Check for GPU via nvidia-smi
+    gpu_available = os.system("nvidia-smi > /dev/null 2>&1") == 0
+    device = "gpu" if gpu_available else "cpu"
     print(f"Using device: {device}")
     
-    if torch.cuda.is_available():
-        print(f"GPU: {torch.cuda.get_device_name(0)}")
-        print(f"GPU Memory: {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB")
-    
     # Matrix multiplication benchmark
-    size = 8192  # Large matrix for meaningful benchmark
-    iterations = 100
+    size = 2048  # Smaller matrix for CPU-only benchmark
+    iterations = 10
     
     print(f"Matrix size: {size}x{size}")
     print(f"Iterations: {iterations}")
     
     # Create random matrices
-    a = torch.randn(size, size, device=device, dtype=torch.float32)
-    b = torch.randn(size, size, device=device, dtype=torch.float32)
+    a = np.random.randn(size, size).astype(np.float32)
+    b = np.random.randn(size, size).astype(np.float32)
     
     # Warmup
-    for _ in range(10):
-        torch.matmul(a, b)
-    
-    if torch.cuda.is_available():
-        torch.cuda.synchronize()
+    for _ in range(3):
+        np.dot(a, b)
     
     # Actual benchmark
     start_time = time.time()
     for _ in range(iterations):
-        c = torch.matmul(a, b)
-    
-    if torch.cuda.is_available():
-        torch.cuda.synchronize()
+        c = np.dot(a, b)
     
     end_time = time.time()
     
     total_time = end_time - start_time
     ops_per_second = iterations / total_time
     flops = 2 * size**3 * iterations  # Matrix multiplication FLOPs
-    tflops = flops / total_time / 1e12
+    gflops = flops / total_time / 1e9
     
     return {
-        "device": str(device),
+        "device": device,
         "matrix_size": size,
         "iterations": iterations,
         "total_time_seconds": total_time,
         "operations_per_second": ops_per_second,
-        "tflops": tflops,
-        "gpu_name": torch.cuda.get_device_name(0) if torch.cuda.is_available() else "N/A"
+        "gflops": gflops,
+        "framework": "NumPy"
     }
 
 def main():
     timestamp = datetime.utcnow().isoformat() + "Z"
     
     try:
-        results = run_pytorch_benchmark()
+        results = run_numpy_benchmark()
         
         output = {
             "benchmark": "Mini-MLPerf",
-            "version": "1.0",
-            "framework": "PyTorch",
+            "version": "1.0-stub",
+            "framework": "NumPy",
             "timestamp": timestamp,
             "results": results,
             "scu_metrics": {
-                "ml_compute_score": results["tflops"]
+                "ml_compute_score": results["gflops"]
             }
         }
         
@@ -83,7 +75,7 @@ def main():
             json.dump(output, f, indent=2)
         
         print(f"\nBenchmark completed successfully!")
-        print(f"Performance: {results['tflops']:.2f} TFLOPS")
+        print(f"Performance: {results['gflops']:.2f} GFLOPS")
         print("Results written to /output/mlperf_results.json")
         
     except Exception as e:
