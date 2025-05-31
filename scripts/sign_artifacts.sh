@@ -1,15 +1,18 @@
 #!/bin/bash
 
-set -e
+set -euo pipefail
 
-RESULTS_DIR=${1:-"results/latest"}
+RESULTS_DIR=${1:-}
+if [[ -z "$RESULTS_DIR" || "$RESULTS_DIR" == "auto" ]]; then
+  RESULTS_DIR=$(ls -d results/*/ 2>/dev/null | sort -Vr | head -n1)
+fi
 
-echo "Signing artifacts in $RESULTS_DIR"
-
-if [ ! -d "$RESULTS_DIR" ]; then
-  echo "Results directory $RESULTS_DIR does not exist"
+if [[ -z "$RESULTS_DIR" || ! -d "$RESULTS_DIR" ]]; then
+  echo "❌  No results directory found – aborting signing"
   exit 1
 fi
+
+echo "🔏  Signing artifacts in $RESULTS_DIR"
 
 # Create a manifest of all files
 find "$RESULTS_DIR" -type f -exec sha256sum {} \; > "$RESULTS_DIR/manifest.sha256"

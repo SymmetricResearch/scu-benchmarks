@@ -1,0 +1,18 @@
+{
+  "benchmark": "Mini-MLPerf",
+  "version": "1.0-stub",
+  "framework": "NumPy",
+  "timestamp": "2025-05-31T12:47:43.314687Z",
+  "results": {
+    "device": "gpu",
+    "matrix_size": 2048,
+    "iterations": 10,
+    "total_time_seconds": 0.3291916847229004,
+    "operations_per_second": 30.377438021915943,
+    "gflops": 521.8804113615836,
+    "framework": "NumPy"
+  },
+  "scu_metrics": {
+    "ml_compute_score": 521.8804113615836
+  }
+}

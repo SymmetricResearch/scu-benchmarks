@@ -1,0 +1,19 @@
+{
+  "benchmark": "HPCG",
+  "version": "3.1-stub",
+  "timestamp": "2025-05-31T12:47:42Z",
+  "configuration": {
+    "problem_size": "104 104 104",
+    "runtime_seconds": 60
+  },
+  "hardware": {
+    "gpu_count": 2
+  },
+  "results": {
+    "gflops": 90.4,
+    "valid": true
+  },
+  "scu_metrics": {
+    "compute_score": 90.4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "benchmark": "STREAM",
+  "version": "5.10",
+  "timestamp": "2025-05-31T12:47:42Z",
+  "hardware": {
+    "cpu_cores": 32,
+    "threads": 32
+  },
+  "results": {
+    "copy_rate_mb_s": 21251.9
+21313.0
+21090.5,
+    "scale_rate_mb_s": 21402.8
+20902.4
+21124.9,
+    "add_rate_mb_s": 23776.5
+23803.9
+23691.1,
+    "triad_rate_mb_s": 23624.6
+23760.3
+23615.1
+  },
+  "scu_metrics": {
+    "memory_bandwidth_score": 23624.6
+23760.3
+23615.1
+  }
+}
