@@ -1,0 +1,39 @@
+name: Docker Debug
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug-docker:
+    runs-on: [self-hosted, scu-ci, gpu]
+    timeout-minutes: 5
+    steps:
+      - name: Check Docker Access
+        run: |
+          echo "=== Docker Version ==="
+          docker --version
+          
+          echo "=== Docker System Info ==="
+          docker system info
+          
+          echo "=== Docker Socket Permissions ==="
+          ls -la /var/run/docker.sock
+          
+          echo "=== Current User Groups ==="
+          groups
+          id
+          
+          echo "=== Docker-Compose Version ==="
+          docker-compose --version
+          
+      - name: Test Docker Commands
+        run: |
+          echo "=== Test Docker Run ==="
+          docker run --rm hello-world
+          
+          echo "=== Test Docker-Compose ==="
+          echo "version: '3.8'" > test-compose.yml
+          echo "services:" >> test-compose.yml
+          echo "  test:" >> test-compose.yml
+          echo "    image: hello-world" >> test-compose.yml
+          docker-compose -f test-compose.yml pull
